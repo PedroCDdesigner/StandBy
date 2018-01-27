@@ -1125,3 +1125,340 @@ LogInit: Object subsystem initialized
 [2018.01.27-20.00.46:220][595]LogSavePackage: Save=31.95ms
 [2018.01.27-20.00.46:220][595]LogSavePackage: Moving '../../../../../../Users/gd48juan/Documents/GitHub/StandBy/GGJGame/Saved/BP_UIWidgetStuff580E760B4BCFED9FD18FBF9945040E0E.tmp' to '../../../../../../Users/gd48juan/Documents/GitHub/StandBy/GGJGame/Content/FirstPersonBP/Blueprints/BP_UIWidgetStuff.uasset'
 [2018.01.27-20.00.46:222][595]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/gd48juan/Documents/GitHub/StandBy/GGJGame/Content/FirstPersonBP/Blueprints/BP_UIWidgetStuff.uasset
+[2018.01.27-22.19.55:306][176]LogTemp: Repeating last play command: Selected Viewport
+[2018.01.27-22.19.55:324][176]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2018.01.27-22.19.55:324][176]BlueprintLog: New page: Pre-Play auto-recompile
+[2018.01.27-22.19.55:335][176]LogPlayLevel: [PlayLevel] Compiling BP_UIWidgetStuff before play...
+[2018.01.27-22.19.55:465][176]LogPlayLevel: PlayLevel: Blueprint regeneration took 141 ms (1 blueprints)
+[2018.01.27-22.19.55:465][176]PIE: New page: PIE session: FirstPersonExampleMap (Jan 27, 2018, 6:19:55 AM)
+[2018.01.27-22.19.55:465][176]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2018.01.27-22.19.55:487][176]LogPlayLevel: PIE: StaticDuplicateObject took: (0.021664s)
+[2018.01.27-22.19.55:488][176]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2018.01.27-22.19.55:488][176]LogPlayLevel: PIE: World Init took: (0.000732s)
+[2018.01.27-22.19.55:488][176]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap to /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap (0.022682s)
+[2018.01.27-22.19.55:507][176]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.01.27-22.19.55:515][176]LogInit: FAudioDevice initialized.
+[2018.01.27-22.19.55:547][176]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2018.01.27-22.19.55:550][176]PIE: Warning: Invalid Simulate Options: Body (BP_CouchPhysics_342.CouchPreview 1M_Cube) is set to simulate physics but Collision Enabled is incompatible
+[2018.01.27-22.19.55:550][176]PIE: Warning: Invalid Simulate Options: Body (BP_MovingObject_162.CouchPreview 1M_Cube) is set to simulate physics but Collision Enabled is incompatible
+[2018.01.27-22.19.55:553][176]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap up for play (max tick rate 0) at 2018.01.27-14.19.55
+[2018.01.27-22.19.55:554][176]LogWorld: Bringing up level for play took: 0.005437
+[2018.01.27-22.19.55:556][176]PIE: Play in editor start time for /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap 0.678
+[2018.01.27-22.19.55:556][176]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2018.01.27-22.19.59:114][599]PIE: Warning: SecondRobot.StaticMesh Pillar_50x500 has to have 'Simulate Physics' enabled if you'd like to AddImpulseAtLocation. 
+[2018.01.27-22.19.59:731][673]PIE: Warning: SecondRobot.StaticMesh Pillar_50x500 has to have 'Simulate Physics' enabled if you'd like to AddImpulseAtLocation. 
+[2018.01.27-22.20.02:666][ 25]PIE: Warning: FirstRobot.StaticMesh Pillar_50x500 has to have 'Simulate Physics' enabled if you'd like to AddImpulseAtLocation. 
+[2018.01.27-22.20.03:066][ 73]PIE: Warning: FirstRobot.StaticMesh Pillar_50x500 has to have 'Simulate Physics' enabled if you'd like to AddImpulseAtLocation. 
+[2018.01.27-22.20.05:500][365]PIE: Warning: BP_DoorTrigger2.TriggerBox has to have 'Simulate Physics' enabled if you'd like to AddImpulseAtLocation. 
+[2018.01.27-22.20.08:459][720]PIE: Warning: BP_PlatformWithRobot_546.TriggerBox has to have 'Simulate Physics' enabled if you'd like to AddImpulseAtLocation. 
+[2018.01.27-22.20.11:426][ 76]PIE: Warning: SecondRobot.StaticMesh Pillar_50x500 has to have 'Simulate Physics' enabled if you'd like to AddImpulseAtLocation. 
+[2018.01.27-22.20.12:084][155]PIE: Warning: SecondRobot.StaticMesh Pillar_50x500 has to have 'Simulate Physics' enabled if you'd like to AddImpulseAtLocation. 
+[2018.01.27-22.20.14:264][416]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2018.01.27-22.20.14:299][416]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2018.01.27-22.20.47:087][225]LogTexture: Display: Building textures: Target1_initialShadingGroup_Emissive (AutoDXT, 1024X1024)
+[2018.01.27-22.20.47:087][225]LogTexture: Display: Building textures: Target1_initialShadingGroup_Roughness (AutoDXT, 1024X1024)
+[2018.01.27-22.20.47:087][225]LogTexture: Display: Building textures: Target1_initialShadingGroup_Metallic (AutoDXT, 1024X1024)
+[2018.01.27-22.20.47:087][225]LogTexture: Display: Building textures: Target1_initialShadingGroup_BaseColor (AutoDXT, 1024X1024)
+[2018.01.27-22.20.47:087][225]LogTexture: Display: Building textures: Target1_initialShadingGroup_Normal (BC5, 1024X1024)
+[2018.01.27-22.20.47:087][225]LogMaterial: Missing cached shader map for material TargetMat, compiling. 
+[2018.01.27-22.20.47:144][225]LogStaticMesh: Building static mesh Target1...
+[2018.01.27-22.20.47:180][225]LogStaticMesh: Built static mesh [0.04s] /Game/Geometry/Meshes/LevelObjects/Target1.Target1
+[2018.01.27-22.20.47:211][225]LogActorFactory: Actor Factory created Target1
+[2018.01.27-22.20.48:138][329]LogActorFactory: Actor Factory created Target1
+[2018.01.27-22.20.57:091][355]Cmd: SELECT NONE
+[2018.01.27-22.21.23:581][473]LogSavePackage: Save=258.85ms
+[2018.01.27-22.21.23:581][473]LogSavePackage: Moving '../../../../../../Users/gd48juan/Documents/GitHub/StandBy/GGJGame/Saved/FirstPersonExampleMap_Auto30ADE341B401EA2BB85574898B9E806CF.tmp' to '../../../../../../Users/gd48juan/Documents/GitHub/StandBy/GGJGame/Saved/Autosaves/Game/FirstPersonBP/Maps/FirstPersonExampleMap_Auto3.umap'
+[2018.01.27-22.21.23:585][473]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/gd48juan/Documents/GitHub/StandBy/GGJGame/Saved/Autosaves/Game/FirstPersonBP/Maps/FirstPersonExampleMap_Auto3.umap
+[2018.01.27-22.21.23:587][473]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/FirstPersonBP/Maps/FirstPersonExampleMap' took 0.299
+[2018.01.27-22.21.23:587][473]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.299
+[2018.01.27-22.21.41:905][658]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Target1)
+[2018.01.27-22.21.42:829][764]Cmd: DELETE
+[2018.01.27-22.21.42:829][764]Cmd: ACTOR DELETE
+[2018.01.27-22.21.42:832][764]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.01.27-22.21.42:854][764]LogEditorActor: Deleted 1 Actors (0.025 secs)
+[2018.01.27-22.21.43:642][858]LogEditorViewport: Clicking on Actor (LMB): BP_DoorTrigger_C (BP_DoorTrigger2)
+[2018.01.27-22.22.25:423][855]LogEditorViewport: Clicking on Actor (context menu): BP_DoorTrigger_C (BP_DoorTrigger2)
+[2018.01.27-22.26.09:194][935]BlueprintLog: New page: Compile BP_DoorTrigger
+[2018.01.27-22.26.20:273][986]LogTemp: Repeating last play command: Selected Viewport
+[2018.01.27-22.26.20:300][986]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2018.01.27-22.26.20:300][986]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.01.27-22.26.20:301][986]PIE: New page: PIE session: FirstPersonExampleMap (Jan 27, 2018, 6:26:20 AM)
+[2018.01.27-22.26.20:301][986]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2018.01.27-22.26.20:323][986]LogPlayLevel: PIE: StaticDuplicateObject took: (0.022272s)
+[2018.01.27-22.26.20:324][986]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2018.01.27-22.26.20:324][986]LogPlayLevel: PIE: World Init took: (0.000692s)
+[2018.01.27-22.26.20:324][986]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap to /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap (0.023255s)
+[2018.01.27-22.26.20:349][986]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.01.27-22.26.20:356][986]LogInit: FAudioDevice initialized.
+[2018.01.27-22.26.20:386][986]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2018.01.27-22.26.20:388][986]PIE: Warning: Invalid Simulate Options: Body (BP_CouchPhysics_342.CouchPreview 1M_Cube) is set to simulate physics but Collision Enabled is incompatible
+[2018.01.27-22.26.20:388][986]PIE: Warning: Invalid Simulate Options: Body (BP_MovingObject_162.CouchPreview 1M_Cube) is set to simulate physics but Collision Enabled is incompatible
+[2018.01.27-22.26.20:389][986]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap up for play (max tick rate 0) at 2018.01.27-14.26.20
+[2018.01.27-22.26.20:390][986]LogWorld: Bringing up level for play took: 0.002983
+[2018.01.27-22.26.20:391][986]PIE: Play in editor start time for /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap -0.47
+[2018.01.27-22.26.20:391][986]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2018.01.27-22.26.22:468][231]PIE: Warning: BP_DoorTrigger2.TriggerBox has to have 'Simulate Physics' enabled if you'd like to AddImpulseAtLocation. 
+[2018.01.27-22.26.28:802][991]PIE: Warning: BP_DoorTrigger2.TriggerBox has to have 'Simulate Physics' enabled if you'd like to AddImpulseAtLocation. 
+[2018.01.27-22.26.30:044][140]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2018.01.27-22.26.30:079][140]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2018.01.27-22.26.32:283][372]LogEditorViewport: Clicking on Actor (LMB): BP_DoorTrigger_C (BP_DoorTrigger2)
+[2018.01.27-22.26.33:919][514]LogMaterial: Missing cached shader map for material M_SkyBox, compiling. 
+[2018.01.27-22.26.34:250][515]LogRenderer: Reallocating scene render targets to support 1432x1044 Format 10 NumSamples 1 (Frame:1).
+[2018.01.27-22.26.48:026][626]LogSavePackage: Save=52.38ms
+[2018.01.27-22.26.48:026][626]LogSavePackage: Moving '../../../../../../Users/gd48juan/Documents/GitHub/StandBy/GGJGame/Saved/BP_DoorTriggerA98FA43F42A85BB6EAA8B1A0F82992B0.tmp' to '../../../../../../Users/gd48juan/Documents/GitHub/StandBy/GGJGame/Content/FirstPersonBP/Blueprints/BP_DoorTrigger.uasset'
+[2018.01.27-22.26.48:029][626]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/gd48juan/Documents/GitHub/StandBy/GGJGame/Content/FirstPersonBP/Blueprints/BP_DoorTrigger.uasset
+[2018.01.27-22.26.50:610][860]LogTemp: Repeating last play command: Selected Viewport
+[2018.01.27-22.26.50:634][860]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2018.01.27-22.26.50:634][860]BlueprintLog: New page: Pre-Play auto-recompile
+[2018.01.27-22.26.50:647][860]LogPlayLevel: [PlayLevel] Compiling BP_DoorTrigger before play...
+[2018.01.27-22.26.51:072][860]LogPlayLevel: PlayLevel: Blueprint regeneration took 437 ms (1 blueprints)
+[2018.01.27-22.26.51:072][860]PIE: New page: PIE session: FirstPersonExampleMap (Jan 27, 2018, 6:26:51 AM)
+[2018.01.27-22.26.51:072][860]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2018.01.27-22.26.51:095][860]LogPlayLevel: PIE: StaticDuplicateObject took: (0.023425s)
+[2018.01.27-22.26.51:096][860]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2018.01.27-22.26.51:096][860]LogPlayLevel: PIE: World Init took: (0.000660s)
+[2018.01.27-22.26.51:097][860]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap to /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap (0.024504s)
+[2018.01.27-22.26.51:122][860]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.01.27-22.26.51:131][860]LogInit: FAudioDevice initialized.
+[2018.01.27-22.26.51:159][860]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2018.01.27-22.26.51:161][860]PIE: Warning: Invalid Simulate Options: Body (BP_CouchPhysics_342.CouchPreview 1M_Cube) is set to simulate physics but Collision Enabled is incompatible
+[2018.01.27-22.26.51:161][860]PIE: Warning: Invalid Simulate Options: Body (BP_MovingObject_162.CouchPreview 1M_Cube) is set to simulate physics but Collision Enabled is incompatible
+[2018.01.27-22.26.51:164][860]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap up for play (max tick rate 0) at 2018.01.27-14.26.51
+[2018.01.27-22.26.51:164][860]LogWorld: Bringing up level for play took: 0.004152
+[2018.01.27-22.26.51:166][860]PIE: Play in editor start time for /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap 0.306
+[2018.01.27-22.26.51:166][860]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2018.01.27-22.26.53:032][ 77]PIE: Warning: BP_DoorTrigger2.TriggerBox has to have 'Simulate Physics' enabled if you'd like to AddImpulseAtLocation. 
+[2018.01.27-22.26.58:020][675]PIE: Warning: BP_DoorTrigger2.TriggerBox has to have 'Simulate Physics' enabled if you'd like to AddImpulseAtLocation. 
+[2018.01.27-22.27.02:690][235]PIE: Warning: BP_DoorTrigger2.TriggerBox has to have 'Simulate Physics' enabled if you'd like to AddImpulseAtLocation. 
+[2018.01.27-22.27.08:050][878]PIE: Warning: BP_DoorTrigger2.TriggerBox has to have 'Simulate Physics' enabled if you'd like to AddImpulseAtLocation. 
+[2018.01.27-22.27.13:134][488]PIE: Warning: BP_DoorTrigger2.TriggerBox has to have 'Simulate Physics' enabled if you'd like to AddImpulseAtLocation. 
+[2018.01.27-22.27.15:680][793]PIE: Warning: BP_DoorTrigger2.TriggerBox has to have 'Simulate Physics' enabled if you'd like to AddImpulseAtLocation. 
+[2018.01.27-22.27.16:963][947]PIE: Warning: BP_DoorTrigger2.TriggerBox has to have 'Simulate Physics' enabled if you'd like to AddImpulseAtLocation. 
+[2018.01.27-22.27.19:922][302]PIE: Warning: BP_DoorTrigger2.TriggerBox has to have 'Simulate Physics' enabled if you'd like to AddImpulseAtLocation. 
+[2018.01.27-22.27.22:856][654]PIE: Warning: BP_PlatformWithRobot_546.TriggerBox has to have 'Simulate Physics' enabled if you'd like to AddImpulseAtLocation. 
+[2018.01.27-22.27.26:373][ 76]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2018.01.27-22.27.26:411][ 76]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2018.01.27-22.27.29:178][369]LogEditorViewport: Clicking on Actor (LMB): BP_PlatformWithRobot_C (BP_PlatformWithRobot)
+[2018.01.27-22.28.52:410][540]BlueprintLog: New page: Compile BP_PlatformWithRobot
+[2018.01.27-22.28.53:489][573]LogSavePackage: Save=64.35ms
+[2018.01.27-22.28.53:489][573]LogSavePackage: Moving '../../../../../../Users/gd48juan/Documents/GitHub/StandBy/GGJGame/Saved/BP_PlatformWithRobot834FA856445FAE8A57BEE687B7AE4817.tmp' to '../../../../../../Users/gd48juan/Documents/GitHub/StandBy/GGJGame/Content/FirstPersonBP/Blueprints/BP_PlatformWithRobot.uasset'
+[2018.01.27-22.28.53:492][573]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/gd48juan/Documents/GitHub/StandBy/GGJGame/Content/FirstPersonBP/Blueprints/BP_PlatformWithRobot.uasset
+[2018.01.27-22.29.04:845][719]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (Wall3)
+[2018.01.27-22.29.06:173][852]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall3)
+[2018.01.27-22.29.06:610][902]LogEditorViewport: Clicking on Actor (LMB): BP_PlatformWithRobot_C (BP_PlatformWithRobot)
+[2018.01.27-22.29.09:741][255]LogTemp: Repeating last play command: Selected Viewport
+[2018.01.27-22.29.09:772][255]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2018.01.27-22.29.09:772][255]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.01.27-22.29.09:773][255]PIE: New page: PIE session: FirstPersonExampleMap (Jan 27, 2018, 6:29:09 AM)
+[2018.01.27-22.29.09:773][255]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2018.01.27-22.29.09:795][255]LogPlayLevel: PIE: StaticDuplicateObject took: (0.021941s)
+[2018.01.27-22.29.09:795][255]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2018.01.27-22.29.09:795][255]LogPlayLevel: PIE: World Init took: (0.000750s)
+[2018.01.27-22.29.09:796][255]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap to /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap (0.022969s)
+[2018.01.27-22.29.09:823][255]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.01.27-22.29.09:831][255]LogInit: FAudioDevice initialized.
+[2018.01.27-22.29.09:860][255]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2018.01.27-22.29.09:861][255]PIE: Warning: Invalid Simulate Options: Body (BP_CouchPhysics_342.CouchPreview 1M_Cube) is set to simulate physics but Collision Enabled is incompatible
+[2018.01.27-22.29.09:861][255]PIE: Warning: Invalid Simulate Options: Body (BP_MovingObject_162.CouchPreview 1M_Cube) is set to simulate physics but Collision Enabled is incompatible
+[2018.01.27-22.29.09:863][255]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap up for play (max tick rate 0) at 2018.01.27-14.29.09
+[2018.01.27-22.29.09:863][255]LogWorld: Bringing up level for play took: 0.002909
+[2018.01.27-22.29.09:864][255]PIE: Play in editor start time for /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap 1.011
+[2018.01.27-22.29.09:865][255]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2018.01.27-22.29.11:720][474]PIE: Warning: BP_DoorTrigger2.TriggerBox has to have 'Simulate Physics' enabled if you'd like to AddImpulseAtLocation. 
+[2018.01.27-22.29.13:865][731]PIE: Warning: BP_PlatformWithRobot_546.TriggerBox has to have 'Simulate Physics' enabled if you'd like to AddImpulseAtLocation. 
+[2018.01.27-22.29.22:355][749]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2018.01.27-22.29.22:394][749]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2018.01.27-22.29.26:712][225]LogEditorViewport: Clicking on Actor (LMB): BP_DoorTrigger_C (BP_DoorTrigger2)
+[2018.01.27-22.29.35:803][990]LogSavePackage: Save=52.20ms
+[2018.01.27-22.29.35:804][990]LogSavePackage: Moving '../../../../../../Users/gd48juan/Documents/GitHub/StandBy/GGJGame/Saved/BP_DoorTrigger2CD9C5F544D871719CCD1681941F64C4.tmp' to '../../../../../../Users/gd48juan/Documents/GitHub/StandBy/GGJGame/Content/FirstPersonBP/Blueprints/BP_DoorTrigger.uasset'
+[2018.01.27-22.29.35:806][990]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/gd48juan/Documents/GitHub/StandBy/GGJGame/Content/FirstPersonBP/Blueprints/BP_DoorTrigger.uasset
+[2018.01.27-22.29.36:851][ 44]LogSavePackage: Save=245.05ms
+[2018.01.27-22.29.36:851][ 44]LogSavePackage: Moving '../../../../../../Users/gd48juan/Documents/GitHub/StandBy/GGJGame/Saved/FirstPersonExampleMap6F64510D4E08A73069D70CA9ECCDC013.tmp' to '../../../../../../Users/gd48juan/Documents/GitHub/StandBy/GGJGame/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap'
+[2018.01.27-22.29.36:860][ 44]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/gd48juan/Documents/GitHub/StandBy/GGJGame/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap
+[2018.01.27-22.29.37:888][ 44]LogSavePackage: Save=982.96ms
+[2018.01.27-22.29.37:888][ 44]LogSavePackage: Moving '../../../../../../Users/gd48juan/Documents/GitHub/StandBy/GGJGame/Saved/FirstPersonExampleMap_BuiltData7DA1CB054F63F8DC8B17EC9E403EBEBE.tmp' to '../../../../../../Users/gd48juan/Documents/GitHub/StandBy/GGJGame/Content/FirstPersonBP/Maps/FirstPersonExampleMap_BuiltData.uasset'
+[2018.01.27-22.29.37:891][ 44]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/gd48juan/Documents/GitHub/StandBy/GGJGame/Content/FirstPersonBP/Maps/FirstPersonExampleMap_BuiltData.uasset
+[2018.01.27-22.29.41:800][371]LogTemp: Repeating last play command: Selected Viewport
+[2018.01.27-22.29.41:818][371]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2018.01.27-22.29.41:819][371]BlueprintLog: New page: Pre-Play auto-recompile
+[2018.01.27-22.29.41:830][371]LogPlayLevel: [PlayLevel] Compiling BP_DoorTrigger before play...
+[2018.01.27-22.29.42:358][371]LogPlayLevel: PlayLevel: Blueprint regeneration took 539 ms (1 blueprints)
+[2018.01.27-22.29.42:358][371]PIE: New page: PIE session: FirstPersonExampleMap (Jan 27, 2018, 6:29:42 AM)
+[2018.01.27-22.29.42:358][371]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2018.01.27-22.29.42:381][371]LogPlayLevel: PIE: StaticDuplicateObject took: (0.022743s)
+[2018.01.27-22.29.42:381][371]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2018.01.27-22.29.42:381][371]LogPlayLevel: PIE: World Init took: (0.000737s)
+[2018.01.27-22.29.42:382][371]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap to /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap (0.023782s)
+[2018.01.27-22.29.42:409][371]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.01.27-22.29.42:422][371]LogInit: FAudioDevice initialized.
+[2018.01.27-22.29.42:452][371]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2018.01.27-22.29.42:454][371]PIE: Warning: Invalid Simulate Options: Body (BP_CouchPhysics_342.CouchPreview 1M_Cube) is set to simulate physics but Collision Enabled is incompatible
+[2018.01.27-22.29.42:454][371]PIE: Warning: Invalid Simulate Options: Body (BP_MovingObject_162.CouchPreview 1M_Cube) is set to simulate physics but Collision Enabled is incompatible
+[2018.01.27-22.29.42:455][371]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap up for play (max tick rate 0) at 2018.01.27-14.29.42
+[2018.01.27-22.29.42:456][371]LogWorld: Bringing up level for play took: 0.002814
+[2018.01.27-22.29.42:457][371]PIE: Play in editor start time for /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap 1.605
+[2018.01.27-22.29.42:457][371]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2018.01.27-22.29.44:142][568]PIE: Warning: BP_DoorTrigger2.TriggerBox has to have 'Simulate Physics' enabled if you'd like to AddImpulseAtLocation. 
+[2018.01.27-22.29.47:287][945]PIE: Warning: BP_PlatformWithRobot_546.TriggerBox has to have 'Simulate Physics' enabled if you'd like to AddImpulseAtLocation. 
+[2018.01.27-22.29.52:648][588]PIE: Warning: SecondRobot.StaticMesh Pillar_50x500 has to have 'Simulate Physics' enabled if you'd like to AddImpulseAtLocation. 
+[2018.01.27-22.29.53:225][657]PIE: Warning: SecondRobot.StaticMesh Pillar_50x500 has to have 'Simulate Physics' enabled if you'd like to AddImpulseAtLocation. 
+[2018.01.27-22.29.55:161][887]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2018.01.27-22.29.55:195][887]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2018.01.27-22.30.10:868][699]LogSavePackage: Save=240.32ms
+[2018.01.27-22.30.10:868][699]LogSavePackage: Moving '../../../../../../Users/gd48juan/Documents/GitHub/StandBy/GGJGame/Saved/FirstPersonExampleMap1FF370014264B445C8537C89F2AA2ECD.tmp' to '../../../../../../Users/gd48juan/Documents/GitHub/StandBy/GGJGame/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap'
+[2018.01.27-22.30.10:871][699]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/gd48juan/Documents/GitHub/StandBy/GGJGame/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap
+[2018.01.27-22.30.11:890][699]LogSavePackage: Save=987.33ms
+[2018.01.27-22.30.11:890][699]LogSavePackage: Moving '../../../../../../Users/gd48juan/Documents/GitHub/StandBy/GGJGame/Saved/FirstPersonExampleMap_BuiltDataA599752844A3B31A1FADB5AFF6FDB6BA.tmp' to '../../../../../../Users/gd48juan/Documents/GitHub/StandBy/GGJGame/Content/FirstPersonBP/Maps/FirstPersonExampleMap_BuiltData.uasset'
+[2018.01.27-22.30.11:893][699]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/gd48juan/Documents/GitHub/StandBy/GGJGame/Content/FirstPersonBP/Maps/FirstPersonExampleMap_BuiltData.uasset
+[2018.01.27-22.30.31:696][ 34]LogTexture: Display: Building textures: Opacity (AutoDXT, 256X256)
+[2018.01.27-22.30.31:696][ 34]LogTexture: Display: Building textures: Projectile1_initialShadingGroup_Metallic (AutoDXT, 256X256)
+[2018.01.27-22.30.31:697][ 34]LogTexture: Display: Building textures: Projectile1_initialShadingGroup_Normal (BC5, 256X256)
+[2018.01.27-22.30.31:697][ 34]LogTexture: Display: Building textures: Projectile1_initialShadingGroup_Roughness (AutoDXT, 256X256)
+[2018.01.27-22.30.31:697][ 34]LogTexture: Display: Building textures: Projectile1_initialShadingGroup_BaseColor (AutoDXT, 256X256)
+[2018.01.27-22.30.31:697][ 34]LogTexture: Display: Building textures: Projectile1_initialShadingGroup_Emissive (AutoDXT, 256X256)
+[2018.01.27-22.30.31:697][ 34]LogMaterial: Missing cached shader map for material ProjectileMat, compiling. 
+[2018.01.27-22.30.31:740][ 34]LogStaticMesh: Building static mesh Projectile1...
+[2018.01.27-22.30.31:751][ 34]LogStaticMesh: Built static mesh [0.01s] /Game/Geometry/Meshes/Projectile/Projectile1.Projectile1
+[2018.01.27-22.30.40:602][862]LogEditorViewport: Clicking on Actor (LMB): FirstPersonCharacter_C (FirstRobot)
+[2018.01.27-22.30.45:862][431]LogEditorViewport: Clicking on Actor (LMB): FirstPersonCharacter_C (FirstRobot)
+[2018.01.27-22.30.45:921][434]LogEditorViewport: Clicking on Component (LMB): StaticMeshComponent (StaticMesh)
+[2018.01.27-22.30.47:330][576]Cmd: SELECT NONE
+[2018.01.27-22.30.48:586][719]LogEditorViewport: Clicking on Actor (LMB): FirstPersonCharacter_C (FirstRobot)
+[2018.01.27-22.31.52:443][955]LogSavePackage: Save=30.51ms
+[2018.01.27-22.31.52:443][955]LogSavePackage: Moving '../../../../../../Users/gd48juan/Documents/GitHub/StandBy/GGJGame/Saved/FirstPersonProjectile1F38FD8F414CB5BAC8766B8622372D99.tmp' to '../../../../../../Users/gd48juan/Documents/GitHub/StandBy/GGJGame/Content/FirstPersonBP/Blueprints/FirstPersonProjectile.uasset'
+[2018.01.27-22.31.52:446][955]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/gd48juan/Documents/GitHub/StandBy/GGJGame/Content/FirstPersonBP/Blueprints/FirstPersonProjectile.uasset
+[2018.01.27-22.31.53:181][  4]BlueprintLog: New page: Compile FirstPersonProjectile
+[2018.01.27-22.31.54:532][ 54]LogSavePackage: Save=36.23ms
+[2018.01.27-22.31.54:532][ 54]LogSavePackage: Moving '../../../../../../Users/gd48juan/Documents/GitHub/StandBy/GGJGame/Saved/FirstPersonProjectileC9E92AA44243B903B691289A92AC9550.tmp' to '../../../../../../Users/gd48juan/Documents/GitHub/StandBy/GGJGame/Content/FirstPersonBP/Blueprints/FirstPersonProjectile.uasset'
+[2018.01.27-22.31.54:535][ 54]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/gd48juan/Documents/GitHub/StandBy/GGJGame/Content/FirstPersonBP/Blueprints/FirstPersonProjectile.uasset
+[2018.01.27-22.31.57:702][317]LogTemp: Repeating last play command: Selected Viewport
+[2018.01.27-22.31.57:724][317]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2018.01.27-22.31.57:724][317]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.01.27-22.31.57:724][317]PIE: New page: PIE session: FirstPersonExampleMap (Jan 27, 2018, 6:31:57 AM)
+[2018.01.27-22.31.57:724][317]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2018.01.27-22.31.57:748][317]LogPlayLevel: PIE: StaticDuplicateObject took: (0.023891s)
+[2018.01.27-22.31.57:749][317]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2018.01.27-22.31.57:749][317]LogPlayLevel: PIE: World Init took: (0.000887s)
+[2018.01.27-22.31.57:749][317]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap to /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap (0.025211s)
+[2018.01.27-22.31.57:820][317]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.01.27-22.31.57:835][317]LogInit: FAudioDevice initialized.
+[2018.01.27-22.31.57:869][317]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2018.01.27-22.31.57:871][317]PIE: Warning: Invalid Simulate Options: Body (BP_CouchPhysics_342.CouchPreview 1M_Cube) is set to simulate physics but Collision Enabled is incompatible
+[2018.01.27-22.31.57:871][317]PIE: Warning: Invalid Simulate Options: Body (BP_MovingObject_162.CouchPreview 1M_Cube) is set to simulate physics but Collision Enabled is incompatible
+[2018.01.27-22.31.57:873][317]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap up for play (max tick rate 0) at 2018.01.27-14.31.57
+[2018.01.27-22.31.57:874][317]LogWorld: Bringing up level for play took: 0.004552
+[2018.01.27-22.31.57:876][317]PIE: Play in editor start time for /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap 1.03
+[2018.01.27-22.31.57:877][317]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2018.01.27-22.32.00:678][647]PIE: Warning: SecondRobot.StaticMesh Pillar_50x500 has to have 'Simulate Physics' enabled if you'd like to AddImpulseAtLocation. 
+[2018.01.27-22.32.05:006][166]PIE: Warning: Mobility of /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.BigWall_21 : StaticMeshComponent0 has to be 'Movable' if you'd like to AddImpulseAtLocation. 
+[2018.01.27-22.32.05:706][250]PIE: Warning: Mobility of /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.BigWall_21 : StaticMeshComponent0 has to be 'Movable' if you'd like to AddImpulseAtLocation. 
+[2018.01.27-22.32.06:231][313]PIE: Warning: Mobility of /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.BigWall_21 : StaticMeshComponent0 has to be 'Movable' if you'd like to AddImpulseAtLocation. 
+[2018.01.27-22.32.09:642][722]PIE: Warning: BP_DoorTrigger2.TriggerBox has to have 'Simulate Physics' enabled if you'd like to AddImpulseAtLocation. 
+[2018.01.27-22.32.11:579][954]PIE: Warning: BP_PlatformWithRobot_546.TriggerBox has to have 'Simulate Physics' enabled if you'd like to AddImpulseAtLocation. 
+[2018.01.27-22.32.14:924][355]PIE: Warning: BP_DoorTrigger2.TriggerBox has to have 'Simulate Physics' enabled if you'd like to AddImpulseAtLocation. 
+[2018.01.27-22.32.18:833][824]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2018.01.27-22.32.18:871][824]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2018.01.27-22.32.21:202][ 26]LogSavePackage: Save=262.61ms
+[2018.01.27-22.32.21:202][ 26]LogSavePackage: Moving '../../../../../../Users/gd48juan/Documents/GitHub/StandBy/GGJGame/Saved/FirstPersonExampleMap5BC61A744A82147ADD91579753423CA5.tmp' to '../../../../../../Users/gd48juan/Documents/GitHub/StandBy/GGJGame/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap'
+[2018.01.27-22.32.21:207][ 26]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/gd48juan/Documents/GitHub/StandBy/GGJGame/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap
+[2018.01.27-22.32.21:228][ 26]LogFileHelpers: Saving map 'FirstPersonExampleMap' took 0.379
+[2018.01.27-22.32.23:551][280]LogEditorViewport: Clicking on Actor (LMB): FirstPersonCharacter_C (SecondRobot)
+[2018.01.27-22.32.43:803][624]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Geometry/Anims/Idle_Anim.Idle_Anim
+[2018.01.27-22.32.43:803][624]LogAnimationCompression: Recompressing (AnimSequence /Game/Geometry/Anims/Idle_Anim.Idle_Anim) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2018.01.27-22.32.43:814][624]LogMaterial: Missing cached shader map for material lambert1, compiling. 
+[2018.01.27-22.34.13:601][950]LogClass: Warning: In asset 'None', there is an enum property of type 'EAnimationMode' with an invalid value of ''
+[2018.01.27-22.34.13:601][950]LogClass: Warning: In asset 'None', there is an enum property of type 'EAnimationMode' with an invalid value of ''
+[2018.01.27-22.34.13:601][950]LogClass: Warning: In asset 'None', there is an enum property of type 'EAnimationMode' with an invalid value of ''
+[2018.01.27-22.34.13:601][950]LogClass: Warning: In asset 'None', there is an enum property of type 'EAnimationMode' with an invalid value of ''
+[2018.01.27-22.34.13:601][950]LogClass: Warning: In asset 'None', there is an enum property of type 'EAnimationMode' with an invalid value of ''
+[2018.01.27-22.34.13:601][950]LogClass: Warning: In asset 'None', there is an enum property of type 'EAnimationMode' with an invalid value of ''
+[2018.01.27-22.34.13:601][950]LogClass: Warning: In asset 'None', there is an enum property of type 'EAnimationMode' with an invalid value of ''
+[2018.01.27-22.34.13:601][950]LogClass: Warning: In asset 'None', there is an enum property of type 'EAnimationMode' with an invalid value of ''
+[2018.01.27-22.34.49:172][991]LogTexture: Display: Building textures: Robot1_initialShadingGroup_Emissive (AutoDXT, 2048X2048)
+[2018.01.27-22.34.49:172][991]LogTexture: Display: Building textures: Robot1_initialShadingGroup_Normal (BC5, 2048X2048)
+[2018.01.27-22.34.49:172][991]LogTexture: Display: Building textures: Robot1_initialShadingGroup_OcclusionRoughnessMetallic (AutoDXT, 2048X2048)
+[2018.01.27-22.34.49:172][991]LogTexture: Display: Building textures: Robot1_initialShadingGroup_BaseColor (AutoDXT, 2048X2048)
+[2018.01.27-22.34.49:172][991]LogTexture: Display: Building textures: Robot1_initialShadingGroup_BaseColor_Spots (AutoDXT, 2048X2048)
+[2018.01.27-22.34.49:172][991]LogMaterial: Missing cached shader map for material RobotMat, compiling. 
+[2018.01.27-22.34.58:959][460]BlueprintLog: New page: Compile FirstPersonCharacter
+[2018.01.27-22.35.04:389][828]LogTemp: Repeating last play command: Selected Viewport
+[2018.01.27-22.35.04:415][828]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2018.01.27-22.35.04:415][828]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.01.27-22.35.04:415][828]PIE: New page: PIE session: FirstPersonExampleMap (Jan 27, 2018, 6:35:04 AM)
+[2018.01.27-22.35.04:416][828]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2018.01.27-22.35.04:442][828]LogPlayLevel: PIE: StaticDuplicateObject took: (0.026582s)
+[2018.01.27-22.35.04:443][828]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2018.01.27-22.35.04:443][828]LogPlayLevel: PIE: World Init took: (0.000854s)
+[2018.01.27-22.35.04:444][828]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap to /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap (0.027823s)
+[2018.01.27-22.35.04:507][828]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.01.27-22.35.04:515][828]LogInit: FAudioDevice initialized.
+[2018.01.27-22.35.04:544][828]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2018.01.27-22.35.04:546][828]PIE: Warning: Invalid Simulate Options: Body (BP_CouchPhysics_342.CouchPreview 1M_Cube) is set to simulate physics but Collision Enabled is incompatible
+[2018.01.27-22.35.04:546][828]PIE: Warning: Invalid Simulate Options: Body (BP_MovingObject_162.CouchPreview 1M_Cube) is set to simulate physics but Collision Enabled is incompatible
+[2018.01.27-22.35.04:547][828]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap up for play (max tick rate 0) at 2018.01.27-14.35.04
+[2018.01.27-22.35.04:548][828]LogWorld: Bringing up level for play took: 0.003058
+[2018.01.27-22.35.04:550][828]PIE: Play in editor start time for /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap -0.288
+[2018.01.27-22.35.04:550][828]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2018.01.27-22.35.14:765][ 47]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2018.01.27-22.35.14:799][ 47]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2018.01.27-22.35.17:407][305]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2018.01.27-22.35.17:834][348]LogEditorViewport: Clicking on Actor (LMB): FirstPersonCharacter_C (SecondRobot)
+[2018.01.27-22.35.18:165][370]LogEditorViewport: Clicking on Component (LMB): TextRenderComponent (Text)
+[2018.01.27-22.35.33:777][512]LogSavePackage: Save=176.20ms
+[2018.01.27-22.35.33:777][512]LogSavePackage: Moving '../../../../../../Users/gd48juan/Documents/GitHub/StandBy/GGJGame/Saved/FirstPersonCharacter054561204061D7303479A7B238869687.tmp' to '../../../../../../Users/gd48juan/Documents/GitHub/StandBy/GGJGame/Content/FirstPersonBP/Blueprints/FirstPersonCharacter.uasset'
+[2018.01.27-22.35.33:784][512]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/gd48juan/Documents/GitHub/StandBy/GGJGame/Content/FirstPersonBP/Blueprints/FirstPersonCharacter.uasset
+[2018.01.27-22.35.34:414][552]BlueprintLog: New page: Compile FirstPersonCharacter
+[2018.01.27-22.35.55:729][885]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2018.01.27-22.35.56:528][972]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2018.01.27-22.35.57:308][ 63]LogEditorViewport: Clicking on Actor (LMB): FirstPersonCharacter_C (SecondRobot)
+[2018.01.27-22.36.21:607][486]LogClass: Warning: In asset 'None', there is an enum property of type 'ECollisionChannel' with an invalid value of ''
+[2018.01.27-22.36.21:607][486]LogClass: Warning: In asset 'None', there is an enum property of type 'ECollisionChannel' with an invalid value of ''
+[2018.01.27-22.36.21:607][486]LogClass: Warning: In asset 'None', there is an enum property of type 'ECollisionChannel' with an invalid value of ''
+[2018.01.27-22.36.21:607][486]LogClass: Warning: In asset 'None', there is an enum property of type 'ECollisionChannel' with an invalid value of ''
+[2018.01.27-22.36.23:990][621]LogSavePackage: Save=172.20ms
+[2018.01.27-22.36.23:990][621]LogSavePackage: Moving '../../../../../../Users/gd48juan/Documents/GitHub/StandBy/GGJGame/Saved/FirstPersonCharacter9BABAEEC443E99414A72959AC2FF9B97.tmp' to '../../../../../../Users/gd48juan/Documents/GitHub/StandBy/GGJGame/Content/FirstPersonBP/Blueprints/FirstPersonCharacter.uasset'
+[2018.01.27-22.36.23:994][621]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/gd48juan/Documents/GitHub/StandBy/GGJGame/Content/FirstPersonBP/Blueprints/FirstPersonCharacter.uasset
+[2018.01.27-22.36.26:230][793]LogTemp: Repeating last play command: Selected Viewport
+[2018.01.27-22.36.26:259][793]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2018.01.27-22.36.26:259][793]BlueprintLog: New page: Pre-Play auto-recompile
+[2018.01.27-22.36.26:299][793]LogPlayLevel: [PlayLevel] Compiling FirstPersonCharacter before play...
+[2018.01.27-22.36.27:121][793]LogPlayLevel: PlayLevel: Blueprint regeneration took 862 ms (1 blueprints)
+[2018.01.27-22.36.27:121][793]PIE: New page: PIE session: FirstPersonExampleMap (Jan 27, 2018, 6:36:27 AM)
+[2018.01.27-22.36.27:121][793]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2018.01.27-22.36.27:146][793]LogPlayLevel: PIE: StaticDuplicateObject took: (0.024592s)
+[2018.01.27-22.36.27:146][793]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2018.01.27-22.36.27:147][793]LogPlayLevel: PIE: World Init took: (0.000752s)
+[2018.01.27-22.36.27:147][793]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap to /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap (0.025623s)
+[2018.01.27-22.36.27:208][793]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.01.27-22.36.27:216][793]LogInit: FAudioDevice initialized.
+[2018.01.27-22.36.27:246][793]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2018.01.27-22.36.27:247][793]PIE: Warning: Invalid Simulate Options: Body (BP_CouchPhysics_342.CouchPreview 1M_Cube) is set to simulate physics but Collision Enabled is incompatible
+[2018.01.27-22.36.27:247][793]PIE: Warning: Invalid Simulate Options: Body (BP_MovingObject_162.CouchPreview 1M_Cube) is set to simulate physics but Collision Enabled is incompatible
+[2018.01.27-22.36.27:249][793]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap up for play (max tick rate 0) at 2018.01.27-14.36.27
+[2018.01.27-22.36.27:250][793]LogWorld: Bringing up level for play took: 0.003398
+[2018.01.27-22.36.27:251][793]PIE: Play in editor start time for /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap 0.417
+[2018.01.27-22.36.27:252][793]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2018.01.27-22.36.29:348][ 38]PIE: Warning: SecondRobot.SkeletalMesh Idle has to have 'Simulate Physics' enabled if you'd like to AddImpulseAtLocation. 
+[2018.01.27-22.36.30:850][218]PIE: Warning: SecondRobot.SkeletalMesh Idle has to have 'Simulate Physics' enabled if you'd like to AddImpulseAtLocation. 
+[2018.01.27-22.36.32:083][366]PIE: Warning: Mobility of /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.Wall1_17 : StaticMeshComponent0 has to be 'Movable' if you'd like to AddImpulseAtLocation. 
+[2018.01.27-22.36.33:768][568]PIE: Warning: FirstRobot.SkeletalMesh Idle has to have 'Simulate Physics' enabled if you'd like to AddImpulseAtLocation. 
+[2018.01.27-22.36.38:443][129]PIE: Warning: SecondRobot.SkeletalMesh Idle has to have 'Simulate Physics' enabled if you'd like to AddImpulseAtLocation. 
+[2018.01.27-22.36.39:778][289]PIE: Warning: SecondRobot.Sphere has to have 'Simulate Physics' enabled if you'd like to AddImpulseAtLocation. 
+[2018.01.27-22.36.43:112][689]PIE: Warning: FirstRobot.Sphere has to have 'Simulate Physics' enabled if you'd like to AddImpulseAtLocation. 
+[2018.01.27-22.36.43:287][710]PIE: Warning: FirstRobot.Sphere has to have 'Simulate Physics' enabled if you'd like to AddImpulseAtLocation. 
+[2018.01.27-22.36.45:783][  9]PIE: Warning: SecondRobot.VR_Marker has to have 'Simulate Physics' enabled if you'd like to AddImpulseAtLocation. 
+[2018.01.27-22.36.45:941][ 28]PIE: Warning: SecondRobot.VR_Marker has to have 'Simulate Physics' enabled if you'd like to AddImpulseAtLocation. 
+[2018.01.27-22.36.53:145][891]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2018.01.27-22.36.53:179][891]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2018.01.27-22.36.54:350][964]LogSavePackage: Save=248.80ms
+[2018.01.27-22.36.54:350][964]LogSavePackage: Moving '../../../../../../Users/gd48juan/Documents/GitHub/StandBy/GGJGame/Saved/FirstPersonExampleMap5D021556442A63605DAABA8D08B7D3A1.tmp' to '../../../../../../Users/gd48juan/Documents/GitHub/StandBy/GGJGame/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap'
+[2018.01.27-22.36.54:355][964]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/gd48juan/Documents/GitHub/StandBy/GGJGame/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap
+[2018.01.27-22.36.55:331][964]LogSavePackage: Save=935.01ms
+[2018.01.27-22.36.55:331][964]LogSavePackage: Moving '../../../../../../Users/gd48juan/Documents/GitHub/StandBy/GGJGame/Saved/FirstPersonExampleMap_BuiltDataA6DB13374DB0E435E52D57BE9FD7C837.tmp' to '../../../../../../Users/gd48juan/Documents/GitHub/StandBy/GGJGame/Content/FirstPersonBP/Maps/FirstPersonExampleMap_BuiltData.uasset'
+[2018.01.27-22.36.55:334][964]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/gd48juan/Documents/GitHub/StandBy/GGJGame/Content/FirstPersonBP/Maps/FirstPersonExampleMap_BuiltData.uasset
+[2018.01.27-22.36.57:165][129]LogSavePackage: Save=294.00ms
+[2018.01.27-22.36.57:165][129]LogSavePackage: Moving '../../../../../../Users/gd48juan/Documents/GitHub/StandBy/GGJGame/Saved/FirstPersonExampleMapA30F14634FA601F1B9EAC8849D6C9745.tmp' to '../../../../../../Users/gd48juan/Documents/GitHub/StandBy/GGJGame/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap'
+[2018.01.27-22.36.57:174][129]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/gd48juan/Documents/GitHub/StandBy/GGJGame/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap
+[2018.01.27-22.36.58:174][129]LogSavePackage: Save=967.51ms
+[2018.01.27-22.36.58:174][129]LogSavePackage: Moving '../../../../../../Users/gd48juan/Documents/GitHub/StandBy/GGJGame/Saved/FirstPersonExampleMap_BuiltData547F7D134FD73511296E548DBCCFB5B5.tmp' to '../../../../../../Users/gd48juan/Documents/GitHub/StandBy/GGJGame/Content/FirstPersonBP/Maps/FirstPersonExampleMap_BuiltData.uasset'
+[2018.01.27-22.36.58:177][129]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/gd48juan/Documents/GitHub/StandBy/GGJGame/Content/FirstPersonBP/Maps/FirstPersonExampleMap_BuiltData.uasset
