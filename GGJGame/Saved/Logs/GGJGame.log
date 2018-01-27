@@ -4164,3 +4164,426 @@ please set the "Use T0 as ref pose" option or add them to the bind pose and reim
 [2018.01.27-05.28.25:970][ 26]LogSavePackage: Save=120.49ms
 [2018.01.27-05.28.25:970][ 26]LogSavePackage: Moving '../../../../../../Users/GD48Cole/Documents/GitHub/StandBy/GGJGame/Saved/ArtLevel4D929E1E4DEA51913C5771AA1D40BAD3.tmp' to '../../../../../../Users/GD48Cole/Documents/GitHub/StandBy/GGJGame/Content/FirstPersonBP/Maps/ArtLevel.umap'
 [2018.01.27-05.28.25:973][ 26]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/GD48Cole/Documents/GitHub/StandBy/GGJGame/Content/FirstPersonBP/Maps/ArtLevel.umap
+[2018.01.27-05.33.11:530][610]LogMaterial: Missing cached shader map for material ProjectileMat, compiling. 
+[2018.01.27-05.33.11:592][610]LogMaterial: Missing cached shader map for material ProjectileMat, compiling. 
+[2018.01.27-05.33.11:650][610]LogMaterial: Missing cached shader map for material ProjectileMat, compiling. 
+[2018.01.27-05.33.11:725][610]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy ProjectileMat, compiling. 
+[2018.01.27-05.33.13:500][610]TextureStreamingBuild: Display: Compiling optional shaders took 1.783 seconds.
+[2018.01.27-05.33.19:415][610]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Geometry/Anims/Idle" FILE="../../../../../../Users/GD48Cole/Documents/GitHub/StandBy/GGJGame/Content/Geometry/Anims/Idle.uasset" SILENT=true
+[2018.01.27-05.33.19:435][610]LogSavePackage: Save=17.27ms
+[2018.01.27-05.33.19:435][610]LogSavePackage: Moving '../../../../../../Users/GD48Cole/Documents/GitHub/StandBy/GGJGame/Saved/Idle8670CA1E4C1A8A35ABFC9C81988436DD.tmp' to '../../../../../../Users/GD48Cole/Documents/GitHub/StandBy/GGJGame/Content/Geometry/Anims/Idle.uasset'
+[2018.01.27-05.33.19:437][610]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/GD48Cole/Documents/GitHub/StandBy/GGJGame/Content/Geometry/Anims/Idle.uasset
+[2018.01.27-05.33.19:448][610]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Geometry/Anims/Idle_Anim" FILE="../../../../../../Users/GD48Cole/Documents/GitHub/StandBy/GGJGame/Content/Geometry/Anims/Idle_Anim.uasset" SILENT=true
+[2018.01.27-05.33.19:460][610]LogSavePackage: Save=9.82ms
+[2018.01.27-05.33.19:460][610]LogSavePackage: Moving '../../../../../../Users/GD48Cole/Documents/GitHub/StandBy/GGJGame/Saved/Idle_Anim1E820F8F4759B1D0F3EA1C84DB8D2F69.tmp' to '../../../../../../Users/GD48Cole/Documents/GitHub/StandBy/GGJGame/Content/Geometry/Anims/Idle_Anim.uasset'
+[2018.01.27-05.33.19:462][610]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/GD48Cole/Documents/GitHub/StandBy/GGJGame/Content/Geometry/Anims/Idle_Anim.uasset
+[2018.01.27-05.33.19:473][610]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Geometry/Anims/Idle_PhysicsAsset" FILE="../../../../../../Users/GD48Cole/Documents/GitHub/StandBy/GGJGame/Content/Geometry/Anims/Idle_PhysicsAsset.uasset" SILENT=true
+[2018.01.27-05.33.19:490][610]LogSavePackage: Save=13.98ms
+[2018.01.27-05.33.19:490][610]LogSavePackage: Moving '../../../../../../Users/GD48Cole/Documents/GitHub/StandBy/GGJGame/Saved/Idle_PhysicsAssetD41B40B94E4E2C326E885D9E2124558D.tmp' to '../../../../../../Users/GD48Cole/Documents/GitHub/StandBy/GGJGame/Content/Geometry/Anims/Idle_PhysicsAsset.uasset'
+[2018.01.27-05.33.19:493][610]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/GD48Cole/Documents/GitHub/StandBy/GGJGame/Content/Geometry/Anims/Idle_PhysicsAsset.uasset
+[2018.01.27-05.33.19:507][610]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Geometry/Anims/lambert1" FILE="../../../../../../Users/GD48Cole/Documents/GitHub/StandBy/GGJGame/Content/Geometry/Anims/lambert1.uasset" SILENT=true
+[2018.01.27-05.33.19:518][610]LogSavePackage: Save=9.70ms
+[2018.01.27-05.33.19:518][610]LogSavePackage: Moving '../../../../../../Users/GD48Cole/Documents/GitHub/StandBy/GGJGame/Saved/lambert14CFCDF9D41467DE66CCE92B489817CAD.tmp' to '../../../../../../Users/GD48Cole/Documents/GitHub/StandBy/GGJGame/Content/Geometry/Anims/lambert1.uasset'
+[2018.01.27-05.33.19:522][610]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/GD48Cole/Documents/GitHub/StandBy/GGJGame/Content/Geometry/Anims/lambert1.uasset
+[2018.01.27-05.33.19:549][610]LogSavePackage: Save=13.72ms
+[2018.01.27-05.33.19:549][610]LogSavePackage: Moving '../../../../../../Users/GD48Cole/Documents/GitHub/StandBy/GGJGame/Saved/Skeleton_PhysicsAsset11E031BC4CDE1BE04F3A5AA39F126EC3.tmp' to '../../../../../../Users/GD48Cole/Documents/GitHub/StandBy/GGJGame/Content/Geometry/Anims/Skeleton_PhysicsAsset.uasset'
+[2018.01.27-05.33.19:551][610]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/GD48Cole/Documents/GitHub/StandBy/GGJGame/Content/Geometry/Anims/Skeleton_PhysicsAsset.uasset
+[2018.01.27-05.33.19:551][610]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Geometry/Anims/Skeleton_Skeleton" FILE="../../../../../../Users/GD48Cole/Documents/GitHub/StandBy/GGJGame/Content/Geometry/Anims/Skeleton_Skeleton.uasset" SILENT=true
+[2018.01.27-05.33.19:554][610]LogSavePackage: Save=1.71ms
+[2018.01.27-05.33.19:554][610]LogSavePackage: Moving '../../../../../../Users/GD48Cole/Documents/GitHub/StandBy/GGJGame/Saved/Skeleton_Skeleton0817DC3543B1966EEE73B88F6EBA17AC.tmp' to '../../../../../../Users/GD48Cole/Documents/GitHub/StandBy/GGJGame/Content/Geometry/Anims/Skeleton_Skeleton.uasset'
+[2018.01.27-05.33.19:556][610]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/GD48Cole/Documents/GitHub/StandBy/GGJGame/Content/Geometry/Anims/Skeleton_Skeleton.uasset
+[2018.01.27-05.33.19:567][610]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Geometry/Mats/Doors/DoorLarge" FILE="../../../../../../Users/GD48Cole/Documents/GitHub/StandBy/GGJGame/Content/Geometry/Mats/Doors/DoorLarge.uasset" SILENT=true
+[2018.01.27-05.33.19:592][610]LogSavePackage: Save=14.04ms
+[2018.01.27-05.33.19:592][610]LogSavePackage: Moving '../../../../../../Users/GD48Cole/Documents/GitHub/StandBy/GGJGame/Saved/DoorLargeF473193C40594D06AEBF94A2B4E61221.tmp' to '../../../../../../Users/GD48Cole/Documents/GitHub/StandBy/GGJGame/Content/Geometry/Mats/Doors/DoorLarge.uasset'
+[2018.01.27-05.33.19:596][610]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/GD48Cole/Documents/GitHub/StandBy/GGJGame/Content/Geometry/Mats/Doors/DoorLarge.uasset
+[2018.01.27-05.33.19:607][610]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Geometry/Mats/Doors/DoorMedium" FILE="../../../../../../Users/GD48Cole/Documents/GitHub/StandBy/GGJGame/Content/Geometry/Mats/Doors/DoorMedium.uasset" SILENT=true
+[2018.01.27-05.33.19:626][610]LogSavePackage: Save=14.35ms
+[2018.01.27-05.33.19:626][610]LogSavePackage: Moving '../../../../../../Users/GD48Cole/Documents/GitHub/StandBy/GGJGame/Saved/DoorMedium021D79914A0D242D53409DAF744FCBDD.tmp' to '../../../../../../Users/GD48Cole/Documents/GitHub/StandBy/GGJGame/Content/Geometry/Mats/Doors/DoorMedium.uasset'
+[2018.01.27-05.33.19:628][610]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/GD48Cole/Documents/GitHub/StandBy/GGJGame/Content/Geometry/Mats/Doors/DoorMedium.uasset
+[2018.01.27-05.33.19:639][610]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Geometry/Mats/ProjectileMat" FILE="../../../../../../Users/GD48Cole/Documents/GitHub/StandBy/GGJGame/Content/Geometry/Mats/ProjectileMat.uasset" SILENT=true
+[2018.01.27-05.33.19:661][610]LogSavePackage: Save=12.30ms
+[2018.01.27-05.33.19:661][610]LogSavePackage: Moving '../../../../../../Users/GD48Cole/Documents/GitHub/StandBy/GGJGame/Saved/ProjectileMat683ED7E74FDABD3ADF6A4084C73E3520.tmp' to '../../../../../../Users/GD48Cole/Documents/GitHub/StandBy/GGJGame/Content/Geometry/Mats/ProjectileMat.uasset'
+[2018.01.27-05.33.19:664][610]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/GD48Cole/Documents/GitHub/StandBy/GGJGame/Content/Geometry/Mats/ProjectileMat.uasset
+[2018.01.27-05.33.19:687][610]LogSavePackage: Save=9.88ms
+[2018.01.27-05.33.19:687][610]LogSavePackage: Moving '../../../../../../Users/GD48Cole/Documents/GitHub/StandBy/GGJGame/Saved/initialShadingGroup73D95D5E469475A50BDF62B0A1373E6F.tmp' to '../../../../../../Users/GD48Cole/Documents/GitHub/StandBy/GGJGame/Content/Geometry/Meshes/Doors/initialShadingGroup.uasset'
+[2018.01.27-05.33.19:689][610]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/GD48Cole/Documents/GitHub/StandBy/GGJGame/Content/Geometry/Meshes/Doors/initialShadingGroup.uasset
+[2018.01.27-05.33.19:711][610]LogSavePackage: Save=9.82ms
+[2018.01.27-05.33.19:711][610]LogSavePackage: Moving '../../../../../../Users/GD48Cole/Documents/GitHub/StandBy/GGJGame/Saved/initialShadingGroup19D030AC4FC092C4DA0915B1D63DB5C9.tmp' to '../../../../../../Users/GD48Cole/Documents/GitHub/StandBy/GGJGame/Content/Geometry/Meshes/LevelObjects/initialShadingGroup.uasset'
+[2018.01.27-05.33.19:713][610]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/GD48Cole/Documents/GitHub/StandBy/GGJGame/Content/Geometry/Meshes/LevelObjects/initialShadingGroup.uasset
+[2018.01.27-05.33.19:736][610]LogSavePackage: Save=9.97ms
+[2018.01.27-05.33.19:736][610]LogSavePackage: Moving '../../../../../../Users/GD48Cole/Documents/GitHub/StandBy/GGJGame/Saved/initialShadingGroupF864B25040955E30BDC37594F771B282.tmp' to '../../../../../../Users/GD48Cole/Documents/GitHub/StandBy/GGJGame/Content/Geometry/Meshes/Projectile/initialShadingGroup.uasset'
+[2018.01.27-05.33.19:738][610]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/GD48Cole/Documents/GitHub/StandBy/GGJGame/Content/Geometry/Meshes/Projectile/initialShadingGroup.uasset
+[2018.01.27-05.33.19:914][610]LogSavePackage: Save=166.04ms
+[2018.01.27-05.33.19:914][610]LogSavePackage: Moving '../../../../../../Users/GD48Cole/Documents/GitHub/StandBy/GGJGame/Saved/DoorMedium_initialShadingGroup_B260DE36A49D2FB69719F27BBC5242076.tmp' to '../../../../../../Users/GD48Cole/Documents/GitHub/StandBy/GGJGame/Content/Geometry/Textures/Doors/DoorMedium/DoorMedium_initialShadingGroup_BaseColor.uasset'
+[2018.01.27-05.33.19:917][610]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/GD48Cole/Documents/GitHub/StandBy/GGJGame/Content/Geometry/Textures/Doors/DoorMedium/DoorMedium_initialShadingGroup_BaseColor.uasset
+[2018.01.27-05.33.19:957][610]LogSavePackage: Save=31.22ms
+[2018.01.27-05.33.19:957][610]LogSavePackage: Moving '../../../../../../Users/GD48Cole/Documents/GitHub/StandBy/GGJGame/Saved/DoorMedium_initialShadingGroup_H30243D904DA5D17D821004A602E30F44.tmp' to '../../../../../../Users/GD48Cole/Documents/GitHub/StandBy/GGJGame/Content/Geometry/Textures/Doors/DoorMedium/DoorMedium_initialShadingGroup_Height.uasset'
+[2018.01.27-05.33.19:959][610]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/GD48Cole/Documents/GitHub/StandBy/GGJGame/Content/Geometry/Textures/Doors/DoorMedium/DoorMedium_initialShadingGroup_Height.uasset
+[2018.01.27-05.33.20:008][610]LogSavePackage: Save=40.81ms
+[2018.01.27-05.33.20:008][610]LogSavePackage: Moving '../../../../../../Users/GD48Cole/Documents/GitHub/StandBy/GGJGame/Saved/DoorMedium_initialShadingGroup_M14C3383840F5A346E490638DAC5F8E0B.tmp' to '../../../../../../Users/GD48Cole/Documents/GitHub/StandBy/GGJGame/Content/Geometry/Textures/Doors/DoorMedium/DoorMedium_initialShadingGroup_Metallic.uasset'
+[2018.01.27-05.33.20:013][610]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/GD48Cole/Documents/GitHub/StandBy/GGJGame/Content/Geometry/Textures/Doors/DoorMedium/DoorMedium_initialShadingGroup_Metallic.uasset
+[2018.01.27-05.33.20:147][610]LogSavePackage: Save=125.64ms
+[2018.01.27-05.33.20:147][610]LogSavePackage: Moving '../../../../../../Users/GD48Cole/Documents/GitHub/StandBy/GGJGame/Saved/DoorMedium_initialShadingGroup_NB508556F4AA8E7907599ED91B2AC8E74.tmp' to '../../../../../../Users/GD48Cole/Documents/GitHub/StandBy/GGJGame/Content/Geometry/Textures/Doors/DoorMedium/DoorMedium_initialShadingGroup_Normal.uasset'
+[2018.01.27-05.33.20:151][610]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/GD48Cole/Documents/GitHub/StandBy/GGJGame/Content/Geometry/Textures/Doors/DoorMedium/DoorMedium_initialShadingGroup_Normal.uasset
+[2018.01.27-05.33.20:232][610]LogSavePackage: Save=71.46ms
+[2018.01.27-05.33.20:232][610]LogSavePackage: Moving '../../../../../../Users/GD48Cole/Documents/GitHub/StandBy/GGJGame/Saved/DoorMedium_initialShadingGroup_RE7EC7D41475B26CFDBD75F99D2D61947.tmp' to '../../../../../../Users/GD48Cole/Documents/GitHub/StandBy/GGJGame/Content/Geometry/Textures/Doors/DoorMedium/DoorMedium_initialShadingGroup_Roughness.uasset'
+[2018.01.27-05.33.20:235][610]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/GD48Cole/Documents/GitHub/StandBy/GGJGame/Content/Geometry/Textures/Doors/DoorMedium/DoorMedium_initialShadingGroup_Roughness.uasset
+[2018.01.27-05.33.20:425][610]LogSavePackage: Save=179.89ms
+[2018.01.27-05.33.20:425][610]LogSavePackage: Moving '../../../../../../Users/GD48Cole/Documents/GitHub/StandBy/GGJGame/Saved/DoorSmall_initialShadingGroup_Ba21D78E5546C4EF94C62BC7B314DA3CFC.tmp' to '../../../../../../Users/GD48Cole/Documents/GitHub/StandBy/GGJGame/Content/Geometry/Textures/Doors/DoorSmall/DoorSmall_initialShadingGroup_BaseColor.uasset'
+[2018.01.27-05.33.20:427][610]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/GD48Cole/Documents/GitHub/StandBy/GGJGame/Content/Geometry/Textures/Doors/DoorSmall/DoorSmall_initialShadingGroup_BaseColor.uasset
+[2018.01.27-05.33.20:472][610]LogSavePackage: Save=34.12ms
+[2018.01.27-05.33.20:472][610]LogSavePackage: Moving '../../../../../../Users/GD48Cole/Documents/GitHub/StandBy/GGJGame/Saved/DoorSmall_initialShadingGroup_He04EABDD041EC613FCBB76E906B13A518.tmp' to '../../../../../../Users/GD48Cole/Documents/GitHub/StandBy/GGJGame/Content/Geometry/Textures/Doors/DoorSmall/DoorSmall_initialShadingGroup_Height.uasset'
+[2018.01.27-05.33.20:474][610]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/GD48Cole/Documents/GitHub/StandBy/GGJGame/Content/Geometry/Textures/Doors/DoorSmall/DoorSmall_initialShadingGroup_Height.uasset
+[2018.01.27-05.33.20:528][610]LogSavePackage: Save=46.96ms
+[2018.01.27-05.33.20:528][610]LogSavePackage: Moving '../../../../../../Users/GD48Cole/Documents/GitHub/StandBy/GGJGame/Saved/DoorSmall_initialShadingGroup_MeF4E940F24A0CC862681193A38859AEB2.tmp' to '../../../../../../Users/GD48Cole/Documents/GitHub/StandBy/GGJGame/Content/Geometry/Textures/Doors/DoorSmall/DoorSmall_initialShadingGroup_Metallic.uasset'
+[2018.01.27-05.33.20:531][610]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/GD48Cole/Documents/GitHub/StandBy/GGJGame/Content/Geometry/Textures/Doors/DoorSmall/DoorSmall_initialShadingGroup_Metallic.uasset
+[2018.01.27-05.33.20:679][610]LogSavePackage: Save=138.34ms
+[2018.01.27-05.33.20:679][610]LogSavePackage: Moving '../../../../../../Users/GD48Cole/Documents/GitHub/StandBy/GGJGame/Saved/DoorSmall_initialShadingGroup_No272B8AEB48BCCE9E27C9A2B2856BF5DC.tmp' to '../../../../../../Users/GD48Cole/Documents/GitHub/StandBy/GGJGame/Content/Geometry/Textures/Doors/DoorSmall/DoorSmall_initialShadingGroup_Normal.uasset'
+[2018.01.27-05.33.20:681][610]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/GD48Cole/Documents/GitHub/StandBy/GGJGame/Content/Geometry/Textures/Doors/DoorSmall/DoorSmall_initialShadingGroup_Normal.uasset
+[2018.01.27-05.33.20:759][610]LogSavePackage: Save=68.66ms
+[2018.01.27-05.33.20:759][610]LogSavePackage: Moving '../../../../../../Users/GD48Cole/Documents/GitHub/StandBy/GGJGame/Saved/DoorSmall_initialShadingGroup_RoAEFA9AC24B5BC7E36AC596A454CA65FA.tmp' to '../../../../../../Users/GD48Cole/Documents/GitHub/StandBy/GGJGame/Content/Geometry/Textures/Doors/DoorSmall/DoorSmall_initialShadingGroup_Roughness.uasset'
+[2018.01.27-05.33.20:761][610]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/GD48Cole/Documents/GitHub/StandBy/GGJGame/Content/Geometry/Textures/Doors/DoorSmall/DoorSmall_initialShadingGroup_Roughness.uasset
+[2018.01.27-05.33.20:774][610]LogSavePackage: Save=5.46ms
+[2018.01.27-05.33.20:774][610]LogSavePackage: Moving '../../../../../../Users/GD48Cole/Documents/GitHub/StandBy/GGJGame/Saved/Opacity9AEB79374B409FC632CB9B97A8A14394.tmp' to '../../../../../../Users/GD48Cole/Documents/GitHub/StandBy/GGJGame/Content/Geometry/Textures/Projectile/Opacity.uasset'
+[2018.01.27-05.33.20:777][610]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/GD48Cole/Documents/GitHub/StandBy/GGJGame/Content/Geometry/Textures/Projectile/Opacity.uasset
+[2018.01.27-05.33.20:790][610]LogSavePackage: Save=5.57ms
+[2018.01.27-05.33.20:790][610]LogSavePackage: Moving '../../../../../../Users/GD48Cole/Documents/GitHub/StandBy/GGJGame/Saved/Projectile1_initialShadingGroup_17D9AE4D4F89449031724396B52AC860.tmp' to '../../../../../../Users/GD48Cole/Documents/GitHub/StandBy/GGJGame/Content/Geometry/Textures/Projectile/Projectile1_initialShadingGroup_BaseColor.uasset'
+[2018.01.27-05.33.20:792][610]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/GD48Cole/Documents/GitHub/StandBy/GGJGame/Content/Geometry/Textures/Projectile/Projectile1_initialShadingGroup_BaseColor.uasset
+[2018.01.27-05.33.20:808][610]LogSavePackage: Save=5.46ms
+[2018.01.27-05.33.20:808][610]LogSavePackage: Moving '../../../../../../Users/GD48Cole/Documents/GitHub/StandBy/GGJGame/Saved/Projectile1_initialShadingGroup_460BC4AD4CFEC6EBE54E8799521E512A.tmp' to '../../../../../../Users/GD48Cole/Documents/GitHub/StandBy/GGJGame/Content/Geometry/Textures/Projectile/Projectile1_initialShadingGroup_Emissive.uasset'
+[2018.01.27-05.33.20:810][610]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/GD48Cole/Documents/GitHub/StandBy/GGJGame/Content/Geometry/Textures/Projectile/Projectile1_initialShadingGroup_Emissive.uasset
+[2018.01.27-05.33.20:831][610]LogSavePackage: Save=4.43ms
+[2018.01.27-05.33.20:831][610]LogSavePackage: Moving '../../../../../../Users/GD48Cole/Documents/GitHub/StandBy/GGJGame/Saved/Projectile1_initialShadingGroup_41E35827407AFB377E86BB90091EDB6A.tmp' to '../../../../../../Users/GD48Cole/Documents/GitHub/StandBy/GGJGame/Content/Geometry/Textures/Projectile/Projectile1_initialShadingGroup_Height.uasset'
+[2018.01.27-05.33.20:833][610]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/GD48Cole/Documents/GitHub/StandBy/GGJGame/Content/Geometry/Textures/Projectile/Projectile1_initialShadingGroup_Height.uasset
+[2018.01.27-05.33.20:846][610]LogSavePackage: Save=4.31ms
+[2018.01.27-05.33.20:846][610]LogSavePackage: Moving '../../../../../../Users/GD48Cole/Documents/GitHub/StandBy/GGJGame/Saved/Projectile1_initialShadingGroup_ADDD5CD74B78FAAB95BA2CA4A45318B0.tmp' to '../../../../../../Users/GD48Cole/Documents/GitHub/StandBy/GGJGame/Content/Geometry/Textures/Projectile/Projectile1_initialShadingGroup_Metallic.uasset'
+[2018.01.27-05.33.20:899][610]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/GD48Cole/Documents/GitHub/StandBy/GGJGame/Content/Geometry/Textures/Projectile/Projectile1_initialShadingGroup_Metallic.uasset
+[2018.01.27-05.33.20:913][610]LogSavePackage: Save=5.80ms
+[2018.01.27-05.33.20:913][610]LogSavePackage: Moving '../../../../../../Users/GD48Cole/Documents/GitHub/StandBy/GGJGame/Saved/Projectile1_initialShadingGroup_360DBE624C4DF538DC35EB8BF860E5B8.tmp' to '../../../../../../Users/GD48Cole/Documents/GitHub/StandBy/GGJGame/Content/Geometry/Textures/Projectile/Projectile1_initialShadingGroup_Normal.uasset'
+[2018.01.27-05.33.20:915][610]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/GD48Cole/Documents/GitHub/StandBy/GGJGame/Content/Geometry/Textures/Projectile/Projectile1_initialShadingGroup_Normal.uasset
+[2018.01.27-05.33.20:927][610]LogSavePackage: Save=4.20ms
+[2018.01.27-05.33.20:927][610]LogSavePackage: Moving '../../../../../../Users/GD48Cole/Documents/GitHub/StandBy/GGJGame/Saved/Projectile1_initialShadingGroup_19CAF12A4FD5FE084B666BB01BD4E6BC.tmp' to '../../../../../../Users/GD48Cole/Documents/GitHub/StandBy/GGJGame/Content/Geometry/Textures/Projectile/Projectile1_initialShadingGroup_Roughness.uasset'
+[2018.01.27-05.33.20:929][610]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/GD48Cole/Documents/GitHub/StandBy/GGJGame/Content/Geometry/Textures/Projectile/Projectile1_initialShadingGroup_Roughness.uasset
+[2018.01.27-05.33.21:053][610]LogSavePackage: Save=116.36ms
+[2018.01.27-05.33.21:053][610]LogSavePackage: Moving '../../../../../../Users/GD48Cole/Documents/GitHub/StandBy/GGJGame/Saved/Target1_initialShadingGroup_Base9EA91DD94CA52D229089BC8683573153.tmp' to '../../../../../../Users/GD48Cole/Documents/GitHub/StandBy/GGJGame/Content/Geometry/Textures/TargetTextures/Target1_initialShadingGroup_BaseColor.uasset'
+[2018.01.27-05.33.21:055][610]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/GD48Cole/Documents/GitHub/StandBy/GGJGame/Content/Geometry/Textures/TargetTextures/Target1_initialShadingGroup_BaseColor.uasset
+[2018.01.27-05.33.21:108][610]LogSavePackage: Save=45.23ms
+[2018.01.27-05.33.21:108][610]LogSavePackage: Moving '../../../../../../Users/GD48Cole/Documents/GitHub/StandBy/GGJGame/Saved/Target1_initialShadingGroup_Emis5A401B7548676AA43D57549082934CE0.tmp' to '../../../../../../Users/GD48Cole/Documents/GitHub/StandBy/GGJGame/Content/Geometry/Textures/TargetTextures/Target1_initialShadingGroup_Emissive.uasset'
+[2018.01.27-05.33.21:109][610]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/GD48Cole/Documents/GitHub/StandBy/GGJGame/Content/Geometry/Textures/TargetTextures/Target1_initialShadingGroup_Emissive.uasset
+[2018.01.27-05.33.21:150][610]LogSavePackage: Save=27.86ms
+[2018.01.27-05.33.21:150][610]LogSavePackage: Moving '../../../../../../Users/GD48Cole/Documents/GitHub/StandBy/GGJGame/Saved/Target1_initialShadingGroup_HeigE43D2C674A7C0DA8EC179DB78023718D.tmp' to '../../../../../../Users/GD48Cole/Documents/GitHub/StandBy/GGJGame/Content/Geometry/Textures/TargetTextures/Target1_initialShadingGroup_Height.uasset'
+[2018.01.27-05.33.21:152][610]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/GD48Cole/Documents/GitHub/StandBy/GGJGame/Content/Geometry/Textures/TargetTextures/Target1_initialShadingGroup_Height.uasset
+[2018.01.27-05.33.21:182][610]LogSavePackage: Save=22.13ms
+[2018.01.27-05.33.21:182][610]LogSavePackage: Moving '../../../../../../Users/GD48Cole/Documents/GitHub/StandBy/GGJGame/Saved/Target1_initialShadingGroup_Meta486440D546AA4249A7BEC1AB62C3D4C6.tmp' to '../../../../../../Users/GD48Cole/Documents/GitHub/StandBy/GGJGame/Content/Geometry/Textures/TargetTextures/Target1_initialShadingGroup_Metallic.uasset'
+[2018.01.27-05.33.21:185][610]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/GD48Cole/Documents/GitHub/StandBy/GGJGame/Content/Geometry/Textures/TargetTextures/Target1_initialShadingGroup_Metallic.uasset
+[2018.01.27-05.33.21:291][610]LogSavePackage: Save=97.40ms
+[2018.01.27-05.33.21:291][610]LogSavePackage: Moving '../../../../../../Users/GD48Cole/Documents/GitHub/StandBy/GGJGame/Saved/Target1_initialShadingGroup_NormE9BBFC4340F7C35CD2EAD99DD15F143D.tmp' to '../../../../../../Users/GD48Cole/Documents/GitHub/StandBy/GGJGame/Content/Geometry/Textures/TargetTextures/Target1_initialShadingGroup_Normal.uasset'
+[2018.01.27-05.33.21:294][610]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/GD48Cole/Documents/GitHub/StandBy/GGJGame/Content/Geometry/Textures/TargetTextures/Target1_initialShadingGroup_Normal.uasset
+[2018.01.27-05.33.21:343][610]LogSavePackage: Save=40.17ms
+[2018.01.27-05.33.21:343][610]LogSavePackage: Moving '../../../../../../Users/GD48Cole/Documents/GitHub/StandBy/GGJGame/Saved/Target1_initialShadingGroup_Roug6D57FB1B45E9D66FC6207E912A56C8A3.tmp' to '../../../../../../Users/GD48Cole/Documents/GitHub/StandBy/GGJGame/Content/Geometry/Textures/TargetTextures/Target1_initialShadingGroup_Roughness.uasset'
+[2018.01.27-05.33.21:346][610]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/GD48Cole/Documents/GitHub/StandBy/GGJGame/Content/Geometry/Textures/TargetTextures/Target1_initialShadingGroup_Roughness.uasset
+[2018.01.27-05.33.21:829][610]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/ArtLevel.ArtLevel:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/ArtLevel.ArtLevel:PersistentLevel.ArtLevel' with GeneratedClass '/Game/FirstPersonBP/Maps/ArtLevel.ArtLevel_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/ArtLevel.ArtLevel:PersistentLevel.ArtLevel'
+[2018.01.27-05.33.21:862][610]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/ArtLevel.ArtLevel:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/ArtLevel.ArtLevel:PersistentLevel.ArtLevel' with GeneratedClass '/Game/FirstPersonBP/Maps/ArtLevel.ArtLevel_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/ArtLevel.ArtLevel:PersistentLevel.ArtLevel'
+[2018.01.27-05.33.22:050][611]Cmd: QUIT_EDITOR
+[2018.01.27-05.33.22:092][611]LogExit: Preparing to exit.
+[2018.01.27-05.33.22:438][611]LogDirectoryWatcher: A directory notification for 'C:/Users/GD48Cole/Documents/GitHub/StandBy/GGJGame/Content/' was aborted.
+[2018.01.27-05.33.22:467][611]LogExit: Editor shut down
+[2018.01.27-05.33.22:470][611]LogExit: Transaction tracking system shut down
+[2018.01.27-05.33.22:626][611]LogDirectoryWatcher: A directory notification for '../../../Engine/Content/' was aborted.
+[2018.01.27-05.33.22:626][611]LogDirectoryWatcher: A directory notification for '../../../../../../Users/GD48Cole/Documents/GitHub/StandBy/GGJGame/Content/' was aborted.
+[2018.01.27-05.33.22:626][611]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/2D/Paper2D/Content/' was aborted.
+[2018.01.27-05.33.22:627][611]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/Media/MediaCompositing/Content/' was aborted.
+[2018.01.27-05.33.22:627][611]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/Runtime/AppleARKit/Content/' was aborted.
+[2018.01.27-05.33.22:627][611]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/Runtime/Oculus/OculusVR/Content/' was aborted.
+[2018.01.27-05.33.22:627][611]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/Runtime/Steam/SteamVR/Content/' was aborted.
+[2018.01.27-05.33.22:728][611]LogExit: Object subsystem successfully closed.
+[2018.01.27-05.33.22:745][611]LogD3D11RHI: Shutdown
+[2018.01.27-05.33.22:745][611]LogD3D11RHI: CleanupD3DDevice
+[2018.01.27-05.33.22:749][611]LogD3D11RHI: ~FD3D11DynamicRHI
+[2018.01.27-05.33.22:773][611]LogModuleManager: Shutting down and abandoning module StaticMeshEditor (566)
+[2018.01.27-05.33.22:773][611]LogModuleManager: Shutting down and abandoning module BlueprintGraph (564)
+[2018.01.27-05.33.22:773][611]LogModuleManager: Shutting down and abandoning module AnimationBlueprintEditor (562)
+[2018.01.27-05.33.22:773][611]LogModuleManager: Shutting down and abandoning module AnimationEditor (560)
+[2018.01.27-05.33.22:773][611]LogModuleManager: Shutting down and abandoning module MaterialEditor (558)
+[2018.01.27-05.33.22:773][611]LogModuleManager: Shutting down and abandoning module PhysicsAssetEditor (556)
+[2018.01.27-05.33.22:773][611]LogModuleManager: Shutting down and abandoning module ClothingSystemEditorInterface (554)
+[2018.01.27-05.33.22:773][611]LogModuleManager: Shutting down and abandoning module SkeletonEditor (552)
+[2018.01.27-05.33.22:773][611]LogModuleManager: Shutting down and abandoning module MovieSceneCapture (550)
+[2018.01.27-05.33.22:773][611]LogModuleManager: Shutting down and abandoning module HierarchicalLODOutliner (548)
+[2018.01.27-05.33.22:773][611]LogModuleManager: Shutting down and abandoning module SceneOutliner (546)
+[2018.01.27-05.33.22:773][611]LogModuleManager: Shutting down and abandoning module AddContentDialog (544)
+[2018.01.27-05.33.22:773][611]LogDirectoryWatcher: A directory notification for 'C:/Program Files/Epic Games/UE_4.18/FeaturePacks/' was aborted.
+[2018.01.27-05.33.22:775][611]LogModuleManager: Shutting down and abandoning module WidgetCarousel (543)
+[2018.01.27-05.33.22:775][611]LogModuleManager: Shutting down and abandoning module EditorWidgets (540)
+[2018.01.27-05.33.22:775][611]LogModuleManager: Shutting down and abandoning module CollectionManager (538)
+[2018.01.27-05.33.22:775][611]LogDirectoryWatcher: A directory notification for 'C:/Users/GD48Cole/Documents/GitHub/StandBy/GGJGame/Content/Collections/' was aborted.
+[2018.01.27-05.33.22:775][611]LogDirectoryWatcher: A directory notification for 'C:/Users/GD48Cole/Documents/GitHub/StandBy/GGJGame/Content/Developers/GD48Cole/Collections/' was aborted.
+[2018.01.27-05.33.22:775][611]LogDirectoryWatcher: A directory notification for 'C:/Users/GD48Cole/Documents/GitHub/StandBy/GGJGame/Saved/Collections/' was aborted.
+[2018.01.27-05.33.22:775][611]LogModuleManager: Shutting down and abandoning module StatsViewer (536)
+[2018.01.27-05.33.22:775][611]LogModuleManager: Shutting down and abandoning module FoliageEdit (534)
+[2018.01.27-05.33.22:775][611]LogModuleManager: Shutting down and abandoning module LandscapeEditor (532)
+[2018.01.27-05.33.22:775][611]LogModuleManager: Shutting down and abandoning module MeshPaintMode (530)
+[2018.01.27-05.33.22:775][611]LogModuleManager: Shutting down and abandoning module SceneDepthPickerMode (528)
+[2018.01.27-05.33.22:775][611]LogModuleManager: Shutting down and abandoning module ActorPickerMode (526)
+[2018.01.27-05.33.22:775][611]LogModuleManager: Shutting down and abandoning module GeometryMode (524)
+[2018.01.27-05.33.22:776][611]LogModuleManager: Shutting down and abandoning module TextureAlignMode (522)
+[2018.01.27-05.33.22:776][611]LogModuleManager: Shutting down and abandoning module BspMode (520)
+[2018.01.27-05.33.22:776][611]LogModuleManager: Shutting down and abandoning module PIEPreviewDeviceProfileSelector (518)
+[2018.01.27-05.33.22:776][611]LogModuleManager: Shutting down and abandoning module HardwareSurvey (516)
+[2018.01.27-05.33.22:776][611]LogModuleManager: Shutting down and abandoning module SequenceRecorderSections (514)
+[2018.01.27-05.33.22:776][611]LogModuleManager: Shutting down and abandoning module AutomationWorker (512)
+[2018.01.27-05.33.22:776][611]LogModuleManager: Shutting down and abandoning module MatineeToLevelSequence (510)
+[2018.01.27-05.33.22:776][611]LogModuleManager: Shutting down and abandoning module LevelSequenceEditor (508)
+[2018.01.27-05.33.22:776][611]LogModuleManager: Shutting down and abandoning module PlacementMode (507)
+[2018.01.27-05.33.22:776][611]LogModuleManager: Shutting down and abandoning module WmfMediaFactory (504)
+[2018.01.27-05.33.22:776][611]LogModuleManager: Shutting down and abandoning module WmfMediaEditor (502)
+[2018.01.27-05.33.22:776][611]LogModuleManager: Shutting down and abandoning module OpenExrWrapper (500)
+[2018.01.27-05.33.22:776][611]LogModuleManager: Shutting down and abandoning module ImgMediaFactory (498)
+[2018.01.27-05.33.22:776][611]LogModuleManager: Shutting down and abandoning module ImgMediaEditor (496)
+[2018.01.27-05.33.22:776][611]LogModuleManager: Shutting down and abandoning module AvfMediaFactory (494)
+[2018.01.27-05.33.22:776][611]LogModuleManager: Shutting down and abandoning module AvfMediaEditor (492)
+[2018.01.27-05.33.22:776][611]LogModuleManager: Shutting down and abandoning module AndroidMediaFactory (490)
+[2018.01.27-05.33.22:776][611]LogModuleManager: Shutting down and abandoning module AndroidMediaEditor (488)
+[2018.01.27-05.33.22:776][611]LogModuleManager: Shutting down and abandoning module CharacterAI (486)
+[2018.01.27-05.33.22:776][611]LogModuleManager: Shutting down and abandoning module AudioCapture (484)
+[2018.01.27-05.33.22:776][611]LogModuleManager: Shutting down and abandoning module SequenceRecorder (483)
+[2018.01.27-05.33.22:776][611]LogModuleManager: Shutting down and abandoning module SmartSnapping (480)
+[2018.01.27-05.33.22:776][611]LogModuleManager: Shutting down and abandoning module SessionServices (478)
+[2018.01.27-05.33.22:776][611]LogModuleManager: Shutting down and abandoning module ViewportSnapping (476)
+[2018.01.27-05.33.22:776][611]LogModuleManager: Shutting down and abandoning module ViewportInteraction (474)
+[2018.01.27-05.33.22:776][611]LogModuleManager: Shutting down and abandoning module ClothPainter (472)
+[2018.01.27-05.33.22:776][611]LogModuleManager: Shutting down and abandoning module SkeletalMeshEditor (471)
+[2018.01.27-05.33.22:776][611]LogModuleManager: Shutting down and abandoning module LogVisualizer (468)
+[2018.01.27-05.33.22:777][611]LogModuleManager: Shutting down and abandoning module IntroTutorials (466)
+[2018.01.27-05.33.22:777][611]LogModuleManager: Shutting down and abandoning module GameProjectGeneration (465)
+[2018.01.27-05.33.22:777][611]LogModuleManager: Shutting down and abandoning module IOSPlatformEditor (462)
+[2018.01.27-05.33.22:777][611]LogModuleManager: Shutting down and abandoning module HTML5PlatformEditor (460)
+[2018.01.27-05.33.22:777][611]LogModuleManager: Shutting down and abandoning module AndroidPlatformEditor (458)
+[2018.01.27-05.33.22:777][611]LogModuleManager: Shutting down and abandoning module AndroidDeviceDetection (457)
+[2018.01.27-05.33.23:287][611]LogModuleManager: Shutting down and abandoning module WindowsPlatformEditor (454)
+[2018.01.27-05.33.23:287][611]LogModuleManager: Shutting down and abandoning module IOSRuntimeSettings (452)
+[2018.01.27-05.33.23:287][611]LogModuleManager: Shutting down and abandoning module AndroidRuntimeSettings (450)
+[2018.01.27-05.33.23:288][611]LogModuleManager: Shutting down and abandoning module InputBindingEditor (448)
+[2018.01.27-05.33.23:288][611]LogModuleManager: Shutting down and abandoning module MergeActors (446)
+[2018.01.27-05.33.23:288][611]LogModuleManager: Shutting down and abandoning module SizeMap (444)
+[2018.01.27-05.33.23:288][611]LogModuleManager: Shutting down and abandoning module TreeMap (442)
+[2018.01.27-05.33.23:288][611]LogModuleManager: Shutting down and abandoning module ReferenceViewer (440)
+[2018.01.27-05.33.23:288][611]LogModuleManager: Shutting down and abandoning module LocalizationDashboard (438)
+[2018.01.27-05.33.23:288][611]LogModuleManager: Shutting down and abandoning module LocalizationService (437)
+[2018.01.27-05.33.23:288][611]LogModuleManager: Shutting down and abandoning module HardwareTargeting (434)
+[2018.01.27-05.33.23:288][611]LogModuleManager: Shutting down and abandoning module DeviceProfileEditor (432)
+[2018.01.27-05.33.23:288][611]LogModuleManager: Shutting down and abandoning module UndoHistory (430)
+[2018.01.27-05.33.23:288][611]LogModuleManager: Shutting down and abandoning module XmlParser (428)
+[2018.01.27-05.33.23:288][611]LogModuleManager: Shutting down and abandoning module Blutility (426)
+[2018.01.27-05.33.23:288][611]LogModuleManager: Shutting down and abandoning module ProjectSettingsViewer (424)
+[2018.01.27-05.33.23:288][611]LogModuleManager: Shutting down and abandoning module ProjectTargetPlatformEditor (423)
+[2018.01.27-05.33.23:288][611]LogModuleManager: Shutting down and abandoning module EditorSettingsViewer (420)
+[2018.01.27-05.33.23:289][611]LogModuleManager: Shutting down and abandoning module SettingsEditor (418)
+[2018.01.27-05.33.23:289][611]LogModuleManager: Shutting down and abandoning module ProjectLauncher (416)
+[2018.01.27-05.33.23:289][611]LogModuleManager: Shutting down and abandoning module SessionFrontend (414)
+[2018.01.27-05.33.23:289][611]LogModuleManager: Shutting down and abandoning module ProfilerClient (412)
+[2018.01.27-05.33.23:289][611]LogModuleManager: Shutting down and abandoning module DeviceManager (410)
+[2018.01.27-05.33.23:289][611]LogModuleManager: Shutting down and abandoning module TargetDeviceServices (409)
+[2018.01.27-05.33.23:339][611]LogModuleManager: Shutting down and abandoning module AutomationController (406)
+[2018.01.27-05.33.23:339][611]LogModuleManager: Shutting down and abandoning module AutomationWindow (404)
+[2018.01.27-05.33.23:339][611]LogModuleManager: Shutting down and abandoning module Layers (402)
+[2018.01.27-05.33.23:339][611]LogModuleManager: Shutting down and abandoning module ComponentVisualizers (400)
+[2018.01.27-05.33.23:339][611]LogModuleManager: Shutting down and abandoning module DetailCustomizations (398)
+[2018.01.27-05.33.23:339][611]LogModuleManager: Shutting down and abandoning module PackagesDialog (396)
+[2018.01.27-05.33.23:339][611]LogModuleManager: Shutting down and abandoning module Persona (394)
+[2018.01.27-05.33.23:339][611]LogModuleManager: Shutting down and abandoning module AdvancedPreviewScene (393)
+[2018.01.27-05.33.23:339][611]LogModuleManager: Shutting down and abandoning module AnimGraph (391)
+[2018.01.27-05.33.23:339][611]LogModuleManager: Shutting down and abandoning module Kismet (388)
+[2018.01.27-05.33.23:346][611]LogModuleManager: Shutting down and abandoning module ClassViewer (386)
+[2018.01.27-05.33.23:348][611]LogModuleManager: Shutting down and abandoning module Toolbox (384)
+[2018.01.27-05.33.23:348][611]LogModuleManager: Shutting down and abandoning module ModuleUI (382)
+[2018.01.27-05.33.23:348][611]LogModuleManager: Shutting down and abandoning module MovieSceneTools (380)
+[2018.01.27-05.33.23:348][611]LogModuleManager: Shutting down and abandoning module OutputLog (378)
+[2018.01.27-05.33.23:348][611]LogModuleManager: Shutting down and abandoning module GammaUI (376)
+[2018.01.27-05.33.23:348][611]LogModuleManager: Shutting down and abandoning module Documentation (374)
+[2018.01.27-05.33.23:348][611]LogModuleManager: Shutting down and abandoning module MovieSceneTracks (372)
+[2018.01.27-05.33.23:348][611]LogModuleManager: Shutting down and abandoning module MovieScene (370)
+[2018.01.27-05.33.23:348][611]LogModuleManager: Shutting down and abandoning module StreamingPauseRendering (368)
+[2018.01.27-05.33.23:348][611]LogModuleManager: Shutting down and abandoning module LauncherPlatform (366)
+[2018.01.27-05.33.23:348][611]LogModuleManager: Shutting down and abandoning module AnalyticsET (364)
+[2018.01.27-05.33.23:348][611]LogModuleManager: Shutting down and abandoning module PortalServices (362)
+[2018.01.27-05.33.23:348][611]LogModuleManager: Shutting down and abandoning module PortalRpc (360)
+[2018.01.27-05.33.23:348][611]LogModuleManager: Shutting down and abandoning module MessagingRpc (358)
+[2018.01.27-05.33.23:348][611]LogModuleManager: Shutting down and abandoning module AIModule (356)
+[2018.01.27-05.33.23:348][611]LogModuleManager: Shutting down and abandoning module GameplayDebugger (355)
+[2018.01.27-05.33.23:348][611]LogModuleManager: Shutting down and abandoning module AITestSuite (353)
+[2018.01.27-05.33.23:348][611]LogModuleManager: Shutting down and abandoning module DesktopPlatform (350)
+[2018.01.27-05.33.23:348][611]LogModuleManager: Shutting down and abandoning module ProfilerService (348)
+[2018.01.27-05.33.23:493][611]LogModuleManager: Shutting down and abandoning module TaskGraph (346)
+[2018.01.27-05.33.23:493][611]LogModuleManager: Shutting down and abandoning module SteamVRController (344)
+[2018.01.27-05.33.23:493][611]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponentEditor (342)
+[2018.01.27-05.33.23:493][611]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponent (340)
+[2018.01.27-05.33.23:493][611]LogModuleManager: Shutting down and abandoning module OculusInput (338)
+[2018.01.27-05.33.23:493][611]LogModuleManager: Shutting down and abandoning module MobilePatchingUtils (336)
+[2018.01.27-05.33.23:494][611]LogModuleManager: Shutting down and abandoning module CustomMeshComponent (334)
+[2018.01.27-05.33.23:494][611]LogModuleManager: Shutting down and abandoning module CableComponent (332)
+[2018.01.27-05.33.23:494][611]LogModuleManager: Shutting down and abandoning module ArchVisCharacter (330)
+[2018.01.27-05.33.23:494][611]LogModuleManager: Shutting down and abandoning module AndroidPermission (328)
+[2018.01.27-05.33.23:494][611]LogModuleManager: Shutting down and abandoning module ActorSequence (324)
+[2018.01.27-05.33.23:494][611]LogModuleManager: Shutting down and abandoning module MediaPlayerEditor (322)
+[2018.01.27-05.33.23:494][611]LogModuleManager: Shutting down and abandoning module MediaCompositingEditor (320)
+[2018.01.27-05.33.23:494][611]LogModuleManager: Shutting down and abandoning module MediaCompositing (318)
+[2018.01.27-05.33.23:494][611]LogModuleManager: Shutting down and abandoning module HTML5Networking (316)
+[2018.01.27-05.33.23:494][611]LogModuleManager: Shutting down and abandoning module AlembicImporter (314)
+[2018.01.27-05.33.23:494][611]LogModuleManager: Shutting down and abandoning module AlembicLibrary (313)
+[2018.01.27-05.33.23:494][611]LogModuleManager: Shutting down and abandoning module GeometryCache (312)
+[2018.01.27-05.33.23:494][611]LogModuleManager: Shutting down and abandoning module GeometryCacheEd (311)
+[2018.01.27-05.33.23:494][611]LogModuleManager: Shutting down and abandoning module SpeedTreeImporter (306)
+[2018.01.27-05.33.23:494][611]LogModuleManager: Shutting down and abandoning module PluginBrowser (304)
+[2018.01.27-05.33.23:494][611]LogModuleManager: Shutting down and abandoning module MobileLauncherProfileWizard (302)
+[2018.01.27-05.33.23:494][611]LogModuleManager: Shutting down and abandoning module VisualStudioSourceCodeAccess (300)
+[2018.01.27-05.33.23:494][611]LogModuleManager: Shutting down and abandoning module VisualStudioCodeSourceCodeAccess (298)
+[2018.01.27-05.33.23:494][611]LogModuleManager: Shutting down and abandoning module UObjectPlugin (296)
+[2018.01.27-05.33.23:494][611]LogModuleManager: Shutting down and abandoning module SubversionSourceControl (294)
+[2018.01.27-05.33.23:494][611]LogModuleManager: Shutting down and abandoning module PerforceSourceControl (292)
+[2018.01.27-05.33.23:494][611]LogModuleManager: Shutting down and abandoning module GitSourceControl (290)
+[2018.01.27-05.33.23:494][611]LogModuleManager: Shutting down and abandoning module SourceControl (289)
+[2018.01.27-05.33.23:494][611]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeEditor (286)
+[2018.01.27-05.33.23:494][611]LogModuleManager: Shutting down and abandoning module PaperTiledImporter (284)
+[2018.01.27-05.33.23:494][611]LogModuleManager: Shutting down and abandoning module PaperSpriteSheetImporter (282)
+[2018.01.27-05.33.23:494][611]LogModuleManager: Shutting down and abandoning module Paper2DEditor (280)
+[2018.01.27-05.33.23:494][611]LogModuleManager: Shutting down and abandoning module MeshPaint (279)
+[2018.01.27-05.33.23:494][611]LogModuleManager: Shutting down and abandoning module LevelEditor (277)
+[2018.01.27-05.33.23:495][611]LogModuleManager: Shutting down and abandoning module PixelInspectorModule (276)
+[2018.01.27-05.33.23:495][611]LogModuleManager: Shutting down and abandoning module MainFrame (274)
+[2018.01.27-05.33.23:495][611]LogModuleManager: Shutting down and abandoning module HotReload (273)
+[2018.01.27-05.33.23:497][611]LogModuleManager: Shutting down and abandoning module RuntimePhysXCooking (268)
+[2018.01.27-05.33.23:497][611]LogModuleManager: Shutting down and abandoning module PhysXVehiclesEditor (266)
+[2018.01.27-05.33.23:497][611]LogModuleManager: Shutting down and abandoning module PhysXVehicles (264)
+[2018.01.27-05.33.23:497][611]LogModuleManager: Shutting down and abandoning module OculusEditor (262)
+[2018.01.27-05.33.23:497][611]LogModuleManager: Shutting down and abandoning module LocationServicesBPLibrary (260)
+[2018.01.27-05.33.23:497][611]LogModuleManager: Shutting down and abandoning module ImmediatePhysicsEditor (258)
+[2018.01.27-05.33.23:497][611]LogModuleManager: Shutting down and abandoning module ImmediatePhysics (256)
+[2018.01.27-05.33.23:497][611]LogModuleManager: Shutting down and abandoning module UdpMessaging (254)
+[2018.01.27-05.33.23:597][611]LogModuleManager: Shutting down and abandoning module TcpMessaging (252)
+[2018.01.27-05.33.23:697][611]LogModuleManager: Shutting down and abandoning module GameplayTagsEditor (250)
+[2018.01.27-05.33.23:697][611]LogModuleManager: Shutting down and abandoning module FacialAnimationEditor (248)
+[2018.01.27-05.33.23:697][611]LogModuleManager: Shutting down and abandoning module FacialAnimation (246)
+[2018.01.27-05.33.23:697][611]LogModuleManager: Shutting down and abandoning module AssetManagerEditor (244)
+[2018.01.27-05.33.23:697][611]LogModuleManager: Shutting down and abandoning module GraphEditor (243)
+[2018.01.27-05.33.23:697][611]LogModuleManager: Shutting down and abandoning module ContentBrowser (241)
+[2018.01.27-05.33.23:698][611]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeRuntime (238)
+[2018.01.27-05.33.23:698][611]LogModuleManager: Shutting down and abandoning module Paper2D (236)
+[2018.01.27-05.33.23:698][611]LogModuleManager: Shutting down and abandoning module WindowsMoviePlayer (234)
+[2018.01.27-05.33.23:698][611]LogModuleManager: Shutting down and abandoning module WmfMedia (232)
+[2018.01.27-05.33.23:698][611]LogModuleManager: Shutting down and abandoning module ImgMedia (230)
+[2018.01.27-05.33.23:698][611]LogModuleManager: Shutting down and abandoning module PacketHandler (228)
+[2018.01.27-05.33.23:698][611]LogModuleManager: Shutting down and abandoning module ClothingSystemEditor (226)
+[2018.01.27-05.33.23:698][611]LogModuleManager: Shutting down and abandoning module ClothingSystemRuntime (224)
+[2018.01.27-05.33.23:699][611]LogModuleManager: Shutting down and abandoning module MediaAssets (222)
+[2018.01.27-05.33.23:699][611]LogModuleManager: Shutting down and abandoning module Media (221)
+[2018.01.27-05.33.23:704][611]LogModuleManager: Shutting down and abandoning module Overlay (218)
+[2018.01.27-05.33.23:704][611]LogModuleManager: Shutting down and abandoning module OverlayEditor (217)
+[2018.01.27-05.33.23:704][611]LogModuleManager: Shutting down and abandoning module VREditor (214)
+[2018.01.27-05.33.23:704][611]LogModuleManager: Shutting down and abandoning module StringTableEditor (212)
+[2018.01.27-05.33.23:704][611]LogModuleManager: Shutting down and abandoning module GameplayTasksEditor (210)
+[2018.01.27-05.33.23:704][611]LogModuleManager: Shutting down and abandoning module BehaviorTreeEditor (208)
+[2018.01.27-05.33.23:704][611]LogModuleManager: Shutting down and abandoning module FunctionalTesting (206)
+[2018.01.27-05.33.23:704][611]LogModuleManager: Shutting down and abandoning module CollisionAnalyzer (204)
+[2018.01.27-05.33.23:704][611]LogModuleManager: Shutting down and abandoning module WorkspaceMenuStructure (203)
+[2018.01.27-05.33.23:704][611]LogModuleManager: Shutting down and abandoning module UMG (200)
+[2018.01.27-05.33.23:704][611]LogModuleManager: Shutting down and abandoning module UMGEditor (199)
+[2018.01.27-05.33.23:704][611]LogModuleManager: Shutting down and abandoning module Sequencer (198)
+[2018.01.27-05.33.23:704][611]LogModuleManager: Shutting down and abandoning module MessageLog (195)
+[2018.01.27-05.33.23:704][611]LogModuleManager: Shutting down and abandoning module SlateReflector (190)
+[2018.01.27-05.33.23:704][611]LogModuleManager: Shutting down and abandoning module Slate (188)
+[2018.01.27-05.33.23:704][611]LogModuleManager: Shutting down and abandoning module EditorStyle (186)
+[2018.01.27-05.33.23:706][611]LogModuleManager: Shutting down and abandoning module MRMesh (184)
+[2018.01.27-05.33.23:706][611]LogModuleManager: Shutting down and abandoning module SourceCodeAccess (182)
+[2018.01.27-05.33.23:706][611]LogModuleManager: Shutting down and abandoning module HeadMountedDisplay (180)
+[2018.01.27-05.33.23:706][611]LogModuleManager: Shutting down and abandoning module XAudio2 (178)
+[2018.01.27-05.33.23:706][611]LogModuleManager: Shutting down and abandoning module Networking (176)
+[2018.01.27-05.33.23:706][611]LogModuleManager: Shutting down and abandoning module Core (172)
+[2018.01.27-05.33.23:706][611]LogModuleManager: Shutting down and abandoning module LevelSequence (168)
+[2018.01.27-05.33.23:706][611]LogModuleManager: Shutting down and abandoning module DirectoryWatcher (166)
+[2018.01.27-05.33.23:707][611]LogModuleManager: Shutting down and abandoning module KismetCompiler (164)
+[2018.01.27-05.33.23:707][611]LogModuleManager: Shutting down and abandoning module MeshUtilities (162)
+[2018.01.27-05.33.23:707][611]LogModuleManager: Shutting down and abandoning module MeshMergeUtilities (161)
+[2018.01.27-05.33.23:707][611]LogModuleManager: Shutting down and abandoning module MeshReductionInterface (160)
+[2018.01.27-05.33.23:707][611]LogModuleManager: Shutting down and abandoning module SimplygonSwarm (159)
+[2018.01.27-05.33.23:707][611]LogModuleManager: Shutting down and abandoning module SimplygonMeshReduction (157)
+[2018.01.27-05.33.23:707][611]LogModuleManager: Shutting down and abandoning module QuadricMeshReduction (155)
+[2018.01.27-05.33.23:707][611]LogModuleManager: Shutting down and abandoning module MaterialBaking (151)
+[2018.01.27-05.33.23:707][611]LogModuleManager: Shutting down and abandoning module DerivedDataCache (148)
+[2018.01.27-05.33.23:732][611]LogDerivedDataCache: Shutdown
+[2018.01.27-05.33.23:732][611]LogModuleManager: Shutting down and abandoning module TargetPlatform (146)
+[2018.01.27-05.33.23:732][611]LogModuleManager: Shutting down and abandoning module VulkanShaderFormat (145)
+[2018.01.27-05.33.23:732][611]LogModuleManager: Shutting down and abandoning module ShaderFormatVectorVM (143)
+[2018.01.27-05.33.23:732][611]LogModuleManager: Shutting down and abandoning module ShaderFormatOpenGL (141)
+[2018.01.27-05.33.23:732][611]LogModuleManager: Shutting down and abandoning module ShaderFormatD3D (139)
+[2018.01.27-05.33.23:732][611]LogModuleManager: Shutting down and abandoning module MetalShaderFormat (137)
+[2018.01.27-05.33.23:732][611]LogModuleManager: Shutting down and abandoning module TextureFormatUncompressed (135)
+[2018.01.27-05.33.23:732][611]LogModuleManager: Shutting down and abandoning module TextureFormatPVR (133)
+[2018.01.27-05.33.23:732][611]LogModuleManager: Shutting down and abandoning module TextureFormatDXT (131)
+[2018.01.27-05.33.23:732][611]LogModuleManager: Shutting down and abandoning module TextureFormatIntelISPCTexComp (129)
+[2018.01.27-05.33.23:732][611]LogModuleManager: Shutting down and abandoning module TextureFormatASTC (127)
+[2018.01.27-05.33.23:732][611]LogModuleManager: Shutting down and abandoning module ImageWrapper (126)
+[2018.01.27-05.33.23:732][611]LogModuleManager: Shutting down and abandoning module TextureFormatAndroid (123)
+[2018.01.27-05.33.23:732][611]LogModuleManager: Shutting down and abandoning module AudioFormatOpus (121)
+[2018.01.27-05.33.23:732][611]LogModuleManager: Shutting down and abandoning module AudioFormatOgg (119)
+[2018.01.27-05.33.23:732][611]LogModuleManager: Shutting down and abandoning module AudioFormatADPCM (117)
+[2018.01.27-05.33.23:732][611]LogModuleManager: Shutting down and abandoning module LinuxTargetPlatform (115)
+[2018.01.27-05.33.23:732][611]LogModuleManager: Shutting down and abandoning module LinuxServerTargetPlatform (113)
+[2018.01.27-05.33.23:732][611]LogModuleManager: Shutting down and abandoning module LinuxNoEditorTargetPlatform (111)
+[2018.01.27-05.33.23:732][611]LogModuleManager: Shutting down and abandoning module LinuxClientTargetPlatform (109)
+[2018.01.27-05.33.23:732][611]LogModuleManager: Shutting down and abandoning module TVOSTargetPlatform (107)
+[2018.01.27-05.33.23:732][611]LogModuleManager: Shutting down and abandoning module Messaging (105)
+[2018.01.27-05.33.23:732][611]LogModuleManager: Shutting down and abandoning module IOSTargetPlatform (103)
+[2018.01.27-05.33.23:732][611]LogModuleManager: Shutting down and abandoning module HTML5TargetPlatform (101)
+[2018.01.27-05.33.23:732][611]LogModuleManager: Shutting down and abandoning module AndroidTargetPlatform (99)
+[2018.01.27-05.33.23:732][611]LogModuleManager: Shutting down and abandoning module Android_PVRTCTargetPlatform (97)
+[2018.01.27-05.33.23:732][611]LogModuleManager: Shutting down and abandoning module Android_MultiTargetPlatform (95)
+[2018.01.27-05.33.23:732][611]LogModuleManager: Shutting down and abandoning module Android_ETC2TargetPlatform (93)
+[2018.01.27-05.33.23:733][611]LogModuleManager: Shutting down and abandoning module Android_ETC1TargetPlatform (91)
+[2018.01.27-05.33.23:733][611]LogModuleManager: Shutting down and abandoning module Android_DXTTargetPlatform (89)
+[2018.01.27-05.33.23:733][611]LogModuleManager: Shutting down and abandoning module Android_ATCTargetPlatform (87)
+[2018.01.27-05.33.23:733][611]LogModuleManager: Shutting down and abandoning module Android_ASTCTargetPlatform (85)
+[2018.01.27-05.33.23:733][611]LogModuleManager: Shutting down and abandoning module WindowsTargetPlatform (83)
+[2018.01.27-05.33.23:733][611]LogModuleManager: Shutting down and abandoning module WindowsServerTargetPlatform (81)
+[2018.01.27-05.33.23:733][611]LogModuleManager: Shutting down and abandoning module WindowsNoEditorTargetPlatform (79)
+[2018.01.27-05.33.23:733][611]LogModuleManager: Shutting down and abandoning module WindowsClientTargetPlatform (77)
+[2018.01.27-05.33.23:733][611]LogModuleManager: Shutting down and abandoning module MacTargetPlatform (75)
+[2018.01.27-05.33.23:733][611]LogModuleManager: Shutting down and abandoning module MacServerTargetPlatform (73)
+[2018.01.27-05.33.23:733][611]LogModuleManager: Shutting down and abandoning module MacNoEditorTargetPlatform (71)
+[2018.01.27-05.33.23:733][611]LogModuleManager: Shutting down and abandoning module MacClientTargetPlatform (69)
+[2018.01.27-05.33.23:733][611]LogModuleManager: Shutting down and abandoning module AllDesktopTargetPlatform (67)
+[2018.01.27-05.33.23:733][611]LogModuleManager: Shutting down and abandoning module InputCore (64)
+[2018.01.27-05.33.23:733][611]LogModuleManager: Shutting down and abandoning module Settings (62)
+[2018.01.27-05.33.23:733][611]LogModuleManager: Shutting down and abandoning module PhysXCooking (60)
+[2018.01.27-05.33.23:733][611]LogModuleManager: Shutting down and abandoning module SteamVR (58)
+[2018.01.27-05.33.23:733][611]LogModuleManager: Shutting down and abandoning module OculusHMD (56)
+[2018.01.27-05.33.23:733][611]LogModuleManager: Shutting down and abandoning module ExampleDeviceProfileSelector (54)
+[2018.01.27-05.33.23:733][611]LogModuleManager: Shutting down and abandoning module AppleARKit (52)
+[2018.01.27-05.33.23:733][611]LogModuleManager: Shutting down and abandoning module AugmentedReality (51)
+[2018.01.27-05.33.23:733][611]LogModuleManager: Shutting down and abandoning module OnlineBlueprintSupport (48)
+[2018.01.27-05.33.23:733][611]LogModuleManager: Shutting down and abandoning module OnlineSubsystem (44)
+[2018.01.27-05.33.23:733][611]LogModuleManager: Shutting down and abandoning module XMPP (43)
+[2018.01.27-05.33.23:733][611]LogModuleManager: Shutting down and abandoning module HTTP (41)
+[2018.01.27-05.33.23:733][611]LogHttp: Display: Http module shutting down, but needs to wait on 1 outstanding Http requests:
+[2018.01.27-05.33.23:733][611]LogHttp: Display: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B7B2183B6-4761-963C-5FEE-7B8786BB71E2%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.18.3-3832480%2B%2B%2BUE4%2BRelease-4.18&UserID=7b4f661648c1644dff8902b299cdf5c2%7Ca1d804d0bed84c2e8c5268ccc9499bd3%7C2c65be58-017c-4bac-b80f-4df828d5bca4&AppEnvironment=datacollector-binary&UploadType=eteventstream] status=Processing
+[2018.01.27-05.33.23:735][611]LogModuleManager: Shutting down and abandoning module SSL (40)
+[2018.01.27-05.33.23:737][611]LogModuleManager: Shutting down and abandoning module AnimationModifiers (36)
+[2018.01.27-05.33.23:737][611]LogModuleManager: Shutting down and abandoning module PropertyEditor (35)
+[2018.01.27-05.33.23:737][611]LogModuleManager: Shutting down and abandoning module AudioEditor (32)
+[2018.01.27-05.33.23:737][611]LogModuleManager: Shutting down and abandoning module TextureCompressor (30)
+[2018.01.27-05.33.23:737][611]LogModuleManager: Shutting down and abandoning module ShaderCore (28)
+[2018.01.27-05.33.23:737][611]LogModuleManager: Shutting down and abandoning module Landscape (26)
+[2018.01.27-05.33.23:737][611]LogModuleManager: Shutting down and abandoning module SlateRHIRenderer (24)
+[2018.01.27-05.33.23:740][611]LogModuleManager: Shutting down and abandoning module OpenGLDrv (22)
+[2018.01.27-05.33.23:740][611]LogModuleManager: Shutting down and abandoning module D3D11RHI (20)
+[2018.01.27-05.33.23:740][611]LogModuleManager: Shutting down and abandoning module AnimGraphRuntime (18)
+[2018.01.27-05.33.23:740][611]LogModuleManager: Shutting down and abandoning module Renderer (16)
+[2018.01.27-05.33.23:740][611]LogModuleManager: Shutting down and abandoning module Engine (14)
+[2018.01.27-05.33.23:740][611]LogModuleManager: Shutting down and abandoning module CoreUObject (12)
+[2018.01.27-05.33.23:740][611]LogModuleManager: Shutting down and abandoning module NetworkFile (10)
+[2018.01.27-05.33.23:740][611]LogModuleManager: Shutting down and abandoning module CookedIterativeFile (8)
+[2018.01.27-05.33.23:740][611]LogModuleManager: Shutting down and abandoning module StreamingFile (6)
+[2018.01.27-05.33.23:740][611]LogModuleManager: Shutting down and abandoning module SandboxFile (4)
+[2018.01.27-05.33.23:740][611]LogModuleManager: Shutting down and abandoning module PakFile (2)
+[2018.01.27-05.33.23:744][611]LogExit: Exiting.
+[2018.01.27-05.33.23:762][611]Log file closed, 01/26/18 21:33:23
