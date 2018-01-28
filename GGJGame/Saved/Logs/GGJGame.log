@@ -1433,3 +1433,350 @@ LogInit: Object subsystem initialized
 [2018.01.28-01.17.40:537][450]LogSavePackage: Save=730.70ms
 [2018.01.28-01.17.40:537][450]LogSavePackage: Moving '../../../../../../../StandBy/StandBy/GGJGame/Saved/FirstPersonExampleMap_BuiltDataB6ABA44044FC96D8E05062AB32688B9C.tmp' to '../../../../../../../StandBy/StandBy/GGJGame/Content/FirstPersonBP/Maps/FirstPersonExampleMap_BuiltData.uasset'
 [2018.01.28-01.17.40:539][450]LogSavePackage: Display: Finished SavePackage ../../../../../../../StandBy/StandBy/GGJGame/Content/FirstPersonBP/Maps/FirstPersonExampleMap_BuiltData.uasset
+[2018.01.28-01.49.30:336][762]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (ReactorTarget)
+[2018.01.28-01.50.09:555][892]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2018.01.28-01.50.11:458][101]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall4)
+[2018.01.28-01.50.46:935][282]LogSavePackage: Save=216.98ms
+[2018.01.28-01.50.46:935][282]LogSavePackage: Moving '../../../../../../../StandBy/StandBy/GGJGame/Saved/FirstPersonExampleMap_Auto50A134A7147EEC9F1154B5998938A34E7.tmp' to '../../../../../../../StandBy/StandBy/GGJGame/Saved/Autosaves/Game/FirstPersonBP/Maps/FirstPersonExampleMap_Auto5.umap'
+[2018.01.28-01.50.46:936][282]LogSavePackage: Display: Finished SavePackage ../../../../../../../StandBy/StandBy/GGJGame/Saved/Autosaves/Game/FirstPersonBP/Maps/FirstPersonExampleMap_Auto5.umap
+[2018.01.28-01.50.46:937][282]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/FirstPersonBP/Maps/FirstPersonExampleMap' took 0.244
+[2018.01.28-01.50.46:937][282]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.244
+[2018.01.28-01.54.37:376][678]LogTexture: Display: Building textures: DoorLarge_initialShadingGroup_Normal (BC5, 1024X1024)
+[2018.01.28-01.54.37:376][678]LogTexture: Display: Building textures: DoorLarge_initialShadingGroup_Metallic (AutoDXT, 1024X1024)
+[2018.01.28-01.54.37:376][678]LogTexture: Display: Building textures: DoorLarge_initialShadingGroup_BaseColor (AutoDXT, 1024X1024)
+[2018.01.28-01.54.37:376][678]LogTexture: Display: Building textures: DoorLarge_initialShadingGroup_Roughness (AutoDXT, 1024X1024)
+[2018.01.28-01.54.37:377][678]LogStaticMesh: Building static mesh DoorLarge...
+[2018.01.28-01.54.37:383][678]LogStaticMesh: Built static mesh [0.01s] /Game/Geometry/Meshes/Doors/DoorLarge.DoorLarge
+[2018.01.28-01.54.37:424][678]LogMaterial: Missing cached shader map for material DoorLarge, compiling. 
+[2018.01.28-01.54.37:481][678]LogAIModule: Creating AISystem for world ArtLevel
+[2018.01.28-01.54.38:688][678]Cmd: MAP LOAD FILE="../../../../../../../StandBy/StandBy/GGJGame/Content/FirstPersonBP/Maps/ArtLevel.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.01.28-01.54.38:689][678]LightingResults: New page: Lighting Build
+[2018.01.28-01.54.38:690][678]LoadErrors: New page: Loading map: ArtLevel.umap
+[2018.01.28-01.54.38:692][678]MapCheck: New page: Map Check
+[2018.01.28-01.54.38:692][678]LightingResults: New page: Lighting Build
+[2018.01.28-01.54.38:941][678]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.01.28-01.54.38:972][678]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.01.28-01.54.39:036][678]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 63.646ms to complete.
+[2018.01.28-01.54.39:036][678]LogFileHelpers: Loading map 'ArtLevel' took 0.359
+[2018.01.28-01.54.47:235][535]LogTexture: Display: Building textures: DoorMedium_initialShadingGroup_Metallic (AutoDXT, 1024X1024)
+[2018.01.28-01.54.47:235][535]LogTexture: Display: Building textures: DoorMedium_initialShadingGroup_Roughness (AutoDXT, 1024X1024)
+[2018.01.28-01.54.47:235][535]LogTexture: Display: Building textures: DoorMedium_initialShadingGroup_Normal (BC5, 1024X1024)
+[2018.01.28-01.54.47:235][535]LogTexture: Display: Building textures: DoorMedium_initialShadingGroup_BaseColor (AutoDXT, 1024X1024)
+[2018.01.28-01.54.47:235][535]LogMaterial: Missing cached shader map for material DoorMedium, compiling. 
+[2018.01.28-01.54.47:253][535]LogStaticMesh: Building static mesh DoorMedium...
+[2018.01.28-01.54.47:272][535]LogStaticMesh: Built static mesh [0.02s] /Game/Geometry/Meshes/Doors/DoorMedium.DoorMedium
+[2018.01.28-01.54.47:301][535]LogActorFactory: Actor Factory created DoorMedium
+[2018.01.28-01.54.47:719][577]LogActorFactory: Actor Factory created DoorMedium
+[2018.01.28-01.54.51:879][979]LogTexture: Display: Building textures: DoorSmall_initialShadingGroup_Metallic (AutoDXT, 1024X1024)
+[2018.01.28-01.54.51:879][979]LogTexture: Display: Building textures: DoorSmall_initialShadingGroup_Normal (BC5, 1024X1024)
+[2018.01.28-01.54.51:879][979]LogTexture: Display: Building textures: DoorSmall_initialShadingGroup_Roughness (AutoDXT, 1024X1024)
+[2018.01.28-01.54.51:879][979]LogTexture: Display: Building textures: DoorSmall_initialShadingGroup_BaseColor (AutoDXT, 1024X1024)
+[2018.01.28-01.54.51:879][979]LogStaticMesh: Building static mesh DoorSmall...
+[2018.01.28-01.54.51:898][979]LogStaticMesh: Built static mesh [0.02s] /Game/Geometry/Meshes/Doors/DoorSmall.DoorSmall
+[2018.01.28-01.54.52:301][979]LogMaterial: Missing cached shader map for material DoorSmall, compiling. 
+[2018.01.28-01.54.52:332][979]LogActorFactory: Actor Factory created DoorSmall
+[2018.01.28-01.54.52:633][  3]LogActorFactory: Actor Factory created DoorSmall
+[2018.01.28-01.55.01:537][987]LogActorFactory: Actor Factory created Target1
+[2018.01.28-01.55.01:989][ 31]LogActorFactory: Actor Factory created Target1
+[2018.01.28-01.55.05:550][429]LogActorFactory: Actor Factory created Projectile1
+[2018.01.28-01.55.06:143][492]LogActorFactory: Actor Factory created Projectile1
+[2018.01.28-01.55.11:215][ 66]LogActorFactory: Actor Factory created Reactor2
+[2018.01.28-01.55.11:666][109]LogActorFactory: Actor Factory created Reactor2
+[2018.01.28-01.55.16:573][609]LogActorFactory: Actor Factory created ReactorTarget
+[2018.01.28-01.55.17:657][721]LogActorFactory: Actor Factory created ReactorTarget
+[2018.01.28-01.56.59:743][888]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 D:\StandBy\ArtAssets\Robot\Textures\0\Robot_initialShadingGroup_Emissive.png)
+[2018.01.28-01.56.59:872][888]LogTexture: Display: Building textures: Robot_initialShadingGroup_Emissive (AutoDXT, 2048X2048)
+[2018.01.28-01.57.00:125][888]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 D:\StandBy\ArtAssets\Robot\Textures\0\Robot_initialShadingGroup_Height.png)
+[2018.01.28-01.57.00:147][888]LogTexture: Display: Building textures: Robot_initialShadingGroup_Height (AutoDXT, 2048X2048)
+[2018.01.28-01.57.00:582][888]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 D:\StandBy\ArtAssets\Robot\Textures\0\Robot_initialShadingGroup_Metallic.png)
+[2018.01.28-01.57.00:619][888]LogTexture: Display: Building textures: Robot_initialShadingGroup_Metallic (AutoDXT, 2048X2048)
+[2018.01.28-01.57.01:316][888]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 D:\StandBy\ArtAssets\Robot\Textures\0\Robot_initialShadingGroup_Normal.png)
+[2018.01.28-01.57.01:511][888]LogTexture: Display: Building textures: Robot_initialShadingGroup_Normal (BC5, 2048X2048)
+[2018.01.28-01.57.01:807][888]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 D:\StandBy\ArtAssets\Robot\Textures\0\Robot_initialShadingGroup_Roughness.png)
+[2018.01.28-01.57.01:859][888]LogTexture: Display: Building textures: Robot_initialShadingGroup_Roughness (AutoDXT, 2048X2048)
+[2018.01.28-01.57.02:749][888]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 D:\StandBy\ArtAssets\Robot\Textures\0\Robot_initialShadingGroup_BaseColor.png)
+[2018.01.28-01.57.02:945][888]LogTexture: Display: Building textures: Robot_initialShadingGroup_BaseColor (AutoDXT, 2048X2048)
+[2018.01.28-01.57.07:983][126]LogSavePackage: Save=169.39ms
+[2018.01.28-01.57.07:983][126]LogSavePackage: Moving '../../../../../../../StandBy/StandBy/GGJGame/Saved/Robot_initialShadingGroup_Roughn5C210EF14FD6C5ECEB47B4BDBD1AE30E.tmp' to '../../../../../../../StandBy/StandBy/GGJGame/Content/Geometry/Textures/Robot/RobotMain/Robot_initialShadingGroup_Roughness.uasset'
+[2018.01.28-01.57.07:985][126]LogSavePackage: Display: Finished SavePackage ../../../../../../../StandBy/StandBy/GGJGame/Content/Geometry/Textures/Robot/RobotMain/Robot_initialShadingGroup_Roughness.uasset
+[2018.01.28-01.57.11:478][501]LogSavePackage: Save=26.74ms
+[2018.01.28-01.57.11:478][501]LogSavePackage: Moving '../../../../../../../StandBy/StandBy/GGJGame/Saved/Robot_initialShadingGroup_RoughnAF1ADAAA4D8E4FBEA5C328BF7D387762.tmp' to '../../../../../../../StandBy/StandBy/GGJGame/Content/Geometry/Textures/Robot/RobotMain/Robot_initialShadingGroup_Roughness.uasset'
+[2018.01.28-01.57.11:479][501]LogSavePackage: Display: Finished SavePackage ../../../../../../../StandBy/StandBy/GGJGame/Content/Geometry/Textures/Robot/RobotMain/Robot_initialShadingGroup_Roughness.uasset
+[2018.01.28-01.57.11:899][501]LogSavePackage: Save=409.60ms
+[2018.01.28-01.57.11:899][501]LogSavePackage: Moving '../../../../../../../StandBy/StandBy/GGJGame/Saved/Robot_initialShadingGroup_BaseCo1210DB9E4DF8D0FB1D280BB6F74B8FC8.tmp' to '../../../../../../../StandBy/StandBy/GGJGame/Content/Geometry/Textures/Robot/RobotMain/Robot_initialShadingGroup_BaseColor.uasset'
+[2018.01.28-01.57.11:900][501]LogSavePackage: Display: Finished SavePackage ../../../../../../../StandBy/StandBy/GGJGame/Content/Geometry/Textures/Robot/RobotMain/Robot_initialShadingGroup_BaseColor.uasset
+[2018.01.28-01.57.12:020][501]LogSavePackage: Save=111.94ms
+[2018.01.28-01.57.12:020][501]LogSavePackage: Moving '../../../../../../../StandBy/StandBy/GGJGame/Saved/Robot_initialShadingGroup_Emissi9864897D45155EA7A980B99E36CD566B.tmp' to '../../../../../../../StandBy/StandBy/GGJGame/Content/Geometry/Textures/Robot/RobotMain/Robot_initialShadingGroup_Emissive.uasset'
+[2018.01.28-01.57.12:021][501]LogSavePackage: Display: Finished SavePackage ../../../../../../../StandBy/StandBy/GGJGame/Content/Geometry/Textures/Robot/RobotMain/Robot_initialShadingGroup_Emissive.uasset
+[2018.01.28-01.57.12:094][501]LogSavePackage: Save=62.50ms
+[2018.01.28-01.57.12:094][501]LogSavePackage: Moving '../../../../../../../StandBy/StandBy/GGJGame/Saved/Robot_initialShadingGroup_Height6E5FF0E54DE30CBC2396C0B2490B3B6D.tmp' to '../../../../../../../StandBy/StandBy/GGJGame/Content/Geometry/Textures/Robot/RobotMain/Robot_initialShadingGroup_Height.uasset'
+[2018.01.28-01.57.12:096][501]LogSavePackage: Display: Finished SavePackage ../../../../../../../StandBy/StandBy/GGJGame/Content/Geometry/Textures/Robot/RobotMain/Robot_initialShadingGroup_Height.uasset
+[2018.01.28-01.57.12:218][501]LogSavePackage: Save=112.08ms
+[2018.01.28-01.57.12:218][501]LogSavePackage: Moving '../../../../../../../StandBy/StandBy/GGJGame/Saved/Robot_initialShadingGroup_Metall3836047E45372919F06F07AE22CD61BD.tmp' to '../../../../../../../StandBy/StandBy/GGJGame/Content/Geometry/Textures/Robot/RobotMain/Robot_initialShadingGroup_Metallic.uasset'
+[2018.01.28-01.57.12:220][501]LogSavePackage: Display: Finished SavePackage ../../../../../../../StandBy/StandBy/GGJGame/Content/Geometry/Textures/Robot/RobotMain/Robot_initialShadingGroup_Metallic.uasset
+[2018.01.28-01.57.12:567][501]LogSavePackage: Save=338.53ms
+[2018.01.28-01.57.12:567][501]LogSavePackage: Moving '../../../../../../../StandBy/StandBy/GGJGame/Saved/Robot_initialShadingGroup_Normal98898E004D632F9F4425CE8EBEEB7BAD.tmp' to '../../../../../../../StandBy/StandBy/GGJGame/Content/Geometry/Textures/Robot/RobotMain/Robot_initialShadingGroup_Normal.uasset'
+[2018.01.28-01.57.12:569][501]LogSavePackage: Display: Finished SavePackage ../../../../../../../StandBy/StandBy/GGJGame/Content/Geometry/Textures/Robot/RobotMain/Robot_initialShadingGroup_Normal.uasset
+[2018.01.28-01.57.25:884][968]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 ../../../../../../../StandBy/ArtAssets/Robot/Objs/Robot.obj)
+[2018.01.28-01.57.25:891][968]LogFbx: Loading FBX Scene from ../../../../../../../StandBy/ArtAssets/Robot/Objs/Robot.obj
+[2018.01.28-01.57.25:914][968]LogFbx: FBX Scene Loaded Succesfully
+[2018.01.28-01.57.28:062][968]LogFbx: Loading FBX Scene from ../../../../../../../StandBy/ArtAssets/Robot/Objs/Robot.obj
+[2018.01.28-01.57.28:085][968]LogFbx: FBX Scene Loaded Succesfully
+[2018.01.28-01.57.28:086][968]LogLinker: Can't find file '/Game/Geometry/Mats/Robot/initialShadingGroup'
+[2018.01.28-01.57.28:086][968]LogLinker: Can't find file '/Game/Geometry/Mats/Robot/initialShadingGroup'
+[2018.01.28-01.57.28:088][968]LogFbx: Warning: Triangulating static mesh polySurface102
+[2018.01.28-01.57.28:110][968]LogStaticMesh: Building static mesh Robot_polySurface102...
+[2018.01.28-01.57.28:141][968]LogStaticMesh: Built static mesh [0.03s] /Game/Geometry/Mats/Robot/Robot_polySurface102.Robot_polySurface102
+[2018.01.28-01.57.28:152][968]LogFbx: Warning: Triangulating static mesh polySurface98
+[2018.01.28-01.57.28:156][968]LogStaticMesh: Building static mesh Robot_polySurface98...
+[2018.01.28-01.57.28:167][968]LogStaticMesh: Built static mesh [0.01s] /Game/Geometry/Mats/Robot/Robot_polySurface98.Robot_polySurface98
+[2018.01.28-01.57.33:862][605]LogActorFactory: Actor Factory created Robot_polySurface98
+[2018.01.28-01.57.34:622][676]LogActorFactory: Actor Factory created Robot_polySurface98
+[2018.01.28-01.57.58:972][ 11]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Geometry/Meshes/Robot/Robot_polySurface98" FILE="../../../../../../../StandBy/StandBy/GGJGame/Content/Geometry/Meshes/Robot/Robot_polySurface98.uasset" SILENT=true
+[2018.01.28-01.57.58:981][ 11]LogSavePackage: Save=8.18ms
+[2018.01.28-01.57.58:981][ 11]LogSavePackage: Moving '../../../../../../../StandBy/StandBy/GGJGame/Saved/Robot_polySurface982971AAD342B2FBF2ADF18DAE2A454B10.tmp' to '../../../../../../../StandBy/StandBy/GGJGame/Content/Geometry/Meshes/Robot/Robot_polySurface98.uasset'
+[2018.01.28-01.57.58:983][ 11]LogSavePackage: Display: Finished SavePackage ../../../../../../../StandBy/StandBy/GGJGame/Content/Geometry/Meshes/Robot/Robot_polySurface98.uasset
+[2018.01.28-01.57.58:994][ 11]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Geometry/Meshes/Robot/Robot_polySurface102" FILE="../../../../../../../StandBy/StandBy/GGJGame/Content/Geometry/Meshes/Robot/Robot_polySurface102.uasset" SILENT=true
+[2018.01.28-01.57.59:004][ 11]LogSavePackage: Save=8.04ms
+[2018.01.28-01.57.59:004][ 11]LogSavePackage: Moving '../../../../../../../StandBy/StandBy/GGJGame/Saved/Robot_polySurface102D9FC2C99452CD11618E24EAEEB434245.tmp' to '../../../../../../../StandBy/StandBy/GGJGame/Content/Geometry/Meshes/Robot/Robot_polySurface102.uasset'
+[2018.01.28-01.57.59:006][ 11]LogSavePackage: Display: Finished SavePackage ../../../../../../../StandBy/StandBy/GGJGame/Content/Geometry/Meshes/Robot/Robot_polySurface102.uasset
+[2018.01.28-01.58.03:323][473]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Robot_polySurface98)
+[2018.01.28-01.58.05:431][675]LogActorFactory: Actor Factory created Robot_polySurface102
+[2018.01.28-01.58.05:860][712]LogActorFactory: Actor Factory created Robot_polySurface102
+[2018.01.28-01.58.15:699][865]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Robot_polySurface98)
+[2018.01.28-01.58.45:935][103]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2018.01.28-01.58.46:384][136]LogEditorViewport: Clicking on Actor (LMB): SkeletalMeshActor (Skeleton)
+[2018.01.28-01.58.47:606][245]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Robot_polySurface102)
+[2018.01.28-01.59.21:325][293]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 ../../../../../../../StandBy/ArtAssets/Robot/Objs/Gun.obj)
+[2018.01.28-01.59.21:331][293]LogFbx: Loading FBX Scene from ../../../../../../../StandBy/ArtAssets/Robot/Objs/Gun.obj
+[2018.01.28-01.59.21:336][293]LogFbx: FBX Scene Loaded Succesfully
+[2018.01.28-01.59.22:505][293]LogFbx: Loading FBX Scene from ../../../../../../../StandBy/ArtAssets/Robot/Objs/Gun.obj
+[2018.01.28-01.59.22:510][293]LogFbx: FBX Scene Loaded Succesfully
+[2018.01.28-01.59.22:511][293]LogLinker: Can't find file '/Game/Geometry/Meshes/Robot/initialShadingGroup'
+[2018.01.28-01.59.22:511][293]LogLinker: Can't find file '/Game/Geometry/Meshes/Robot/initialShadingGroup'
+[2018.01.28-01.59.22:512][293]LogFbx: Warning: Triangulating static mesh polySurface103
+[2018.01.28-01.59.22:517][293]LogStaticMesh: Building static mesh Gun...
+[2018.01.28-01.59.22:528][293]LogStaticMesh: Built static mesh [0.01s] /Game/Geometry/Meshes/Robot/Gun.Gun
+[2018.01.28-01.59.22:538][293]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 ../../../../../../../StandBy/ArtAssets/Robot/Objs/Robot.obj)
+[2018.01.28-01.59.22:545][293]LogFbx: Loading FBX Scene from ../../../../../../../StandBy/ArtAssets/Robot/Objs/Robot.obj
+[2018.01.28-01.59.22:568][293]LogFbx: FBX Scene Loaded Succesfully
+[2018.01.28-01.59.22:568][293]LogFbx: Warning: Triangulating static mesh polySurface102
+[2018.01.28-01.59.22:590][293]LogStaticMesh: Building static mesh Robot_polySurface102...
+[2018.01.28-01.59.22:619][293]LogStaticMesh: Built static mesh [0.03s] /Game/Geometry/Meshes/Robot/Robot_polySurface102.Robot_polySurface102
+[2018.01.28-01.59.22:629][293]LogFbx: Warning: Triangulating static mesh polySurface98
+[2018.01.28-01.59.22:634][293]LogStaticMesh: Building static mesh Robot_polySurface98...
+[2018.01.28-01.59.22:644][293]LogStaticMesh: Built static mesh [0.01s] /Game/Geometry/Meshes/Robot/Robot_polySurface98.Robot_polySurface98
+[2018.01.28-01.59.22:657][293]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 ../../../../../../../StandBy/ArtAssets/Robot/Objs/RobotOnly.obj)
+[2018.01.28-01.59.22:663][293]LogFbx: Loading FBX Scene from ../../../../../../../StandBy/ArtAssets/Robot/Objs/RobotOnly.obj
+[2018.01.28-01.59.22:681][293]LogFbx: FBX Scene Loaded Succesfully
+[2018.01.28-01.59.22:681][293]LogFbx: Warning: Triangulating static mesh polySurface102
+[2018.01.28-01.59.22:703][293]LogStaticMesh: Building static mesh RobotOnly_polySurface102...
+[2018.01.28-01.59.22:732][293]LogStaticMesh: Built static mesh [0.03s] /Game/Geometry/Meshes/Robot/RobotOnly_polySurface102.RobotOnly_polySurface102
+[2018.01.28-01.59.37:167][755]LogActorFactory: Actor Factory created Robot_polySurface98
+[2018.01.28-01.59.37:168][755]LogActorFactory: Actor Factory created RobotOnly_polySurface102
+[2018.01.28-01.59.37:731][805]LogActorFactory: Actor Factory created Robot_polySurface98
+[2018.01.28-01.59.37:746][805]LogActorFactory: Actor Factory created RobotOnly_polySurface102
+[2018.01.28-01.59.38:721][913]Cmd: TRANSACTION UNDO
+[2018.01.28-01.59.38:721][913]LogEditorTransaction: Undo Create Actors
+[2018.01.28-01.59.39:771][ 21]Cmd: DELETE
+[2018.01.28-01.59.39:771][ 21]Cmd: ACTOR DELETE
+[2018.01.28-01.59.39:772][ 21]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.01.28-01.59.39:779][ 21]LogEditorActor: Deleted 1 Actors (0.008 secs)
+[2018.01.28-01.59.40:881][150]LogActorFactory: Actor Factory created Robot_polySurface98
+[2018.01.28-01.59.40:882][150]LogActorFactory: Actor Factory created RobotOnly_polySurface102
+[2018.01.28-01.59.41:479][214]LogActorFactory: Actor Factory created Robot_polySurface98
+[2018.01.28-01.59.41:494][214]LogActorFactory: Actor Factory created RobotOnly_polySurface102
+[2018.01.28-01.59.48:168][953]LogSavePackage: Save=8.27ms
+[2018.01.28-01.59.48:168][953]LogSavePackage: Moving '../../../../../../../StandBy/StandBy/GGJGame/Saved/Robot_polySurface983F9AC2894B8D512BBB7A54B6ED4CB82C.tmp' to '../../../../../../../StandBy/StandBy/GGJGame/Content/Geometry/Meshes/Robot/Main/Robot_polySurface98.uasset'
+[2018.01.28-01.59.48:169][953]LogSavePackage: Display: Finished SavePackage ../../../../../../../StandBy/StandBy/GGJGame/Content/Geometry/Meshes/Robot/Main/Robot_polySurface98.uasset
+[2018.01.28-01.59.48:193][953]LogSavePackage: Save=8.08ms
+[2018.01.28-01.59.48:193][953]LogSavePackage: Moving '../../../../../../../StandBy/StandBy/GGJGame/Saved/RobotOnly_polySurface102E0523FC945026F6D0469F6A181060191.tmp' to '../../../../../../../StandBy/StandBy/GGJGame/Content/Geometry/Meshes/Robot/Main/RobotOnly_polySurface102.uasset'
+[2018.01.28-01.59.48:194][953]LogSavePackage: Display: Finished SavePackage ../../../../../../../StandBy/StandBy/GGJGame/Content/Geometry/Meshes/Robot/Main/RobotOnly_polySurface102.uasset
+[2018.01.28-02.00.00:389][307]LogSavePackage: Save=8.22ms
+[2018.01.28-02.00.00:390][307]LogSavePackage: Moving '../../../../../../../StandBy/StandBy/GGJGame/Saved/Robot_polySurface10255B360B846F119D8B990A6AF6DAFD6AF.tmp' to '../../../../../../../StandBy/StandBy/GGJGame/Content/Geometry/Meshes/Robot/InduvidualParts/Robot_polySurface102.uasset'
+[2018.01.28-02.00.00:391][307]LogSavePackage: Display: Finished SavePackage ../../../../../../../StandBy/StandBy/GGJGame/Content/Geometry/Meshes/Robot/InduvidualParts/Robot_polySurface102.uasset
+[2018.01.28-02.00.00:401][307]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Geometry/Meshes/Robot/InduvidualParts/Gun" FILE="../../../../../../../StandBy/StandBy/GGJGame/Content/Geometry/Meshes/Robot/InduvidualParts/Gun.uasset" SILENT=true
+[2018.01.28-02.00.00:411][307]LogSavePackage: Save=8.17ms
+[2018.01.28-02.00.00:411][307]LogSavePackage: Moving '../../../../../../../StandBy/StandBy/GGJGame/Saved/Gun6CA803D1404F9977708974A3381E0741.tmp' to '../../../../../../../StandBy/StandBy/GGJGame/Content/Geometry/Meshes/Robot/InduvidualParts/Gun.uasset'
+[2018.01.28-02.00.00:413][307]LogSavePackage: Display: Finished SavePackage ../../../../../../../StandBy/StandBy/GGJGame/Content/Geometry/Meshes/Robot/InduvidualParts/Gun.uasset
+[2018.01.28-02.00.13:224][689]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2018.01.28-02.00.16:545][ 58]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (RobotOnly_polySurface102)
+[2018.01.28-02.00.19:910][420]Cmd: TRANSACTION UNDO
+[2018.01.28-02.00.19:911][420]LogEditorTransaction: Undo Rotate Actors
+[2018.01.28-02.00.22:928][755]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2018.01.28-02.00.48:852][702]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Geometry/Mats/Robot/RobotMaty" FILE="../../../../../../../StandBy/StandBy/GGJGame/Content/Geometry/Mats/Robot/RobotMaty.uasset" SILENT=true
+[2018.01.28-02.00.48:861][702]LogSavePackage: Save=8.47ms
+[2018.01.28-02.00.48:861][702]LogSavePackage: Moving '../../../../../../../StandBy/StandBy/GGJGame/Saved/RobotMaty0D546C02448B928B452811A5FF545EF9.tmp' to '../../../../../../../StandBy/StandBy/GGJGame/Content/Geometry/Mats/Robot/RobotMaty.uasset'
+[2018.01.28-02.00.48:863][702]LogSavePackage: Display: Finished SavePackage ../../../../../../../StandBy/StandBy/GGJGame/Content/Geometry/Mats/Robot/RobotMaty.uasset
+[2018.01.28-02.00.51:595][  8]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Geometry/Mats/Robot/RobotMat" FILE="../../../../../../../StandBy/StandBy/GGJGame/Content/Geometry/Mats/Robot/RobotMat.uasset" SILENT=true
+[2018.01.28-02.00.51:605][  8]LogSavePackage: Save=8.95ms
+[2018.01.28-02.00.51:605][  8]LogSavePackage: Moving '../../../../../../../StandBy/StandBy/GGJGame/Saved/RobotMat224591334C3578588BABC18BA3D107C2.tmp' to '../../../../../../../StandBy/StandBy/GGJGame/Content/Geometry/Mats/Robot/RobotMat.uasset'
+[2018.01.28-02.00.51:607][  8]LogSavePackage: Display: Finished SavePackage ../../../../../../../StandBy/StandBy/GGJGame/Content/Geometry/Mats/Robot/RobotMat.uasset
+[2018.01.28-02.00.52:176][ 61]LogMaterial: Missing cached shader map for material RobotMat, compiling. 
+[2018.01.28-02.00.52:246][ 61]LogMaterial: Missing cached shader map for material RobotMat, compiling. 
+[2018.01.28-02.00.52:260][ 61]LogMaterial: Missing cached shader map for material RobotMat, compiling. 
+[2018.01.28-02.00.53:439][115]MaterialEditorStats: Base pass shader: 99 instructions
+[2018.01.28-02.00.53:439][115]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 172 instructions
+[2018.01.28-02.00.53:439][115]MaterialEditorStats: Vertex shader: 29 instructions
+[2018.01.28-02.00.53:439][115]MaterialEditorStats: Texture samplers: 2/16
+[2018.01.28-02.01.02:650][867]LogMaterial: Missing cached shader map for material RobotMat, compiling. 
+[2018.01.28-02.01.02:663][867]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_27, compiling. 
+[2018.01.28-02.01.02:691][867]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_27, compiling. 
+[2018.01.28-02.01.02:704][867]LogMaterial: Missing cached shader map for material RobotMat, compiling. 
+[2018.01.28-02.01.02:728][867]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_28, compiling. 
+[2018.01.28-02.01.02:763][867]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_27, compiling. 
+[2018.01.28-02.01.02:768][867]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_28, compiling. 
+[2018.01.28-02.01.02:781][867]LogMaterial: Missing cached shader map for material RobotMat, compiling. 
+[2018.01.28-02.01.02:801][867]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_29, compiling. 
+[2018.01.28-02.01.02:832][867]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_27, compiling. 
+[2018.01.28-02.01.02:836][867]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_28, compiling. 
+[2018.01.28-02.01.02:840][867]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_29, compiling. 
+[2018.01.28-02.01.02:855][867]LogMaterial: Missing cached shader map for material RobotMat, compiling. 
+[2018.01.28-02.01.02:876][867]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_30, compiling. 
+[2018.01.28-02.01.02:908][867]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_27, compiling. 
+[2018.01.28-02.01.02:913][867]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_28, compiling. 
+[2018.01.28-02.01.02:918][867]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_29, compiling. 
+[2018.01.28-02.01.02:923][867]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_30, compiling. 
+[2018.01.28-02.01.02:937][867]LogMaterial: Missing cached shader map for material RobotMat, compiling. 
+[2018.01.28-02.01.02:955][867]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_31, compiling. 
+[2018.01.28-02.01.02:984][867]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_27, compiling. 
+[2018.01.28-02.01.02:988][867]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_28, compiling. 
+[2018.01.28-02.01.02:993][867]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_29, compiling. 
+[2018.01.28-02.01.03:002][867]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_30, compiling. 
+[2018.01.28-02.01.03:008][867]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_31, compiling. 
+[2018.01.28-02.01.03:023][867]LogMaterial: Missing cached shader map for material RobotMat, compiling. 
+[2018.01.28-02.01.03:039][867]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_32, compiling. 
+[2018.01.28-02.01.03:072][867]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_27, compiling. 
+[2018.01.28-02.01.03:077][867]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_28, compiling. 
+[2018.01.28-02.01.03:082][867]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_29, compiling. 
+[2018.01.28-02.01.03:087][867]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_30, compiling. 
+[2018.01.28-02.01.03:091][867]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_31, compiling. 
+[2018.01.28-02.01.03:096][867]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_32, compiling. 
+[2018.01.28-02.01.04:083][913]MaterialEditorStats: Base pass shader: 99 instructions
+[2018.01.28-02.01.04:083][913]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 172 instructions
+[2018.01.28-02.01.04:083][913]MaterialEditorStats: Vertex shader: 29 instructions
+[2018.01.28-02.01.04:083][913]MaterialEditorStats: Texture samplers: 2/16
+[2018.01.28-02.01.09:441][263]LogMaterial: Missing cached shader map for material RobotMat, compiling. 
+[2018.01.28-02.01.09:461][263]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_27, compiling. 
+[2018.01.28-02.01.10:417][308]MaterialEditorStats: Base pass shader: 102 instructions
+[2018.01.28-02.01.10:417][308]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 175 instructions
+[2018.01.28-02.01.10:417][308]MaterialEditorStats: Vertex shader: 31 instructions
+[2018.01.28-02.01.10:417][308]MaterialEditorStats: Texture samplers: 3/16
+[2018.01.28-02.01.10:417][308]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2018.01.28-02.01.13:305][529]LogMaterial: Missing cached shader map for material RobotMat, compiling. 
+[2018.01.28-02.01.13:319][529]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_28, compiling. 
+[2018.01.28-02.01.14:245][572]MaterialEditorStats: Base pass shader: 109 instructions
+[2018.01.28-02.01.14:245][572]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 183 instructions
+[2018.01.28-02.01.14:245][572]MaterialEditorStats: Vertex shader: 31 instructions
+[2018.01.28-02.01.14:245][572]MaterialEditorStats: Texture samplers: 4/16
+[2018.01.28-02.01.14:245][572]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2018.01.28-02.01.19:421][846]LogMaterial: Missing cached shader map for material RobotMat, compiling. 
+[2018.01.28-02.01.20:336][891]MaterialEditorStats: Base pass shader: 109 instructions
+[2018.01.28-02.01.20:336][891]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 183 instructions
+[2018.01.28-02.01.20:336][891]MaterialEditorStats: Vertex shader: 31 instructions
+[2018.01.28-02.01.20:336][891]MaterialEditorStats: Texture samplers: 4/16
+[2018.01.28-02.01.20:336][891]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2018.01.28-02.01.25:025][254]LogMaterial: Missing cached shader map for material RobotMat, compiling. 
+[2018.01.28-02.01.25:041][254]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_30, compiling. 
+[2018.01.28-02.01.25:969][298]MaterialEditorStats: Base pass shader: 109 instructions
+[2018.01.28-02.01.25:969][298]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 183 instructions
+[2018.01.28-02.01.25:969][298]MaterialEditorStats: Vertex shader: 31 instructions
+[2018.01.28-02.01.25:969][298]MaterialEditorStats: Texture samplers: 4/16
+[2018.01.28-02.01.25:969][298]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2018.01.28-02.01.26:948][372]LogMaterial: Missing cached shader map for material RobotMat, compiling. 
+[2018.01.28-02.01.26:965][372]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_28, compiling. 
+[2018.01.28-02.01.27:890][414]MaterialEditorStats: Base pass shader: 111 instructions
+[2018.01.28-02.01.27:891][414]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 185 instructions
+[2018.01.28-02.01.27:891][414]MaterialEditorStats: Vertex shader: 31 instructions
+[2018.01.28-02.01.27:891][414]MaterialEditorStats: Texture samplers: 5/16
+[2018.01.28-02.01.27:891][414]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2018.01.28-02.01.33:453][836]LogMaterial: Missing cached shader map for material RobotMat, compiling. 
+[2018.01.28-02.01.33:473][836]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_31, compiling. 
+[2018.01.28-02.01.34:393][879]MaterialEditorStats: Base pass shader: 117 instructions
+[2018.01.28-02.01.34:393][879]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 191 instructions
+[2018.01.28-02.01.34:393][879]MaterialEditorStats: Vertex shader: 31 instructions
+[2018.01.28-02.01.34:393][879]MaterialEditorStats: Texture samplers: 6/16
+[2018.01.28-02.01.34:393][879]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2018.01.28-02.01.37:040][ 84]LogMaterial: Missing cached shader map for material RobotMat, compiling. 
+[2018.01.28-02.01.37:052][ 84]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_32, compiling. 
+[2018.01.28-02.01.38:005][129]MaterialEditorStats: Base pass shader: 119 instructions
+[2018.01.28-02.01.38:005][129]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 193 instructions
+[2018.01.28-02.01.38:005][129]MaterialEditorStats: Vertex shader: 31 instructions
+[2018.01.28-02.01.38:005][129]MaterialEditorStats: Texture samplers: 7/16
+[2018.01.28-02.01.38:005][129]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2018.01.28-02.01.56:919][586]LogMaterialEditor: Saving and Compiling material RobotMat
+[2018.01.28-02.01.57:316][586]LogMaterial: Missing cached shader map for material RobotMat, compiling. 
+[2018.01.28-02.01.57:357][586]LogMaterial: Missing cached shader map for material RobotMat, compiling. 
+[2018.01.28-02.01.57:384][586]LogMaterial: Missing cached shader map for material RobotMat, compiling. 
+[2018.01.28-02.01.57:416][586]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy RobotMat, compiling. 
+[2018.01.28-02.01.58:198][586]TextureStreamingBuild: Display: Compiling optional shaders took 0.788 seconds.
+[2018.01.28-02.01.59:693][586]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Geometry/Mats/Robot/RobotMat" FILE="../../../../../../../StandBy/StandBy/GGJGame/Content/Geometry/Mats/Robot/RobotMat.uasset" SILENT=true
+[2018.01.28-02.01.59:707][586]LogSavePackage: Save=11.24ms
+[2018.01.28-02.01.59:707][586]LogSavePackage: Moving '../../../../../../../StandBy/StandBy/GGJGame/Saved/RobotMat3E8B7B814C472E3798A522ADE3342526.tmp' to '../../../../../../../StandBy/StandBy/GGJGame/Content/Geometry/Mats/Robot/RobotMat.uasset'
+[2018.01.28-02.01.59:709][586]LogSavePackage: Display: Finished SavePackage ../../../../../../../StandBy/StandBy/GGJGame/Content/Geometry/Mats/Robot/RobotMat.uasset
+[2018.01.28-02.01.59:714][586]MaterialEditorStats: Base pass shader: 119 instructions
+[2018.01.28-02.01.59:714][586]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 193 instructions
+[2018.01.28-02.01.59:714][586]MaterialEditorStats: Vertex shader: 31 instructions
+[2018.01.28-02.01.59:714][586]MaterialEditorStats: Texture samplers: 8/16
+[2018.01.28-02.01.59:714][586]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2018.01.28-02.02.09:166][824]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 D:\StandBy\ArtAssets\Robot\Textures\1\Robot_initialShadingGroup_Emissive.png)
+[2018.01.28-02.02.09:286][824]LogTexture: Display: Building textures: Robot_initialShadingGroup_Emissive (AutoDXT, 2048X2048)
+[2018.01.28-02.02.17:502][924]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 D:\StandBy\ArtAssets\Robot\Textures\2\Robot_initialShadingGroup_Emissive.png)
+[2018.01.28-02.02.17:622][924]LogTexture: Display: Building textures: Robot_initialShadingGroup_Emissive (AutoDXT, 2048X2048)
+[2018.01.28-02.02.25:217][998]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 D:\StandBy\ArtAssets\Robot\Textures\3\Robot_initialShadingGroup_Emissive.png)
+[2018.01.28-02.02.25:338][998]LogTexture: Display: Building textures: Robot_initialShadingGroup_Emissive (AutoDXT, 2048X2048)
+[2018.01.28-02.02.46:648][802]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 D:\StandBy\ArtAssets\Robot\Textures\1\Robot_initialShadingGroup_Emissive.png)
+[2018.01.28-02.02.46:767][802]LogTexture: Display: Building textures: Robot_initialShadingGroup_Emissive (AutoDXT, 2048X2048)
+[2018.01.28-02.02.54:077][879]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 D:\StandBy\ArtAssets\Robot\Textures\2\Robot_initialShadingGroup_Emissive.png)
+[2018.01.28-02.02.54:198][879]LogTexture: Display: Building textures: Robot_initialShadingGroup_Emissive (AutoDXT, 2048X2048)
+[2018.01.28-02.03.00:540][928]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 D:\StandBy\ArtAssets\Robot\Textures\3\Robot_initialShadingGroup_Emissive.png)
+[2018.01.28-02.03.00:660][928]LogTexture: Display: Building textures: Robot_initialShadingGroup_Emissive (AutoDXT, 2048X2048)
+[2018.01.28-02.03.08:835][ 50]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 D:\StandBy\ArtAssets\Robot\Textures\4\Robot_initialShadingGroup_Emissive.png)
+[2018.01.28-02.03.08:955][ 50]LogTexture: Display: Building textures: Robot_initialShadingGroup_Emissive (AutoDXT, 2048X2048)
+[2018.01.28-02.03.17:441][116]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 D:\StandBy\ArtAssets\Robot\Textures\5\Robot_initialShadingGroup_Emissive.png)
+[2018.01.28-02.03.17:561][116]LogTexture: Display: Building textures: Robot_initialShadingGroup_Emissive (AutoDXT, 2048X2048)
+[2018.01.28-02.03.57:021][635]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 D:\StandBy\ArtAssets\Robot\Textures\6\Robot_initialShadingGroup_Emissive.png)
+[2018.01.28-02.03.57:141][635]LogTexture: Display: Building textures: Robot_initialShadingGroup_Emissive (AutoDXT, 2048X2048)
+[2018.01.28-02.04.29:313][617]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (RobotOnly_polySurface102)
+[2018.01.28-02.04.56:204][960]LogSavePackage: Save=94.45ms
+[2018.01.28-02.04.56:204][960]LogSavePackage: Moving '../../../../../../../StandBy/StandBy/GGJGame/Saved/ArtLevel_Auto61160BC954E40588D215076B1D3404CFC.tmp' to '../../../../../../../StandBy/StandBy/GGJGame/Saved/Autosaves/Game/FirstPersonBP/Maps/ArtLevel_Auto6.umap'
+[2018.01.28-02.04.56:205][960]LogSavePackage: Display: Finished SavePackage ../../../../../../../StandBy/StandBy/GGJGame/Saved/Autosaves/Game/FirstPersonBP/Maps/ArtLevel_Auto6.umap
+[2018.01.28-02.04.56:206][960]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/FirstPersonBP/Maps/ArtLevel' took 0.109
+[2018.01.28-02.04.56:206][960]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.109
+[2018.01.28-02.04.56:209][960]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Geometry/Textures/Robot/PowerLevels/3/Robot_initialShadingGroup_Emissive] ([1] browsable assets)...
+[2018.01.28-02.04.56:212][960]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Geometry/Textures/Robot/PowerLevels/3/Robot_initialShadingGroup_Emissive.Robot_initialShadingGroup_Emissive]
+[2018.01.28-02.04.56:212][960]OBJ SavePackage: Finished generating thumbnails for package [/Game/Geometry/Textures/Robot/PowerLevels/3/Robot_initialShadingGroup_Emissive]
+[2018.01.28-02.04.56:235][960]LogSavePackage: Save=22.11ms
+[2018.01.28-02.04.56:235][960]LogSavePackage: Moving '../../../../../../../StandBy/StandBy/GGJGame/Saved/Robot_initialShadingGroup_Emissi32614E9B4D0E4EF6C80D5A8C986CC1C8.tmp' to '../../../../../../../StandBy/StandBy/GGJGame/Saved/Autosaves/Game/Geometry/Textures/Robot/PowerLevels/3/Robot_initialShadingGroup_Emissive_Auto6.uasset'
+[2018.01.28-02.04.56:236][960]LogSavePackage: Display: Finished SavePackage ../../../../../../../StandBy/StandBy/GGJGame/Saved/Autosaves/Game/Geometry/Textures/Robot/PowerLevels/3/Robot_initialShadingGroup_Emissive_Auto6.uasset
+[2018.01.28-02.04.56:237][960]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Geometry/Textures/Robot/PowerLevels/2/Robot_initialShadingGroup_Emissive] ([1] browsable assets)...
+[2018.01.28-02.04.56:241][960]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Geometry/Textures/Robot/PowerLevels/2/Robot_initialShadingGroup_Emissive.Robot_initialShadingGroup_Emissive]
+[2018.01.28-02.04.56:241][960]OBJ SavePackage: Finished generating thumbnails for package [/Game/Geometry/Textures/Robot/PowerLevels/2/Robot_initialShadingGroup_Emissive]
+[2018.01.28-02.04.56:250][960]LogSavePackage: Save=8.16ms
+[2018.01.28-02.04.56:250][960]LogSavePackage: Moving '../../../../../../../StandBy/StandBy/GGJGame/Saved/Robot_initialShadingGroup_Emissi839531CD41ECD62B5C1886A0CA4B3E95.tmp' to '../../../../../../../StandBy/StandBy/GGJGame/Saved/Autosaves/Game/Geometry/Textures/Robot/PowerLevels/2/Robot_initialShadingGroup_Emissive_Auto6.uasset'
+[2018.01.28-02.04.56:251][960]LogSavePackage: Display: Finished SavePackage ../../../../../../../StandBy/StandBy/GGJGame/Saved/Autosaves/Game/Geometry/Textures/Robot/PowerLevels/2/Robot_initialShadingGroup_Emissive_Auto6.uasset
+[2018.01.28-02.04.56:252][960]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Geometry/Textures/Robot/PowerLevels/1/Robot_initialShadingGroup_Emissive] ([1] browsable assets)...
+[2018.01.28-02.04.56:256][960]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Geometry/Textures/Robot/PowerLevels/1/Robot_initialShadingGroup_Emissive.Robot_initialShadingGroup_Emissive]
+[2018.01.28-02.04.56:256][960]OBJ SavePackage: Finished generating thumbnails for package [/Game/Geometry/Textures/Robot/PowerLevels/1/Robot_initialShadingGroup_Emissive]
+[2018.01.28-02.04.56:266][960]LogSavePackage: Save=8.41ms
+[2018.01.28-02.04.56:266][960]LogSavePackage: Moving '../../../../../../../StandBy/StandBy/GGJGame/Saved/Robot_initialShadingGroup_Emissi647AB9254BA09F7BE7B7DABBEF3BB656.tmp' to '../../../../../../../StandBy/StandBy/GGJGame/Saved/Autosaves/Game/Geometry/Textures/Robot/PowerLevels/1/Robot_initialShadingGroup_Emissive_Auto6.uasset'
+[2018.01.28-02.04.56:267][960]LogSavePackage: Display: Finished SavePackage ../../../../../../../StandBy/StandBy/GGJGame/Saved/Autosaves/Game/Geometry/Textures/Robot/PowerLevels/1/Robot_initialShadingGroup_Emissive_Auto6.uasset
+[2018.01.28-02.04.56:268][960]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Geometry/Textures/Robot/PowerLevels/4/Robot_initialShadingGroup_Emissive] ([1] browsable assets)...
+[2018.01.28-02.04.56:272][960]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Geometry/Textures/Robot/PowerLevels/4/Robot_initialShadingGroup_Emissive.Robot_initialShadingGroup_Emissive]
+[2018.01.28-02.04.56:272][960]OBJ SavePackage: Finished generating thumbnails for package [/Game/Geometry/Textures/Robot/PowerLevels/4/Robot_initialShadingGroup_Emissive]
+[2018.01.28-02.04.56:281][960]LogSavePackage: Save=8.04ms
+[2018.01.28-02.04.56:281][960]LogSavePackage: Moving '../../../../../../../StandBy/StandBy/GGJGame/Saved/Robot_initialShadingGroup_EmissiA1E358FC4E3F3DCCEB6EF08AF6FEC85F.tmp' to '../../../../../../../StandBy/StandBy/GGJGame/Saved/Autosaves/Game/Geometry/Textures/Robot/PowerLevels/4/Robot_initialShadingGroup_Emissive_Auto6.uasset'
+[2018.01.28-02.04.56:282][960]LogSavePackage: Display: Finished SavePackage ../../../../../../../StandBy/StandBy/GGJGame/Saved/Autosaves/Game/Geometry/Textures/Robot/PowerLevels/4/Robot_initialShadingGroup_Emissive_Auto6.uasset
+[2018.01.28-02.04.56:284][960]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Geometry/Textures/Robot/PowerLevels/5/Robot_initialShadingGroup_Emissive] ([1] browsable assets)...
+[2018.01.28-02.04.56:288][960]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Geometry/Textures/Robot/PowerLevels/5/Robot_initialShadingGroup_Emissive.Robot_initialShadingGroup_Emissive]
+[2018.01.28-02.04.56:288][960]OBJ SavePackage: Finished generating thumbnails for package [/Game/Geometry/Textures/Robot/PowerLevels/5/Robot_initialShadingGroup_Emissive]
+[2018.01.28-02.04.56:298][960]LogSavePackage: Save=8.56ms
+[2018.01.28-02.04.56:298][960]LogSavePackage: Moving '../../../../../../../StandBy/StandBy/GGJGame/Saved/Robot_initialShadingGroup_EmissiA3EDAD7945678692AE412297BD9F00A8.tmp' to '../../../../../../../StandBy/StandBy/GGJGame/Saved/Autosaves/Game/Geometry/Textures/Robot/PowerLevels/5/Robot_initialShadingGroup_Emissive_Auto6.uasset'
+[2018.01.28-02.04.56:299][960]LogSavePackage: Display: Finished SavePackage ../../../../../../../StandBy/StandBy/GGJGame/Saved/Autosaves/Game/Geometry/Textures/Robot/PowerLevels/5/Robot_initialShadingGroup_Emissive_Auto6.uasset
+[2018.01.28-02.04.56:300][960]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Geometry/Textures/Robot/PowerLevels/6/Robot_initialShadingGroup_Emissive] ([1] browsable assets)...
+[2018.01.28-02.04.56:304][960]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Geometry/Textures/Robot/PowerLevels/6/Robot_initialShadingGroup_Emissive.Robot_initialShadingGroup_Emissive]
+[2018.01.28-02.04.56:304][960]OBJ SavePackage: Finished generating thumbnails for package [/Game/Geometry/Textures/Robot/PowerLevels/6/Robot_initialShadingGroup_Emissive]
+[2018.01.28-02.04.56:313][960]LogSavePackage: Save=7.54ms
+[2018.01.28-02.04.56:313][960]LogSavePackage: Moving '../../../../../../../StandBy/StandBy/GGJGame/Saved/Robot_initialShadingGroup_EmissiBE00F3E6478D7C48D4DCD49B35B14F3B.tmp' to '../../../../../../../StandBy/StandBy/GGJGame/Saved/Autosaves/Game/Geometry/Textures/Robot/PowerLevels/6/Robot_initialShadingGroup_Emissive_Auto6.uasset'
+[2018.01.28-02.04.56:314][960]LogSavePackage: Display: Finished SavePackage ../../../../../../../StandBy/StandBy/GGJGame/Saved/Autosaves/Game/Geometry/Textures/Robot/PowerLevels/6/Robot_initialShadingGroup_Emissive_Auto6.uasset
+[2018.01.28-02.04.56:314][960]LogFileHelpers: Auto-saving content packages took 0.108
