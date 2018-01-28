@@ -689,3 +689,153 @@ LogInit: Object subsystem initialized
 [2018.01.28-00.15.27:246][ 42]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall3)
 [2018.01.28-00.15.27:662][ 84]LogEditorViewport: Clicking on Actor (LMB): BP_PlatformWithRobot_C (BP_PlatformWithRobot)
 [2018.01.28-00.15.28:153][134]Cmd: CAMERA ALIGN
+[2018.01.28-00.17.34:607][878]LogSavePackage: Save=262.31ms
+[2018.01.28-00.17.34:607][878]LogSavePackage: Moving '../../../../../../../StandBy/StandBy/GGJGame/Saved/FirstPersonExampleMap_Auto158D6E8144B8A864A2E4CD4AC1D0046B8.tmp' to '../../../../../../../StandBy/StandBy/GGJGame/Saved/Autosaves/Game/FirstPersonBP/Maps/FirstPersonExampleMap_Auto1.umap'
+[2018.01.28-00.17.34:608][878]LogSavePackage: Display: Finished SavePackage ../../../../../../../StandBy/StandBy/GGJGame/Saved/Autosaves/Game/FirstPersonBP/Maps/FirstPersonExampleMap_Auto1.umap
+[2018.01.28-00.17.34:609][878]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/FirstPersonBP/Maps/FirstPersonExampleMap' took 0.303
+[2018.01.28-00.17.34:609][878]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.303
+[2018.01.28-00.17.34:611][878]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Geometry/Textures/Reactor/Reactor/Reactor2_initialShadingGroup_BaseColor] ([1] browsable assets)...
+[2018.01.28-00.17.34:618][878]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Geometry/Textures/Reactor/Reactor/Reactor2_initialShadingGroup_BaseColor.Reactor2_initialShadingGroup_BaseColor]
+[2018.01.28-00.17.34:618][878]OBJ SavePackage: Finished generating thumbnails for package [/Game/Geometry/Textures/Reactor/Reactor/Reactor2_initialShadingGroup_BaseColor]
+[2018.01.28-00.17.34:632][878]LogSavePackage: Save=13.31ms
+[2018.01.28-00.17.34:632][878]LogSavePackage: Moving '../../../../../../../StandBy/StandBy/GGJGame/Saved/Reactor2_initialShadingGroup_Bas942745604D1568D0F0DB9C9F81F790B7.tmp' to '../../../../../../../StandBy/StandBy/GGJGame/Saved/Autosaves/Game/Geometry/Textures/Reactor/Reactor/Reactor2_initialShadingGroup_BaseColor_Auto1.uasset'
+[2018.01.28-00.17.34:633][878]LogSavePackage: Display: Finished SavePackage ../../../../../../../StandBy/StandBy/GGJGame/Saved/Autosaves/Game/Geometry/Textures/Reactor/Reactor/Reactor2_initialShadingGroup_BaseColor_Auto1.uasset
+[2018.01.28-00.17.34:634][878]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Geometry/Textures/Reactor/Reactor/Reactor2_initialShadingGroup_Emissive] ([1] browsable assets)...
+[2018.01.28-00.17.34:638][878]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Geometry/Textures/Reactor/Reactor/Reactor2_initialShadingGroup_Emissive.Reactor2_initialShadingGroup_Emissive]
+[2018.01.28-00.17.34:638][878]OBJ SavePackage: Finished generating thumbnails for package [/Game/Geometry/Textures/Reactor/Reactor/Reactor2_initialShadingGroup_Emissive]
+[2018.01.28-00.17.34:648][878]LogSavePackage: Save=9.02ms
+[2018.01.28-00.17.34:648][878]LogSavePackage: Moving '../../../../../../../StandBy/StandBy/GGJGame/Saved/Reactor2_initialShadingGroup_Emi8AEB6DC94D9328942F04D1B127794C93.tmp' to '../../../../../../../StandBy/StandBy/GGJGame/Saved/Autosaves/Game/Geometry/Textures/Reactor/Reactor/Reactor2_initialShadingGroup_Emissive_Auto1.uasset'
+[2018.01.28-00.17.34:649][878]LogSavePackage: Display: Finished SavePackage ../../../../../../../StandBy/StandBy/GGJGame/Saved/Autosaves/Game/Geometry/Textures/Reactor/Reactor/Reactor2_initialShadingGroup_Emissive_Auto1.uasset
+[2018.01.28-00.17.34:650][878]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Geometry/Textures/Reactor/Reactor/Reactor2_initialShadingGroup_Height] ([1] browsable assets)...
+[2018.01.28-00.17.34:656][878]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Geometry/Textures/Reactor/Reactor/Reactor2_initialShadingGroup_Height.Reactor2_initialShadingGroup_Height]
+[2018.01.28-00.17.34:656][878]OBJ SavePackage: Finished generating thumbnails for package [/Game/Geometry/Textures/Reactor/Reactor/Reactor2_initialShadingGroup_Height]
+[2018.01.28-00.17.34:663][878]LogSavePackage: Save=6.22ms
+[2018.01.28-00.17.34:663][878]LogSavePackage: Moving '../../../../../../../StandBy/StandBy/GGJGame/Saved/Reactor2_initialShadingGroup_HeiC735A1D048D4652400789BB47B7AB987.tmp' to '../../../../../../../StandBy/StandBy/GGJGame/Saved/Autosaves/Game/Geometry/Textures/Reactor/Reactor/Reactor2_initialShadingGroup_Height_Auto1.uasset'
+[2018.01.28-00.17.34:664][878]LogSavePackage: Display: Finished SavePackage ../../../../../../../StandBy/StandBy/GGJGame/Saved/Autosaves/Game/Geometry/Textures/Reactor/Reactor/Reactor2_initialShadingGroup_Height_Auto1.uasset
+[2018.01.28-00.17.34:665][878]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Geometry/Textures/Reactor/Reactor/Reactor2_initialShadingGroup_Metallic] ([1] browsable assets)...
+[2018.01.28-00.17.34:671][878]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Geometry/Textures/Reactor/Reactor/Reactor2_initialShadingGroup_Metallic.Reactor2_initialShadingGroup_Metallic]
+[2018.01.28-00.17.34:671][878]OBJ SavePackage: Finished generating thumbnails for package [/Game/Geometry/Textures/Reactor/Reactor/Reactor2_initialShadingGroup_Metallic]
+[2018.01.28-00.17.34:680][878]LogSavePackage: Save=7.16ms
+[2018.01.28-00.17.34:680][878]LogSavePackage: Moving '../../../../../../../StandBy/StandBy/GGJGame/Saved/Reactor2_initialShadingGroup_Met21CA09414011E6853628DDA392255073.tmp' to '../../../../../../../StandBy/StandBy/GGJGame/Saved/Autosaves/Game/Geometry/Textures/Reactor/Reactor/Reactor2_initialShadingGroup_Metallic_Auto1.uasset'
+[2018.01.28-00.17.34:681][878]LogSavePackage: Display: Finished SavePackage ../../../../../../../StandBy/StandBy/GGJGame/Saved/Autosaves/Game/Geometry/Textures/Reactor/Reactor/Reactor2_initialShadingGroup_Metallic_Auto1.uasset
+[2018.01.28-00.17.34:682][878]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Geometry/Textures/Reactor/Reactor/Reactor2_initialShadingGroup_Normal] ([1] browsable assets)...
+[2018.01.28-00.17.34:688][878]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Geometry/Textures/Reactor/Reactor/Reactor2_initialShadingGroup_Normal.Reactor2_initialShadingGroup_Normal]
+[2018.01.28-00.17.34:688][878]OBJ SavePackage: Finished generating thumbnails for package [/Game/Geometry/Textures/Reactor/Reactor/Reactor2_initialShadingGroup_Normal]
+[2018.01.28-00.17.34:701][878]LogSavePackage: Save=12.04ms
+[2018.01.28-00.17.34:701][878]LogSavePackage: Moving '../../../../../../../StandBy/StandBy/GGJGame/Saved/Reactor2_initialShadingGroup_NorB84FD8AA47E6363BD8FCCAAC78AC4C9F.tmp' to '../../../../../../../StandBy/StandBy/GGJGame/Saved/Autosaves/Game/Geometry/Textures/Reactor/Reactor/Reactor2_initialShadingGroup_Normal_Auto1.uasset'
+[2018.01.28-00.17.34:702][878]LogSavePackage: Display: Finished SavePackage ../../../../../../../StandBy/StandBy/GGJGame/Saved/Autosaves/Game/Geometry/Textures/Reactor/Reactor/Reactor2_initialShadingGroup_Normal_Auto1.uasset
+[2018.01.28-00.17.34:703][878]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Geometry/Textures/Reactor/Reactor/Reactor2_initialShadingGroup_Roughness] ([1] browsable assets)...
+[2018.01.28-00.17.34:709][878]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Geometry/Textures/Reactor/Reactor/Reactor2_initialShadingGroup_Roughness.Reactor2_initialShadingGroup_Roughness]
+[2018.01.28-00.17.34:709][878]OBJ SavePackage: Finished generating thumbnails for package [/Game/Geometry/Textures/Reactor/Reactor/Reactor2_initialShadingGroup_Roughness]
+[2018.01.28-00.17.34:719][878]LogSavePackage: Save=8.58ms
+[2018.01.28-00.17.34:719][878]LogSavePackage: Moving '../../../../../../../StandBy/StandBy/GGJGame/Saved/Reactor2_initialShadingGroup_RouD2ADE24149EE30B3BE285DB616812D19.tmp' to '../../../../../../../StandBy/StandBy/GGJGame/Saved/Autosaves/Game/Geometry/Textures/Reactor/Reactor/Reactor2_initialShadingGroup_Roughness_Auto1.uasset'
+[2018.01.28-00.17.34:720][878]LogSavePackage: Display: Finished SavePackage ../../../../../../../StandBy/StandBy/GGJGame/Saved/Autosaves/Game/Geometry/Textures/Reactor/Reactor/Reactor2_initialShadingGroup_Roughness_Auto1.uasset
+[2018.01.28-00.17.34:721][878]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Geometry/Textures/Reactor/ReactorTarget/ReactorTarget_initialShadingGroup_BaseColor] ([1] browsable assets)...
+[2018.01.28-00.17.34:727][878]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Geometry/Textures/Reactor/ReactorTarget/ReactorTarget_initialShadingGroup_BaseColor.ReactorTarget_initialShadingGroup_BaseColor]
+[2018.01.28-00.17.34:727][878]OBJ SavePackage: Finished generating thumbnails for package [/Game/Geometry/Textures/Reactor/ReactorTarget/ReactorTarget_initialShadingGroup_BaseColor]
+[2018.01.28-00.17.34:736][878]LogSavePackage: Save=7.87ms
+[2018.01.28-00.17.34:736][878]LogSavePackage: Moving '../../../../../../../StandBy/StandBy/GGJGame/Saved/ReactorTarget_initialShadingGrou250E3D3845BBF9DCA6DEA5813D2D2526.tmp' to '../../../../../../../StandBy/StandBy/GGJGame/Saved/Autosaves/Game/Geometry/Textures/Reactor/ReactorTarget/ReactorTarget_initialShadingGroup_BaseColor_Auto1.uasset'
+[2018.01.28-00.17.34:737][878]LogSavePackage: Display: Finished SavePackage ../../../../../../../StandBy/StandBy/GGJGame/Saved/Autosaves/Game/Geometry/Textures/Reactor/ReactorTarget/ReactorTarget_initialShadingGroup_BaseColor_Auto1.uasset
+[2018.01.28-00.17.34:738][878]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Geometry/Textures/Reactor/ReactorTarget/ReactorTarget_initialShadingGroup_Height] ([1] browsable assets)...
+[2018.01.28-00.17.34:744][878]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Geometry/Textures/Reactor/ReactorTarget/ReactorTarget_initialShadingGroup_Height.ReactorTarget_initialShadingGroup_Height]
+[2018.01.28-00.17.34:744][878]OBJ SavePackage: Finished generating thumbnails for package [/Game/Geometry/Textures/Reactor/ReactorTarget/ReactorTarget_initialShadingGroup_Height]
+[2018.01.28-00.17.34:749][878]LogSavePackage: Save=4.21ms
+[2018.01.28-00.17.34:749][878]LogSavePackage: Moving '../../../../../../../StandBy/StandBy/GGJGame/Saved/ReactorTarget_initialShadingGrouE803C26245E1993697A725AE3BE932C4.tmp' to '../../../../../../../StandBy/StandBy/GGJGame/Saved/Autosaves/Game/Geometry/Textures/Reactor/ReactorTarget/ReactorTarget_initialShadingGroup_Height_Auto1.uasset'
+[2018.01.28-00.17.34:750][878]LogSavePackage: Display: Finished SavePackage ../../../../../../../StandBy/StandBy/GGJGame/Saved/Autosaves/Game/Geometry/Textures/Reactor/ReactorTarget/ReactorTarget_initialShadingGroup_Height_Auto1.uasset
+[2018.01.28-00.17.34:751][878]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Geometry/Textures/Reactor/ReactorTarget/ReactorTarget_initialShadingGroup_Metallic] ([1] browsable assets)...
+[2018.01.28-00.17.34:757][878]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Geometry/Textures/Reactor/ReactorTarget/ReactorTarget_initialShadingGroup_Metallic.ReactorTarget_initialShadingGroup_Metallic]
+[2018.01.28-00.17.34:757][878]OBJ SavePackage: Finished generating thumbnails for package [/Game/Geometry/Textures/Reactor/ReactorTarget/ReactorTarget_initialShadingGroup_Metallic]
+[2018.01.28-00.17.34:763][878]LogSavePackage: Save=4.96ms
+[2018.01.28-00.17.34:763][878]LogSavePackage: Moving '../../../../../../../StandBy/StandBy/GGJGame/Saved/ReactorTarget_initialShadingGrou6A8ECBC943AC5D3FFA2758864D002858.tmp' to '../../../../../../../StandBy/StandBy/GGJGame/Saved/Autosaves/Game/Geometry/Textures/Reactor/ReactorTarget/ReactorTarget_initialShadingGroup_Metallic_Auto1.uasset'
+[2018.01.28-00.17.34:764][878]LogSavePackage: Display: Finished SavePackage ../../../../../../../StandBy/StandBy/GGJGame/Saved/Autosaves/Game/Geometry/Textures/Reactor/ReactorTarget/ReactorTarget_initialShadingGroup_Metallic_Auto1.uasset
+[2018.01.28-00.17.34:765][878]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Geometry/Textures/Reactor/ReactorTarget/ReactorTarget_initialShadingGroup_Normal] ([1] browsable assets)...
+[2018.01.28-00.17.34:771][878]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Geometry/Textures/Reactor/ReactorTarget/ReactorTarget_initialShadingGroup_Normal.ReactorTarget_initialShadingGroup_Normal]
+[2018.01.28-00.17.34:771][878]OBJ SavePackage: Finished generating thumbnails for package [/Game/Geometry/Textures/Reactor/ReactorTarget/ReactorTarget_initialShadingGroup_Normal]
+[2018.01.28-00.17.34:779][878]LogSavePackage: Save=7.01ms
+[2018.01.28-00.17.34:779][878]LogSavePackage: Moving '../../../../../../../StandBy/StandBy/GGJGame/Saved/ReactorTarget_initialShadingGrouA1CCCF2649A4CD9A8C20AFB594C8F8B9.tmp' to '../../../../../../../StandBy/StandBy/GGJGame/Saved/Autosaves/Game/Geometry/Textures/Reactor/ReactorTarget/ReactorTarget_initialShadingGroup_Normal_Auto1.uasset'
+[2018.01.28-00.17.34:781][878]LogSavePackage: Display: Finished SavePackage ../../../../../../../StandBy/StandBy/GGJGame/Saved/Autosaves/Game/Geometry/Textures/Reactor/ReactorTarget/ReactorTarget_initialShadingGroup_Normal_Auto1.uasset
+[2018.01.28-00.17.34:782][878]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Geometry/Textures/Reactor/ReactorTarget/ReactorTarget_initialShadingGroup_Roughness] ([1] browsable assets)...
+[2018.01.28-00.17.34:788][878]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Geometry/Textures/Reactor/ReactorTarget/ReactorTarget_initialShadingGroup_Roughness.ReactorTarget_initialShadingGroup_Roughness]
+[2018.01.28-00.17.34:788][878]OBJ SavePackage: Finished generating thumbnails for package [/Game/Geometry/Textures/Reactor/ReactorTarget/ReactorTarget_initialShadingGroup_Roughness]
+[2018.01.28-00.17.34:795][878]LogSavePackage: Save=6.42ms
+[2018.01.28-00.17.34:795][878]LogSavePackage: Moving '../../../../../../../StandBy/StandBy/GGJGame/Saved/ReactorTarget_initialShadingGrou4DD08D7147E6FB9FCBF805A8663DD997.tmp' to '../../../../../../../StandBy/StandBy/GGJGame/Saved/Autosaves/Game/Geometry/Textures/Reactor/ReactorTarget/ReactorTarget_initialShadingGroup_Roughness_Auto1.uasset'
+[2018.01.28-00.17.34:796][878]LogSavePackage: Display: Finished SavePackage ../../../../../../../StandBy/StandBy/GGJGame/Saved/Autosaves/Game/Geometry/Textures/Reactor/ReactorTarget/ReactorTarget_initialShadingGroup_Roughness_Auto1.uasset
+[2018.01.28-00.17.34:798][878]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Geometry/Meshes/Reactor/initialShadingGroup] ([1] browsable assets)...
+[2018.01.28-00.17.34:807][878]OBJ SavePackage:     Rendered thumbnail for [MaterialInstanceConstant /Game/Geometry/Meshes/Reactor/initialShadingGroup.initialShadingGroup]
+[2018.01.28-00.17.34:807][878]OBJ SavePackage: Finished generating thumbnails for package [/Game/Geometry/Meshes/Reactor/initialShadingGroup]
+[2018.01.28-00.17.34:821][878]LogSavePackage: Save=11.83ms
+[2018.01.28-00.17.34:821][878]LogSavePackage: Moving '../../../../../../../StandBy/StandBy/GGJGame/Saved/initialShadingGroup_Auto1F017336041BD46E5128A5C856F1D3209.tmp' to '../../../../../../../StandBy/StandBy/GGJGame/Saved/Autosaves/Game/Geometry/Meshes/Reactor/initialShadingGroup_Auto1.uasset'
+[2018.01.28-00.17.34:821][878]LogSavePackage: Display: Finished SavePackage ../../../../../../../StandBy/StandBy/GGJGame/Saved/Autosaves/Game/Geometry/Meshes/Reactor/initialShadingGroup_Auto1.uasset
+[2018.01.28-00.17.34:822][878]LogFileHelpers: Auto-saving content packages took 0.211
+[2018.01.28-00.26.13:756][457]LogEditorViewport: Clicking on Actor (LMB): FirstPersonCharacter_C (FirstRobot)
+[2018.01.28-00.26.17:226][797]LogEditorViewport: Clicking on Actor (LMB): FirstPersonCharacter_C (FirstRobot)
+[2018.01.28-00.26.17:750][851]LogEditorViewport: Clicking Background
+[2018.01.28-00.26.18:102][888]LogEditorViewport: Clicking on Actor (LMB): FirstPersonCharacter_C (FirstRobot)
+[2018.01.28-00.26.22:032][296]LogSlate: Took 0.018572 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2018.01.28-00.26.33:486][485]LogContentBrowser: Native class hierarchy updated for 'SkeletonEditor' in 0.0003 seconds. Added 1 classes and 2 folders.
+[2018.01.28-00.26.33:524][485]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_15:PersistentLevel.Actor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2018.01.28-00.26.33:704][485]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_15:PersistentLevel.Actor_0.DebugSkelMeshComponent_0) - call TermArticulated first.
+[2018.01.28-00.26.34:181][485]LogContentBrowser: Native class hierarchy updated for 'ClothingSystemEditorInterface' in 0.0004 seconds. Added 1 classes and 0 folders.
+[2018.01.28-00.26.42:765][349]LogEditorViewport: Clicking Background
+[2018.01.28-00.26.46:994][826]LogTemp: Repeating last play command: Selected Viewport
+[2018.01.28-00.26.47:112][826]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2018.01.28-00.26.47:119][826]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.01.28-00.26.47:180][826]PIE: New page: PIE session: FirstPersonExampleMap (Jan 27, 2018, 8:26:47 AM)
+[2018.01.28-00.26.47:192][826]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2018.01.28-00.26.47:210][826]LogPlayLevel: PIE: StaticDuplicateObject took: (0.018698s)
+[2018.01.28-00.26.47:211][826]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2018.01.28-00.26.47:211][826]LogPlayLevel: PIE: World Init took: (0.000928s)
+[2018.01.28-00.26.47:212][826]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap to /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap (0.019948s)
+[2018.01.28-00.26.47:239][826]LogInit: XAudio2 using 'Speakers (2- High Definition Audio Device)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.01.28-00.26.47:243][826]LogInit: FAudioDevice initialized.
+[2018.01.28-00.26.47:289][826]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2018.01.28-00.26.47:292][826]PIE: Warning: Invalid Simulate Options: Body (BP_CouchPhysics_342.CouchPreview 1M_Cube) is set to simulate physics but Collision Enabled is incompatible
+[2018.01.28-00.26.47:292][826]PIE: Warning: Invalid Simulate Options: Body (BP_MovingObject_162.CouchPreview 1M_Cube) is set to simulate physics but Collision Enabled is incompatible
+[2018.01.28-00.26.47:300][826]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap up for play (max tick rate 0) at 2018.01.27-16.26.47
+[2018.01.28-00.26.47:310][826]LogWorld: Bringing up level for play took: 0.019217
+[2018.01.28-00.26.47:439][826]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0004 seconds. Added 11 classes and 0 folders.
+[2018.01.28-00.26.47:498][826]PIE: Play in editor start time for /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap 0.422
+[2018.01.28-00.26.47:498][826]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2018.01.28-00.26.48:021][861]PIE: Warning: Mobility of /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.BigWall_21 : StaticMeshComponent0 has to be 'Movable' if you'd like to AddImpulseAtLocation. 
+[2018.01.28-00.26.49:632][ 53]PIE: Warning: Mobility of /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.Wall3_19 : StaticMeshComponent0 has to be 'Movable' if you'd like to AddImpulseAtLocation. 
+[2018.01.28-00.26.55:376][740]PIE: Warning: SecondRobot.SkeletalMesh Idle has to have 'Simulate Physics' enabled if you'd like to AddImpulseAtLocation. 
+[2018.01.28-00.26.55:717][781]PIE: Warning: SecondRobot.SkeletalMesh Idle has to have 'Simulate Physics' enabled if you'd like to AddImpulseAtLocation. 
+[2018.01.28-00.26.56:035][819]PIE: Warning: SecondRobot.SkeletalMesh Idle has to have 'Simulate Physics' enabled if you'd like to AddImpulseAtLocation. 
+[2018.01.28-00.27.03:021][657]PIE: Warning: BP_DoorTrigger2.TriggerBox has to have 'Simulate Physics' enabled if you'd like to AddImpulseAtLocation. 
+[2018.01.28-00.27.03:358][694]PIE: Warning: BP_DoorTrigger2.TriggerBox has to have 'Simulate Physics' enabled if you'd like to AddImpulseAtLocation. 
+[2018.01.28-00.27.03:674][732]PIE: Warning: BP_DoorTrigger2.TriggerBox has to have 'Simulate Physics' enabled if you'd like to AddImpulseAtLocation. 
+[2018.01.28-00.27.25:395][335]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2018.01.28-00.27.25:426][335]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2018.01.28-00.28.12:626][889]LogSavePackage: Save=94.84ms
+[2018.01.28-00.28.12:626][889]LogSavePackage: Moving '../../../../../../../StandBy/StandBy/GGJGame/Saved/ReactorTarget_initialShadingGrouFD3BDCC846B1619BCD17E0A0BFE06CD1.tmp' to '../../../../../../../StandBy/StandBy/GGJGame/Content/Geometry/Textures/Reactor/ReactorTarget/ReactorTarget_initialShadingGroup_BaseColor.uasset'
+[2018.01.28-00.28.12:627][889]LogSavePackage: Display: Finished SavePackage ../../../../../../../StandBy/StandBy/GGJGame/Content/Geometry/Textures/Reactor/ReactorTarget/ReactorTarget_initialShadingGroup_BaseColor.uasset
+[2018.01.28-00.28.12:656][889]LogSavePackage: Save=15.77ms
+[2018.01.28-00.28.12:656][889]LogSavePackage: Moving '../../../../../../../StandBy/StandBy/GGJGame/Saved/ReactorTarget_initialShadingGrou88D623F443B70DFB85E3BB87FE3F3494.tmp' to '../../../../../../../StandBy/StandBy/GGJGame/Content/Geometry/Textures/Reactor/ReactorTarget/ReactorTarget_initialShadingGroup_Height.uasset'
+[2018.01.28-00.28.12:658][889]LogSavePackage: Display: Finished SavePackage ../../../../../../../StandBy/StandBy/GGJGame/Content/Geometry/Textures/Reactor/ReactorTarget/ReactorTarget_initialShadingGroup_Height.uasset
+[2018.01.28-00.28.12:702][889]LogSavePackage: Save=31.46ms
+[2018.01.28-00.28.12:702][889]LogSavePackage: Moving '../../../../../../../StandBy/StandBy/GGJGame/Saved/ReactorTarget_initialShadingGrou62ED4E37405D52E841AD1D9107F2D312.tmp' to '../../../../../../../StandBy/StandBy/GGJGame/Content/Geometry/Textures/Reactor/ReactorTarget/ReactorTarget_initialShadingGroup_Metallic.uasset'
+[2018.01.28-00.28.12:704][889]LogSavePackage: Display: Finished SavePackage ../../../../../../../StandBy/StandBy/GGJGame/Content/Geometry/Textures/Reactor/ReactorTarget/ReactorTarget_initialShadingGroup_Metallic.uasset
+[2018.01.28-00.28.12:792][889]LogSavePackage: Save=77.24ms
+[2018.01.28-00.28.12:792][889]LogSavePackage: Moving '../../../../../../../StandBy/StandBy/GGJGame/Saved/ReactorTarget_initialShadingGrou2E41B6414C0DBE51BEA39E99E8FC8CBC.tmp' to '../../../../../../../StandBy/StandBy/GGJGame/Content/Geometry/Textures/Reactor/ReactorTarget/ReactorTarget_initialShadingGroup_Normal.uasset'
+[2018.01.28-00.28.12:794][889]LogSavePackage: Display: Finished SavePackage ../../../../../../../StandBy/StandBy/GGJGame/Content/Geometry/Textures/Reactor/ReactorTarget/ReactorTarget_initialShadingGroup_Normal.uasset
+[2018.01.28-00.28.12:851][889]LogSavePackage: Save=44.62ms
+[2018.01.28-00.28.12:851][889]LogSavePackage: Moving '../../../../../../../StandBy/StandBy/GGJGame/Saved/ReactorTarget_initialShadingGrou1264F69D4385B0C6D584D5BF7D5C7C6C.tmp' to '../../../../../../../StandBy/StandBy/GGJGame/Content/Geometry/Textures/Reactor/ReactorTarget/ReactorTarget_initialShadingGroup_Roughness.uasset'
+[2018.01.28-00.28.12:853][889]LogSavePackage: Display: Finished SavePackage ../../../../../../../StandBy/StandBy/GGJGame/Content/Geometry/Textures/Reactor/ReactorTarget/ReactorTarget_initialShadingGroup_Roughness.uasset
+[2018.01.28-00.28.15:559][148]LogSavePackage: Save=390.58ms
+[2018.01.28-00.28.15:559][148]LogSavePackage: Moving '../../../../../../../StandBy/StandBy/GGJGame/Saved/Reactor2_initialShadingGroup_BasA80F6B25463BD5091B3CDBBDD72ED9BE.tmp' to '../../../../../../../StandBy/StandBy/GGJGame/Content/Geometry/Textures/Reactor/Reactor/Reactor2_initialShadingGroup_BaseColor.uasset'
+[2018.01.28-00.28.15:560][148]LogSavePackage: Display: Finished SavePackage ../../../../../../../StandBy/StandBy/GGJGame/Content/Geometry/Textures/Reactor/Reactor/Reactor2_initialShadingGroup_BaseColor.uasset
+[2018.01.28-00.28.15:686][148]LogSavePackage: Save=115.78ms
+[2018.01.28-00.28.15:686][148]LogSavePackage: Moving '../../../../../../../StandBy/StandBy/GGJGame/Saved/Reactor2_initialShadingGroup_Emi17C200774089E0CC325ACCB748E63546.tmp' to '../../../../../../../StandBy/StandBy/GGJGame/Content/Geometry/Textures/Reactor/Reactor/Reactor2_initialShadingGroup_Emissive.uasset'
+[2018.01.28-00.28.15:688][148]LogSavePackage: Display: Finished SavePackage ../../../../../../../StandBy/StandBy/GGJGame/Content/Geometry/Textures/Reactor/Reactor/Reactor2_initialShadingGroup_Emissive.uasset
+[2018.01.28-00.28.15:742][148]LogSavePackage: Save=44.01ms
+[2018.01.28-00.28.15:742][148]LogSavePackage: Moving '../../../../../../../StandBy/StandBy/GGJGame/Saved/Reactor2_initialShadingGroup_Hei7CF28FCA41127C67245683A6D3A79273.tmp' to '../../../../../../../StandBy/StandBy/GGJGame/Content/Geometry/Textures/Reactor/Reactor/Reactor2_initialShadingGroup_Height.uasset'
+[2018.01.28-00.28.15:744][148]LogSavePackage: Display: Finished SavePackage ../../../../../../../StandBy/StandBy/GGJGame/Content/Geometry/Textures/Reactor/Reactor/Reactor2_initialShadingGroup_Height.uasset
+[2018.01.28-00.28.15:883][148]LogSavePackage: Save=127.71ms
+[2018.01.28-00.28.15:883][148]LogSavePackage: Moving '../../../../../../../StandBy/StandBy/GGJGame/Saved/Reactor2_initialShadingGroup_MetD30E71624BEBBD84F4641D9A5DAF3BAA.tmp' to '../../../../../../../StandBy/StandBy/GGJGame/Content/Geometry/Textures/Reactor/Reactor/Reactor2_initialShadingGroup_Metallic.uasset'
+[2018.01.28-00.28.15:884][148]LogSavePackage: Display: Finished SavePackage ../../../../../../../StandBy/StandBy/GGJGame/Content/Geometry/Textures/Reactor/Reactor/Reactor2_initialShadingGroup_Metallic.uasset
+[2018.01.28-00.28.16:224][148]LogSavePackage: Save=329.56ms
+[2018.01.28-00.28.16:224][148]LogSavePackage: Moving '../../../../../../../StandBy/StandBy/GGJGame/Saved/Reactor2_initialShadingGroup_NorFD411E414F9A2EBB999E6A95501821C2.tmp' to '../../../../../../../StandBy/StandBy/GGJGame/Content/Geometry/Textures/Reactor/Reactor/Reactor2_initialShadingGroup_Normal.uasset'
+[2018.01.28-00.28.16:226][148]LogSavePackage: Display: Finished SavePackage ../../../../../../../StandBy/StandBy/GGJGame/Content/Geometry/Textures/Reactor/Reactor/Reactor2_initialShadingGroup_Normal.uasset
+[2018.01.28-00.28.16:389][148]LogSavePackage: Save=153.96ms
+[2018.01.28-00.28.16:389][148]LogSavePackage: Moving '../../../../../../../StandBy/StandBy/GGJGame/Saved/Reactor2_initialShadingGroup_Rou0617F4FE4C5C740F5234CCBEFFAEEF1C.tmp' to '../../../../../../../StandBy/StandBy/GGJGame/Content/Geometry/Textures/Reactor/Reactor/Reactor2_initialShadingGroup_Roughness.uasset'
+[2018.01.28-00.28.16:391][148]LogSavePackage: Display: Finished SavePackage ../../../../../../../StandBy/StandBy/GGJGame/Content/Geometry/Textures/Reactor/Reactor/Reactor2_initialShadingGroup_Roughness.uasset
