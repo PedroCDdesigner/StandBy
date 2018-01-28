@@ -1,18 +1,20 @@
-﻿Log file open, 01/27/18 11:28:38
+﻿Log file open, 01/27/18 16:07:09
 LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
 LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VSPerf140.dll' (GetLastError=126)
+LogWindows: File 'VSPerf140.dll' does not exist
 LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
 LogWindows: File 'VtuneApi.dll' does not exist
 LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
 LogWindows: File 'VtuneApi32e.dll' does not exist
 LogInit: Display: Running engine for game: GGJGame
 LogPlatformFile: Not using cached read wrapper
-LogInit: Display: RandInit(631210395) SRandInit(631210395).
+LogInit: Display: RandInit(1000302132) SRandInit(1000302132).
 LogInit: Read version file with build ID '3709383'
 LogInit: Overriding engine version to CL 3832480, compatible CL 3709383
 LogInit: Registered custom module enumerator with build ID '3709383'
 LogTaskGraph: Started task graph with 5 named threads and 14 total threads with 3 sets of task threads.
-LogStats: Stats thread started at 0.169173
+LogStats: Stats thread started at 0.180691
 LogD3D11RHI: Aftermath initialized
 LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-Paper2D.dll (API version 3709383).
 LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-Paper2DEditor.dll (API version 3709383).
@@ -164,7 +166,6 @@ LogInit:  - bVerifyPeer = false  - Libcurl will NOT verify peer certificate
 LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
 LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
 LogInit:  - CertBundlePath = nullptr  - Libcurl will use whatever was configured at build time.
-LogHMD: Failed initializing OVRPlugin 1.19.0
 LogInit: Build: ++UE4+Release-4.18-CL-3832480
 LogInit: Engine Version: 4.18.3-3832480+++UE4+Release-4.18
 LogInit: Compatible Engine Version: 4.18.0-3709383+++UE4+Release-4.18
@@ -190,11 +191,12 @@ LogInit: Compiled (64-bit): Jan 12 2018 02:04:55
 LogInit: Compiled with Visual C++: 19.00.24215.01
 LogInit: Build Configuration: Development
 LogInit: Branch Name: ++UE4+Release-4.18
-LogInit: Command line:  
-LogInit: Base directory: C:/Program Files/Epic Games/UE_4.18/Engine/Binaries/Win64/
+LogInit: Command line: -EpicPortal 
+LogInit: Base directory: D:/Otherapps/EpicGames/Unreal Tournament/UE_4.18/Engine/Binaries/Win64/
 LogInit: Installed Engine Build: 1
 LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
 LogInit: Object subsystem initialized
+<<<<<<< HEAD
 [2018.01.27-19.28.40:142][  0]LogInit: Selected Device Profile: [Windows]
 [2018.01.27-19.28.40:142][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
 [2018.01.27-19.28.40:153][  0]LogInit: Computer: GD226
@@ -8110,3 +8112,648 @@ Please see Output Log for details.
 [2018.01.28-01.06.24:077][284]LogSavePackage: Save=933.70ms
 [2018.01.28-01.06.24:077][284]LogSavePackage: Moving '../../../../../../Users/gd48juan/Documents/GitHub/StandBy/GGJGame/Saved/FirstPersonExampleMap_BuiltData8314E1224201578C9FA04BAFD4F7CEBB.tmp' to '../../../../../../Users/gd48juan/Documents/GitHub/StandBy/GGJGame/Content/FirstPersonBP/Maps/FirstPersonExampleMap_BuiltData.uasset'
 [2018.01.28-01.06.24:082][284]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/gd48juan/Documents/GitHub/StandBy/GGJGame/Content/FirstPersonBP/Maps/FirstPersonExampleMap_BuiltData.uasset
+=======
+[2018.01.28-00.07.10:713][  0]LogInit: Selected Device Profile: [Windows]
+[2018.01.28-00.07.10:713][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2018.01.28-00.07.10:755][  0]LogInit: Computer: BEASTMACHINE2
+[2018.01.28-00.07.10:755][  0]LogInit: User: Dredastttarm
+[2018.01.28-00.07.10:755][  0]LogInit: CPU Page size=4096, Cores=4
+[2018.01.28-00.07.10:755][  0]LogInit: High frequency timer resolution =3.914071 MHz
+[2018.01.28-00.07.10:756][  0]LogMemory: Memory total: Physical=15.9GB (16GB approx)
+[2018.01.28-00.07.10:756][  0]LogMemory: Platform Memory Stats for Windows
+[2018.01.28-00.07.10:756][  0]LogMemory: Process Physical Memory: 272.48 MB used, 272.48 MB peak
+[2018.01.28-00.07.10:756][  0]LogMemory: Process Virtual Memory: 269.84 MB used, 269.84 MB peak
+[2018.01.28-00.07.10:756][  0]LogMemory: Physical Memory: 12557.97 MB used,  3764.67 MB free, 16322.64 MB total
+[2018.01.28-00.07.10:756][  0]LogMemory: Virtual Memory: 644.18 MB used,  3764.67 MB free, 134217728.00 MB total
+[2018.01.28-00.07.10:848][  0]LogInit: Using OS detected language (en-GB).
+[2018.01.28-00.07.10:848][  0]LogInit: Using OS detected locale (en-CA).
+[2018.01.28-00.07.10:851][  0]LogTextLocalizationManager: No specific localization for 'en-GB' exists, so the 'en' localization will be used.
+[2018.01.28-00.07.11:188][  0]LogInit: Setting process to per monitor DPI aware
+[2018.01.28-00.07.11:441][  0]LogD3D11RHI: D3D11 adapters:
+[2018.01.28-00.07.11:474][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 1080' (Feature Level 11_0)
+[2018.01.28-00.07.11:474][  0]LogD3D11RHI:       8091/0/8161 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:2, VendorId:0x10de
+[2018.01.28-00.07.11:475][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2018.01.28-00.07.11:475][  0]LogD3D11RHI:       0/0/8161 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2018.01.28-00.07.11:475][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2018.01.28-00.07.11:481][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2018.01.28-00.07.11:481][  0]LogD3D11RHI:     GPU DeviceId: 0x1b80 (for the marketing name, search the web for "GPU Device Id")
+[2018.01.28-00.07.11:481][  0]LogWindows: EnumDisplayDevices:
+[2018.01.28-00.07.11:481][  0]LogWindows:    0. 'NVIDIA GeForce GTX 1080' (P:0 D:1)
+[2018.01.28-00.07.11:481][  0]LogWindows:    1. 'NVIDIA GeForce GTX 1080' (P:1 D:1)
+[2018.01.28-00.07.11:481][  0]LogWindows:    2. 'NVIDIA GeForce GTX 1080' (P:0 D:0)
+[2018.01.28-00.07.11:481][  0]LogWindows:    3. 'NVIDIA GeForce GTX 1080' (P:0 D:0)
+[2018.01.28-00.07.11:481][  0]LogWindows: DebugString: FoundDriverCount:4 
+[2018.01.28-00.07.11:481][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 1080
+[2018.01.28-00.07.11:481][  0]LogD3D11RHI:   Driver Version: 388.59 (internal:23.21.13.8859, unified:388.59)
+[2018.01.28-00.07.11:481][  0]LogD3D11RHI:      Driver Date: 12-5-2017
+[2018.01.28-00.07.11:481][  0]LogRHI: Texture pool is 5664 MB (70% of 8091 MB)
+[2018.01.28-00.07.11:503][  0]LogD3D11RHI: Async texture creation enabled
+[2018.01.28-00.07.11:512][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2018.01.28-00.07.11:556][  0]LogShaderCompilers: Guid format shader working directory is 8 characters bigger than the processId version (../../../../../../../StandBy/StandBy/GGJGame/Intermediate/Shaders/WorkingDirectory/13332/).
+[2018.01.28-00.07.11:557][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/Dredastttarm/AppData/Local/Temp/UnrealShaderWorkingDir/C92F30E74B07FBB6482ABDBAA7A39104/'.
+[2018.01.28-00.07.11:557][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2018.01.28-00.07.12:911][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2018.01.28-00.07.12:944][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2018.01.28-00.07.12:979][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2018.01.28-00.07.13:014][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2018.01.28-00.07.13:059][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2018.01.28-00.07.13:109][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2018.01.28-00.07.13:151][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2018.01.28-00.07.13:184][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2018.01.28-00.07.13:212][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2018.01.28-00.07.13:246][  0]LogTemp: Display: Loaded TP Android_ASTCTargetPlatform
+[2018.01.28-00.07.13:279][  0]LogTemp: Display: Loaded TP Android_ATCTargetPlatform
+[2018.01.28-00.07.13:311][  0]LogTemp: Display: Loaded TP Android_DXTTargetPlatform
+[2018.01.28-00.07.13:347][  0]LogTemp: Display: Loaded TP Android_ETC1TargetPlatform
+[2018.01.28-00.07.13:385][  0]LogTemp: Display: Loaded TP Android_ETC2TargetPlatform
+[2018.01.28-00.07.13:472][  0]LogTemp: Display: Loaded TP Android_MultiTargetPlatform
+[2018.01.28-00.07.13:472][  0]LogTemp: Display: Loaded TP Android_PVRTCTargetPlatform
+[2018.01.28-00.07.13:506][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.01.28-00.07.13:530][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2018.01.28-00.07.13:595][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2018.01.28-00.07.13:612][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2018.01.28-00.07.13:646][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2018.01.28-00.07.13:679][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2018.01.28-00.07.13:712][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2018.01.28-00.07.13:745][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2018.01.28-00.07.13:745][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2018.01.28-00.07.14:050][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2018.01.28-00.07.14:120][  0]LogDerivedDataCache: Loaded boot cache 0.07s 69MB C:/Users/Dredastttarm/AppData/Local/UnrealEngine/4.18/DerivedDataCache/Boot.ddc.
+[2018.01.28-00.07.14:120][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/Dredastttarm/AppData/Local/UnrealEngine/4.18/DerivedDataCache/Boot.ddc
+[2018.01.28-00.07.14:120][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../../StandBy/StandBy/GGJGame/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2018.01.28-00.07.14:120][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2018.01.28-00.07.14:120][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../../StandBy/StandBy/GGJGame/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2018.01.28-00.07.14:120][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2018.01.28-00.07.14:134][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2018.01.28-00.07.14:145][  0]LogDerivedDataCache: Using Local data cache path C:/Users/Dredastttarm/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2018.01.28-00.07.14:154][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2018.01.28-00.07.14:154][  0]LogSlate: Using Freetype 2.6.0
+[2018.01.28-00.07.14:155][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2018.01.28-00.07.14:155][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2018.01.28-00.07.14:439][  0]LogInit: Selected Device Profile: [Windows]
+[2018.01.28-00.07.14:669][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2018.01.28-00.07.14:694][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2018.01.28-00.07.14:694][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2018.01.28-00.07.14:694][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2018.01.28-00.07.14:694][  0]LogMeshReduction: No automatic mesh merging module available
+[2018.01.28-00.07.14:694][  0]LogMeshMerging: No automatic mesh merging module available
+[2018.01.28-00.07.14:721][  0]LogNetVersion: GGJGame , NetCL: 3709383, EngineNetVer: 2, GameNetVer: 0 (Checksum: 2958741361)
+[2018.01.28-00.07.14:843][  0]LogAssetRegistry: FAssetRegistry took 0.0244 seconds to start up
+[2018.01.28-00.07.15:253][  0]LogPackageLocalizationCache: Processed 7 localized package path(s) for 2 prioritized culture(s) in 0.074199 seconds
+[2018.01.28-00.07.15:259][  0]LogUObjectArray: 35870 objects as part of root set at end of initial load.
+[2018.01.28-00.07.15:259][  0]LogUObjectAllocator: 7363704 out of 0 bytes used by permanent object pool.
+[2018.01.28-00.07.15:259][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2018.01.28-00.07.15:287][  0]LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+[2018.01.28-00.07.18:067][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2018.01.28-00.07.18:100][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2018.01.28-00.07.18:837][  0]LogMaterial: Uniform references updated for custom material expression Custom.
+[2018.01.28-00.07.19:136][  0]SourceControl: Source control is disabled
+[2018.01.28-00.07.19:136][  0]SourceControl: Source control is disabled
+[2018.01.28-00.07.19:174][  0]SourceControl: Source control is disabled
+[2018.01.28-00.07.19:211][  0]SourceControl: Source control is disabled
+[2018.01.28-00.07.19:780][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2018.01.28-00.07.19:968][  0]LogOcInput: OculusInput pre-init called
+[2018.01.28-00.07.20:193][  0]LogEngine: Initializing Engine...
+[2018.01.28-00.07.20:195][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2018.01.28-00.07.20:385][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2018.01.28-00.07.20:430][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2018.01.28-00.07.20:518][  0]LogAIModule: Creating AISystem for world Untitled
+[2018.01.28-00.07.20:522][  0]LogInit: XAudio2 using 'Speakers (2- High Definition Audio Device)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.01.28-00.07.20:527][  0]LogInit: FAudioDevice initialized.
+[2018.01.28-00.07.20:599][  0]LogDerivedDataCache: Saved boot cache 0.07s 78MB C:/Users/Dredastttarm/AppData/Local/UnrealEngine/4.18/DerivedDataCache/Boot.ddc.
+[2018.01.28-00.07.20:609][  0]LogInit: Texture streaming: Enabled
+[2018.01.28-00.07.20:666][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2018.01.28-00.07.20:768][  0]LogInit: Transaction tracking system initialized
+[2018.01.28-00.07.20:965][  0]BlueprintLog: New page: Editor Load
+[2018.01.28-00.07.21:535][  0]LocalizationService: Localization service is disabled
+[2018.01.28-00.07.22:007][  0]LogConsoleResponse: Display: 
+[2018.01.28-00.07.22:440][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2018.01.28-00.07.22:441][  0]LogCook: Display: Mobile HDR setting 1
+[2018.01.28-00.07.22:441][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2018.01.28-00.07.23:192][  0]LogFileCache: Scanning file cache for directory 'D:/StandBy/StandBy/GGJGame/Content/' took 0.01s
+[2018.01.28-00.07.23:221][  0]SourceControl: Source control is disabled
+[2018.01.28-00.07.23:221][  0]Cmd: MAP LOAD FILE="../../../../../../../StandBy/StandBy/GGJGame/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.01.28-00.07.23:222][  0]LightingResults: New page: Lighting Build
+[2018.01.28-00.07.23:247][  0]MapCheck: New page: Map Check
+[2018.01.28-00.07.23:247][  0]LightingResults: New page: Lighting Build
+[2018.01.28-00.07.24:793][  0]LogTexture: Display: Building textures: Projectile1_initialShadingGroup_BaseColor (AutoDXT, 256X256)
+[2018.01.28-00.07.24:793][  0]LogTexture: Display: Building textures: Opacity (AutoDXT, 256X256)
+[2018.01.28-00.07.24:793][  0]LogTexture: Display: Building textures: Target1_initialShadingGroup_Roughness (AutoDXT, 1024X1024)
+[2018.01.28-00.07.24:793][  0]LogTexture: Display: Building textures: Target1_initialShadingGroup_Metallic (AutoDXT, 1024X1024)
+[2018.01.28-00.07.24:793][  0]LogTexture: Display: Building textures: Target1_initialShadingGroup_Emissive (AutoDXT, 1024X1024)
+[2018.01.28-00.07.24:793][  0]LogTexture: Display: Building textures: Target1_initialShadingGroup_Normal (BC5, 1024X1024)
+[2018.01.28-00.07.24:793][  0]LogTexture: Display: Building textures: Projectile1_initialShadingGroup_Roughness (AutoDXT, 256X256)
+[2018.01.28-00.07.24:793][  0]LogTexture: Display: Building textures: Projectile1_initialShadingGroup_Normal (BC5, 256X256)
+[2018.01.28-00.07.24:793][  0]LogTexture: Display: Building textures: Target1_initialShadingGroup_BaseColor (AutoDXT, 1024X1024)
+[2018.01.28-00.07.24:793][  0]LogTexture: Display: Building textures: Projectile1_initialShadingGroup_Metallic (AutoDXT, 256X256)
+[2018.01.28-00.07.24:793][  0]LogTexture: Display: Building textures: Projectile1_initialShadingGroup_Emissive (AutoDXT, 256X256)
+[2018.01.28-00.07.24:793][  0]LogTexture: Display: Building textures: HQ_Lightmap0_1 (AutoDXT, 2048X2048)
+[2018.01.28-00.07.24:793][  0]LogTexture: Display: Building textures: HQ_Lightmap0_2 (AutoDXT, 2048X2048)
+[2018.01.28-00.07.24:793][  0]LogTexture: Display: Building textures: HQ_Lightmap0_4 (AutoDXT, 2048X2048)
+[2018.01.28-00.07.24:793][  0]LogMaterial: Missing cached shader map for material ProjectileMat, compiling. 
+[2018.01.28-00.07.24:863][  0]LogTexture: Display: Building textures: HQ_Lightmap0_5 (AutoDXT, 64X64)
+[2018.01.28-00.07.24:863][  0]LogTexture: Display: Building textures: HQ_Lightmap0_3 (AutoDXT, 2048X2048)
+[2018.01.28-00.07.24:863][  0]LogTexture: Display: Building textures: LQ_Lightmap_0_1 (DXT1, 2048X2048)
+[2018.01.28-00.07.24:863][  0]LogStaticMesh: Building static mesh Projectile1...
+[2018.01.28-00.07.24:915][  0]LogStaticMesh: Built static mesh [0.05s] /Game/Geometry/Meshes/Projectile/Projectile1.Projectile1
+[2018.01.28-00.07.25:338][  0]LogTexture: Display: Building textures: LQ_Lightmap_0_2 (DXT1, 2048X2048)
+[2018.01.28-00.07.25:341][  0]LogMaterial: Missing cached shader map for material TargetMat, compiling. 
+[2018.01.28-00.07.25:375][  0]LogStaticMesh: Building static mesh Target1...
+[2018.01.28-00.07.25:406][  0]LogTexture: Display: Building textures: LQ_Lightmap_0_3 (DXT1, 2048X2048)
+[2018.01.28-00.07.25:406][  0]LogStaticMesh: Built static mesh [0.03s] /Game/Geometry/Meshes/LevelObjects/Target1.Target1
+[2018.01.28-00.07.25:415][  0]LogMaterial: Missing cached shader map for material M_textFollowCamera, compiling. 
+[2018.01.28-00.07.25:548][  0]LogMaterial: Missing cached shader map for material CubeMaterial, compiling. 
+[2018.01.28-00.07.25:714][  0]LogMaterial: Missing cached shader map for material BaseMaterial, compiling. 
+[2018.01.28-00.07.25:793][  0]LogTexture: Display: Building textures: LQ_Lightmap_0_4 (DXT1, 2048X2048)
+[2018.01.28-00.07.25:793][  0]LogMaterial: Missing cached shader map for material BasicAsset03, compiling. 
+[2018.01.28-00.07.25:843][  0]LogTexture: Display: Building textures: LQ_Lightmap_0_5 (DXT1, 64X64)
+[2018.01.28-00.07.25:843][  0]LogMaterial: Missing cached shader map for material AntiAliasedTextMaterialTranslucent, compiling. 
+[2018.01.28-00.07.25:889][  0]LogTexture: Display: Building textures: SkyOcclusion0_1 (AutoDXT, 2048X1024)
+[2018.01.28-00.07.25:889][  0]LogMaterial: Missing cached shader map for material BasicShapeMaterial, compiling. 
+[2018.01.28-00.07.27:682][  0]LogTexture: Display: Building textures: SkyOcclusion0_2 (AutoDXT, 2048X1024)
+[2018.01.28-00.07.27:682][  0]LogTexture: Display: Building textures: SkyOcclusion0_3 (AutoDXT, 2048X1024)
+[2018.01.28-00.07.27:682][  0]LogTexture: Display: Building textures: SkyOcclusion0_4 (AutoDXT, 2048X1024)
+[2018.01.28-00.07.27:682][  0]LogTexture: Display: Building textures: SkyOcclusion0_5 (AutoDXT, 64X32)
+[2018.01.28-00.07.27:682][  0]LogTexture: Display: Building textures: ShadowMapTexture2D_0 (G8, 2048X1024)
+[2018.01.28-00.07.27:682][  0]LogTexture: Display: Building textures: ShadowMapTexture2D_1 (G8, 2048X1024)
+[2018.01.28-00.07.27:682][  0]LogTexture: Display: Building textures: ShadowMapTexture2D_2 (G8, 2048X1024)
+[2018.01.28-00.07.27:682][  0]LogTexture: Display: Building textures: ShadowMapTexture2D_3 (G8, 2048X1024)
+[2018.01.28-00.07.27:682][  0]LogTexture: Display: Building textures: ShadowMapTexture2D_4 (G8, 2048X1024)
+[2018.01.28-00.07.27:682][  0]LogTexture: Display: Building textures: ShadowMapTexture2D_5 (G8, 2048X1024)
+[2018.01.28-00.07.27:682][  0]LogTexture: Display: Building textures: ShadowMapTexture2D_6 (G8, 2048X1024)
+[2018.01.28-00.07.27:682][  0]LogTexture: Display: Building textures: ShadowMapTexture2D_7 (G8, 64X32)
+[2018.01.28-00.07.27:682][  0]LogTexture: Display: Building textures: Robot1_initialShadingGroup_Emissive (AutoDXT, 2048X2048)
+[2018.01.28-00.07.27:682][  0]LogTexture: Display: Building textures: Robot1_initialShadingGroup_BaseColor_Spots (AutoDXT, 2048X2048)
+[2018.01.28-00.07.27:682][  0]LogTexture: Display: Building textures: Robot1_initialShadingGroup_Normal (BC5, 2048X2048)
+[2018.01.28-00.07.27:682][  0]LogTexture: Display: Building textures: Robot1_initialShadingGroup_OcclusionRoughnessMetallic (AutoDXT, 2048X2048)
+[2018.01.28-00.07.27:682][  0]LogTexture: Display: Building textures: Robot1_initialShadingGroup_BaseColor (AutoDXT, 2048X2048)
+[2018.01.28-00.07.27:822][  0]LogMaterial: Missing cached shader map for material M_UE4Man_Body, compiling. 
+[2018.01.28-00.07.29:636][  0]LogMaterial: Missing cached shader map for material RobotMat, compiling. 
+[2018.01.28-00.07.29:721][  0]LogMaterial: Missing cached shader map for material lambert1, compiling. 
+[2018.01.28-00.07.29:812][  0]LogMaterial: Missing cached shader map for material M_FPGun, compiling. 
+[2018.01.28-00.07.29:970][  0]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Geometry/Anims/Idle_Anim.Idle_Anim
+[2018.01.28-00.07.29:991][  0]LogAnimationCompression: Recompressing (AnimSequence /Game/Geometry/Anims/Idle_Anim.Idle_Anim) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2018.01.28-00.07.30:190][  0]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2018.01.28-00.07.30:369][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.01.28-00.07.30:401][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.01.28-00.07.30:476][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 74.968ms to complete.
+[2018.01.28-00.07.30:476][  0]LogFileHelpers: Loading map 'FirstPersonExampleMap' took 7.254
+[2018.01.28-00.07.31:102][  0]LogCollectionManager: Loaded 0 collections in 0.001183 seconds
+[2018.01.28-00.07.31:310][  0]LogFileCache: Scanning file cache for directory 'D:/StandBy/StandBy/GGJGame/Saved/Collections/' took 0.01s
+[2018.01.28-00.07.31:310][  0]LogFileCache: Scanning file cache for directory 'D:/StandBy/StandBy/GGJGame/Content/Developers/Dredastttarm/Collections/' took 0.01s
+[2018.01.28-00.07.31:310][  0]LogFileCache: Scanning file cache for directory 'D:/StandBy/StandBy/GGJGame/Content/Collections/' took 0.01s
+[2018.01.28-00.07.31:310][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000001 seconds
+[2018.01.28-00.07.31:340][  0]LogContentBrowser: Native class hierarchy populated in 0.0272 seconds. Added 2363 classes and 519 folders.
+[2018.01.28-00.07.31:508][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0010 seconds. Added 0 classes and 0 folders.
+[2018.01.28-00.07.31:896][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0004 seconds. Added 0 classes and 0 folders.
+[2018.01.28-00.07.31:990][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0003 seconds. Added 1 classes and 2 folders.
+[2018.01.28-00.07.32:279][  0]LogSlate: Took 0.000236 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2018.01.28-00.07.32:281][  0]LogSlate: Took 0.000229 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2018.01.28-00.07.32:311][  0]LogSlate: Took 0.014811 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2018.01.28-00.07.32:543][  0]LogMaterial: Missing cached shader map for material LevelGridMaterial2, compiling. 
+[2018.01.28-00.07.32:634][  0]LogRenderer: Reallocating scene render targets to support 1616x816 Format 10 NumSamples 1 (Frame:1).
+[2018.01.28-00.07.33:555][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0004 seconds. Added 1 classes and 2 folders.
+[2018.01.28-00.07.33:555][  0]LogLoad: (Engine Initialization) Total time: 25.21 seconds
+[2018.01.28-00.07.33:555][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2018.01.28-00.07.33:555][  0]LogExternalProfiler: No external profilers were discovered.  External profiling features will not be available.
+[2018.01.28-00.07.33:999][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2018.01.28-00.07.34:271][  1]LogAssetRegistry: Asset discovery search completed in 19.4497 seconds
+[2018.01.28-00.07.34:274][  1]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000001 seconds (found 0 objects)
+[2018.01.28-00.07.34:275][  1]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000090 seconds (updated 0 objects)
+[2018.01.28-00.07.34:902][  3]LogSlate: Took 0.000285 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2018.01.28-00.09.03:095][332]LogSlate: Took 0.000146 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2018.01.28-00.09.03:174][332]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 ../../../../../../../StandBy/ArtAssets/Reactor/Textures/Reactor2_initialShadingGroup_BaseColor.png)
+[2018.01.28-00.09.03:394][332]LogTexture: Display: Building textures: Reactor2_initialShadingGroup_BaseColor (AutoDXT, 2048X2048)
+[2018.01.28-00.09.04:462][332]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 ../../../../../../../StandBy/ArtAssets/Reactor/Textures/Reactor2_initialShadingGroup_Emissive.png)
+[2018.01.28-00.09.04:569][332]LogTexture: Display: Building textures: Reactor2_initialShadingGroup_Emissive (AutoDXT, 2048X2048)
+[2018.01.28-00.09.04:792][332]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 ../../../../../../../StandBy/ArtAssets/Reactor/Textures/Reactor2_initialShadingGroup_Height.png)
+[2018.01.28-00.09.04:812][332]LogTexture: Display: Building textures: Reactor2_initialShadingGroup_Height (AutoDXT, 2048X2048)
+[2018.01.28-00.09.05:185][332]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 ../../../../../../../StandBy/ArtAssets/Reactor/Textures/Reactor2_initialShadingGroup_Metallic.png)
+[2018.01.28-00.09.05:227][332]LogTexture: Display: Building textures: Reactor2_initialShadingGroup_Metallic (AutoDXT, 2048X2048)
+[2018.01.28-00.09.05:855][332]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 ../../../../../../../StandBy/ArtAssets/Reactor/Textures/Reactor2_initialShadingGroup_Normal.png)
+[2018.01.28-00.09.06:028][332]LogTexture: Display: Building textures: Reactor2_initialShadingGroup_Normal (BC5, 2048X2048)
+[2018.01.28-00.09.06:297][332]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 ../../../../../../../StandBy/ArtAssets/Reactor/Textures/Reactor2_initialShadingGroup_Roughness.png)
+[2018.01.28-00.09.06:340][332]LogTexture: Display: Building textures: Reactor2_initialShadingGroup_Roughness (AutoDXT, 2048X2048)
+[2018.01.28-00.09.14:030][687]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 ../../../../../../../StandBy/ArtAssets/Reactor/Textures/ReactorTarget/ReactorTarget_initialShadingGroup_BaseColor.png)
+[2018.01.28-00.09.14:066][687]LogTexture: Display: Building textures: ReactorTarget_initialShadingGroup_BaseColor (AutoDXT, 1024X1024)
+[2018.01.28-00.09.14:279][687]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 ../../../../../../../StandBy/ArtAssets/Reactor/Textures/ReactorTarget/ReactorTarget_initialShadingGroup_Height.png)
+[2018.01.28-00.09.14:285][687]LogTexture: Display: Building textures: ReactorTarget_initialShadingGroup_Height (AutoDXT, 1024X1024)
+[2018.01.28-00.09.14:391][687]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 ../../../../../../../StandBy/ArtAssets/Reactor/Textures/ReactorTarget/ReactorTarget_initialShadingGroup_Metallic.png)
+[2018.01.28-00.09.14:402][687]LogTexture: Display: Building textures: ReactorTarget_initialShadingGroup_Metallic (AutoDXT, 1024X1024)
+[2018.01.28-00.09.14:550][687]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 ../../../../../../../StandBy/ArtAssets/Reactor/Textures/ReactorTarget/ReactorTarget_initialShadingGroup_Normal.png)
+[2018.01.28-00.09.14:589][687]LogTexture: Display: Building textures: ReactorTarget_initialShadingGroup_Normal (BC5, 1024X1024)
+[2018.01.28-00.09.14:658][687]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 ../../../../../../../StandBy/ArtAssets/Reactor/Textures/ReactorTarget/ReactorTarget_initialShadingGroup_Roughness.png)
+[2018.01.28-00.09.14:670][687]LogTexture: Display: Building textures: ReactorTarget_initialShadingGroup_Roughness (AutoDXT, 1024X1024)
+[2018.01.28-00.10.00:608][966]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Geometry/Mats/Reactor/Reactor" FILE="../../../../../../../StandBy/StandBy/GGJGame/Content/Geometry/Mats/Reactor/Reactor.uasset" SILENT=true
+[2018.01.28-00.10.00:681][966]LogSavePackage: Save=66.97ms
+[2018.01.28-00.10.00:681][966]LogSavePackage: Moving '../../../../../../../StandBy/StandBy/GGJGame/Saved/ReactorB0F121714C3F74CA93D74A89CDBEFF95.tmp' to '../../../../../../../StandBy/StandBy/GGJGame/Content/Geometry/Mats/Reactor/Reactor.uasset'
+[2018.01.28-00.10.00:683][966]LogSavePackage: Display: Finished SavePackage ../../../../../../../StandBy/StandBy/GGJGame/Content/Geometry/Mats/Reactor/Reactor.uasset
+[2018.01.28-00.10.05:237][492]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Geometry/Mats/Reactor/ReactorTarget" FILE="../../../../../../../StandBy/StandBy/GGJGame/Content/Geometry/Mats/Reactor/ReactorTarget.uasset" SILENT=true
+[2018.01.28-00.10.05:247][492]LogSavePackage: Save=8.41ms
+[2018.01.28-00.10.05:247][492]LogSavePackage: Moving '../../../../../../../StandBy/StandBy/GGJGame/Saved/ReactorTarget0B2C45B04DD468DA44E4F1AE06D3EC6A.tmp' to '../../../../../../../StandBy/StandBy/GGJGame/Content/Geometry/Mats/Reactor/ReactorTarget.uasset'
+[2018.01.28-00.10.05:248][492]LogSavePackage: Display: Finished SavePackage ../../../../../../../StandBy/StandBy/GGJGame/Content/Geometry/Mats/Reactor/ReactorTarget.uasset
+[2018.01.28-00.10.06:881][672]LogContentBrowser: Native class hierarchy updated for 'MaterialEditor' in 0.0002 seconds. Added 1 classes and 0 folders.
+[2018.01.28-00.10.06:885][672]LogMaterial: Missing cached shader map for material Reactor, compiling. 
+[2018.01.28-00.10.07:239][672]LogMaterial: Missing cached shader map for material M_SkyBox, compiling. 
+[2018.01.28-00.10.07:251][672]LogMaterial: Missing cached shader map for material GridMaterial, compiling. 
+[2018.01.28-00.10.07:623][672]LogMaterial: Missing cached shader map for material Reactor, compiling. 
+[2018.01.28-00.10.07:699][672]LogSlate: Took 0.018598 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2018.01.28-00.10.09:684][749]MaterialEditorStats: Base pass shader: 99 instructions
+[2018.01.28-00.10.09:684][749]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 172 instructions
+[2018.01.28-00.10.09:684][749]MaterialEditorStats: Vertex shader: 29 instructions
+[2018.01.28-00.10.09:684][749]MaterialEditorStats: Texture samplers: 2/16
+[2018.01.28-00.10.11:171][919]LogMaterial: Missing cached shader map for material ReactorTarget, compiling. 
+[2018.01.28-00.10.11:230][919]LogMaterial: Missing cached shader map for material ReactorTarget, compiling. 
+[2018.01.28-00.10.12:256][ 20]MaterialEditorStats: Base pass shader: 99 instructions
+[2018.01.28-00.10.12:256][ 20]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 172 instructions
+[2018.01.28-00.10.12:256][ 20]MaterialEditorStats: Vertex shader: 29 instructions
+[2018.01.28-00.10.12:256][ 20]MaterialEditorStats: Texture samplers: 2/16
+[2018.01.28-00.10.26:160][302]LogMaterial: Missing cached shader map for material Reactor, compiling. 
+[2018.01.28-00.10.26:172][302]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2018.01.28-00.10.26:203][302]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2018.01.28-00.10.26:217][302]LogMaterial: Missing cached shader map for material Reactor, compiling. 
+[2018.01.28-00.10.26:235][302]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_1, compiling. 
+[2018.01.28-00.10.26:266][302]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2018.01.28-00.10.26:271][302]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_1, compiling. 
+[2018.01.28-00.10.26:287][302]LogMaterial: Missing cached shader map for material Reactor, compiling. 
+[2018.01.28-00.10.26:305][302]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_2, compiling. 
+[2018.01.28-00.10.26:336][302]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2018.01.28-00.10.26:341][302]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_1, compiling. 
+[2018.01.28-00.10.26:346][302]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_2, compiling. 
+[2018.01.28-00.10.26:359][302]LogMaterial: Missing cached shader map for material Reactor, compiling. 
+[2018.01.28-00.10.26:373][302]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_3, compiling. 
+[2018.01.28-00.10.26:404][302]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2018.01.28-00.10.26:409][302]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_1, compiling. 
+[2018.01.28-00.10.26:414][302]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_2, compiling. 
+[2018.01.28-00.10.26:419][302]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_3, compiling. 
+[2018.01.28-00.10.26:435][302]LogMaterial: Missing cached shader map for material Reactor, compiling. 
+[2018.01.28-00.10.26:452][302]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_4, compiling. 
+[2018.01.28-00.10.26:482][302]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2018.01.28-00.10.26:486][302]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_1, compiling. 
+[2018.01.28-00.10.26:491][302]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_2, compiling. 
+[2018.01.28-00.10.26:495][302]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_3, compiling. 
+[2018.01.28-00.10.26:500][302]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_4, compiling. 
+[2018.01.28-00.10.26:514][302]LogMaterial: Missing cached shader map for material Reactor, compiling. 
+[2018.01.28-00.10.26:533][302]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_5, compiling. 
+[2018.01.28-00.10.26:564][302]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2018.01.28-00.10.26:569][302]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_1, compiling. 
+[2018.01.28-00.10.26:574][302]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_2, compiling. 
+[2018.01.28-00.10.26:579][302]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_3, compiling. 
+[2018.01.28-00.10.26:584][302]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_4, compiling. 
+[2018.01.28-00.10.26:590][302]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_5, compiling. 
+[2018.01.28-00.10.29:117][477]MaterialEditorStats: Base pass shader: 99 instructions
+[2018.01.28-00.10.29:117][477]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 172 instructions
+[2018.01.28-00.10.29:117][477]MaterialEditorStats: Vertex shader: 29 instructions
+[2018.01.28-00.10.29:117][477]MaterialEditorStats: Texture samplers: 2/16
+[2018.01.28-00.10.36:395][145]LogMaterial: Missing cached shader map for material Reactor, compiling. 
+[2018.01.28-00.10.36:426][145]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2018.01.28-00.10.38:242][280]MaterialEditorStats: Base pass shader: 102 instructions
+[2018.01.28-00.10.38:242][280]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 175 instructions
+[2018.01.28-00.10.38:242][280]MaterialEditorStats: Vertex shader: 31 instructions
+[2018.01.28-00.10.38:242][280]MaterialEditorStats: Texture samplers: 3/16
+[2018.01.28-00.10.38:242][280]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2018.01.28-00.10.41:459][573]LogMaterial: Missing cached shader map for material Reactor, compiling. 
+[2018.01.28-00.10.42:530][636]MaterialEditorStats: Base pass shader: 102 instructions
+[2018.01.28-00.10.42:531][636]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 175 instructions
+[2018.01.28-00.10.42:531][636]MaterialEditorStats: Vertex shader: 31 instructions
+[2018.01.28-00.10.42:531][636]MaterialEditorStats: Texture samplers: 3/16
+[2018.01.28-00.10.42:531][636]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2018.01.28-00.10.45:586][915]LogMaterial: Missing cached shader map for material Reactor, compiling. 
+[2018.01.28-00.10.46:996][ 13]MaterialEditorStats: Base pass shader: 102 instructions
+[2018.01.28-00.10.46:996][ 13]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 175 instructions
+[2018.01.28-00.10.46:996][ 13]MaterialEditorStats: Vertex shader: 31 instructions
+[2018.01.28-00.10.46:996][ 13]MaterialEditorStats: Texture samplers: 3/16
+[2018.01.28-00.10.46:996][ 13]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2018.01.28-00.10.49:062][213]LogMaterial: Missing cached shader map for material Reactor, compiling. 
+[2018.01.28-00.10.49:079][213]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_3, compiling. 
+[2018.01.28-00.10.50:804][341]MaterialEditorStats: Base pass shader: 109 instructions
+[2018.01.28-00.10.50:804][341]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 183 instructions
+[2018.01.28-00.10.50:804][341]MaterialEditorStats: Vertex shader: 31 instructions
+[2018.01.28-00.10.50:804][341]MaterialEditorStats: Texture samplers: 4/16
+[2018.01.28-00.10.50:805][341]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2018.01.28-00.10.51:908][445]LogMaterial: Missing cached shader map for material Reactor, compiling. 
+[2018.01.28-00.10.51:927][445]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_4, compiling. 
+[2018.01.28-00.10.53:587][564]MaterialEditorStats: Base pass shader: 115 instructions
+[2018.01.28-00.10.53:587][564]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 189 instructions
+[2018.01.28-00.10.53:587][564]MaterialEditorStats: Vertex shader: 31 instructions
+[2018.01.28-00.10.53:587][564]MaterialEditorStats: Texture samplers: 5/16
+[2018.01.28-00.10.53:587][564]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2018.01.28-00.10.55:031][704]LogMaterial: Missing cached shader map for material Reactor, compiling. 
+[2018.01.28-00.10.55:049][704]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_5, compiling. 
+[2018.01.28-00.10.56:113][763]MaterialEditorStats: Base pass shader: 117 instructions
+[2018.01.28-00.10.56:113][763]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 191 instructions
+[2018.01.28-00.10.56:113][763]MaterialEditorStats: Vertex shader: 31 instructions
+[2018.01.28-00.10.56:113][763]MaterialEditorStats: Texture samplers: 6/16
+[2018.01.28-00.10.56:113][763]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2018.01.28-00.11.03:892][508]LogMaterialEditor: Applying material Reactor
+[2018.01.28-00.11.04:247][508]LogMaterial: Missing cached shader map for material Reactor, compiling. 
+[2018.01.28-00.11.04:291][508]LogMaterial: Missing cached shader map for material Reactor, compiling. 
+[2018.01.28-00.11.04:322][508]LogMaterial: Missing cached shader map for material Reactor, compiling. 
+[2018.01.28-00.11.04:374][508]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy Reactor, compiling. 
+[2018.01.28-00.11.05:184][508]TextureStreamingBuild: Display: Compiling optional shaders took 0.829 seconds.
+[2018.01.28-00.11.05:566][533]LogMaterialEditor: Saving and Compiling material Reactor
+[2018.01.28-00.11.06:751][533]LogSlate: Took 0.000149 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2018.01.28-00.11.06:762][533]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Geometry/Mats/Reactor/Reactor" FILE="../../../../../../../StandBy/StandBy/GGJGame/Content/Geometry/Mats/Reactor/Reactor.uasset" SILENT=true
+[2018.01.28-00.11.06:794][533]LogSavePackage: Save=11.71ms
+[2018.01.28-00.11.06:794][533]LogSavePackage: Moving '../../../../../../../StandBy/StandBy/GGJGame/Saved/Reactor5BB4B778484A19D62F99D1BFBDFBAE6E.tmp' to '../../../../../../../StandBy/StandBy/GGJGame/Content/Geometry/Mats/Reactor/Reactor.uasset'
+[2018.01.28-00.11.06:796][533]LogSavePackage: Display: Finished SavePackage ../../../../../../../StandBy/StandBy/GGJGame/Content/Geometry/Mats/Reactor/Reactor.uasset
+[2018.01.28-00.11.06:805][533]MaterialEditorStats: Base pass shader: 117 instructions
+[2018.01.28-00.11.06:805][533]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 191 instructions
+[2018.01.28-00.11.06:805][533]MaterialEditorStats: Vertex shader: 31 instructions
+[2018.01.28-00.11.06:805][533]MaterialEditorStats: Texture samplers: 7/16
+[2018.01.28-00.11.06:805][533]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2018.01.28-00.11.13:089][123]LogMaterial: Missing cached shader map for material ReactorTarget, compiling. 
+[2018.01.28-00.11.13:102][123]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_6, compiling. 
+[2018.01.28-00.11.13:132][123]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_6, compiling. 
+[2018.01.28-00.11.13:147][123]LogMaterial: Missing cached shader map for material ReactorTarget, compiling. 
+[2018.01.28-00.11.13:163][123]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_7, compiling. 
+[2018.01.28-00.11.13:194][123]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_6, compiling. 
+[2018.01.28-00.11.13:199][123]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_7, compiling. 
+[2018.01.28-00.11.13:214][123]LogMaterial: Missing cached shader map for material ReactorTarget, compiling. 
+[2018.01.28-00.11.13:231][123]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_8, compiling. 
+[2018.01.28-00.11.13:265][123]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_6, compiling. 
+[2018.01.28-00.11.13:269][123]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_7, compiling. 
+[2018.01.28-00.11.13:274][123]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_8, compiling. 
+[2018.01.28-00.11.13:289][123]LogMaterial: Missing cached shader map for material ReactorTarget, compiling. 
+[2018.01.28-00.11.13:306][123]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_9, compiling. 
+[2018.01.28-00.11.13:340][123]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_6, compiling. 
+[2018.01.28-00.11.13:346][123]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_7, compiling. 
+[2018.01.28-00.11.13:351][123]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_8, compiling. 
+[2018.01.28-00.11.13:357][123]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_9, compiling. 
+[2018.01.28-00.11.13:373][123]LogMaterial: Missing cached shader map for material ReactorTarget, compiling. 
+[2018.01.28-00.11.13:392][123]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_10, compiling. 
+[2018.01.28-00.11.13:424][123]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_6, compiling. 
+[2018.01.28-00.11.13:430][123]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_7, compiling. 
+[2018.01.28-00.11.13:434][123]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_8, compiling. 
+[2018.01.28-00.11.13:439][123]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_9, compiling. 
+[2018.01.28-00.11.13:444][123]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_10, compiling. 
+[2018.01.28-00.11.14:671][189]MaterialEditorStats: Base pass shader: 99 instructions
+[2018.01.28-00.11.14:671][189]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 172 instructions
+[2018.01.28-00.11.14:671][189]MaterialEditorStats: Vertex shader: 29 instructions
+[2018.01.28-00.11.14:671][189]MaterialEditorStats: Texture samplers: 2/16
+[2018.01.28-00.11.17:643][451]LogMaterial: Missing cached shader map for material ReactorTarget, compiling. 
+[2018.01.28-00.11.17:658][451]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_7, compiling. 
+[2018.01.28-00.11.19:087][542]MaterialEditorStats: Base pass shader: 102 instructions
+[2018.01.28-00.11.19:088][542]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 175 instructions
+[2018.01.28-00.11.19:088][542]MaterialEditorStats: Vertex shader: 31 instructions
+[2018.01.28-00.11.19:088][542]MaterialEditorStats: Texture samplers: 3/16
+[2018.01.28-00.11.19:088][542]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2018.01.28-00.11.22:889][883]LogMaterial: Missing cached shader map for material ReactorTarget, compiling. 
+[2018.01.28-00.11.22:903][883]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_6, compiling. 
+[2018.01.28-00.11.23:952][942]MaterialEditorStats: Base pass shader: 104 instructions
+[2018.01.28-00.11.23:952][942]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 177 instructions
+[2018.01.28-00.11.23:952][942]MaterialEditorStats: Vertex shader: 31 instructions
+[2018.01.28-00.11.23:952][942]MaterialEditorStats: Texture samplers: 4/16
+[2018.01.28-00.11.23:952][942]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2018.01.28-00.11.25:002][ 41]LogMaterial: Missing cached shader map for material ReactorTarget, compiling. 
+[2018.01.28-00.11.25:018][ 41]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_10, compiling. 
+[2018.01.28-00.11.26:064][100]MaterialEditorStats: Base pass shader: 110 instructions
+[2018.01.28-00.11.26:064][100]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 183 instructions
+[2018.01.28-00.11.26:064][100]MaterialEditorStats: Vertex shader: 31 instructions
+[2018.01.28-00.11.26:064][100]MaterialEditorStats: Texture samplers: 5/16
+[2018.01.28-00.11.26:064][100]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2018.01.28-00.11.30:230][494]LogMaterial: Missing cached shader map for material ReactorTarget, compiling. 
+[2018.01.28-00.11.30:251][494]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_9, compiling. 
+[2018.01.28-00.11.31:415][558]LogMaterial: Missing cached shader map for material ReactorTarget, compiling. 
+[2018.01.28-00.11.32:462][617]MaterialEditorStats: Base pass shader: 117 instructions
+[2018.01.28-00.11.32:462][617]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 191 instructions
+[2018.01.28-00.11.32:462][617]MaterialEditorStats: Vertex shader: 31 instructions
+[2018.01.28-00.11.32:462][617]MaterialEditorStats: Texture samplers: 6/16
+[2018.01.28-00.11.32:462][617]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2018.01.28-00.11.34:116][777]LogMaterialEditor: Saving and Compiling material ReactorTarget
+[2018.01.28-00.11.34:467][777]LogMaterial: Missing cached shader map for material ReactorTarget, compiling. 
+[2018.01.28-00.11.34:506][777]LogMaterial: Missing cached shader map for material ReactorTarget, compiling. 
+[2018.01.28-00.11.34:538][777]LogMaterial: Missing cached shader map for material ReactorTarget, compiling. 
+[2018.01.28-00.11.34:578][777]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy ReactorTarget, compiling. 
+[2018.01.28-00.11.35:410][777]TextureStreamingBuild: Display: Compiling optional shaders took 0.838 seconds.
+[2018.01.28-00.11.36:982][777]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Geometry/Mats/Reactor/ReactorTarget" FILE="../../../../../../../StandBy/StandBy/GGJGame/Content/Geometry/Mats/Reactor/ReactorTarget.uasset" SILENT=true
+[2018.01.28-00.11.36:996][777]LogSavePackage: Save=10.89ms
+[2018.01.28-00.11.36:996][777]LogSavePackage: Moving '../../../../../../../StandBy/StandBy/GGJGame/Saved/ReactorTarget6BAC51844FEF1BBA3859B9AA1E49CC8D.tmp' to '../../../../../../../StandBy/StandBy/GGJGame/Content/Geometry/Mats/Reactor/ReactorTarget.uasset'
+[2018.01.28-00.11.36:997][777]LogSavePackage: Display: Finished SavePackage ../../../../../../../StandBy/StandBy/GGJGame/Content/Geometry/Mats/Reactor/ReactorTarget.uasset
+[2018.01.28-00.11.37:007][777]MaterialEditorStats: Base pass shader: 117 instructions
+[2018.01.28-00.11.37:007][777]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 191 instructions
+[2018.01.28-00.11.37:007][777]MaterialEditorStats: Vertex shader: 31 instructions
+[2018.01.28-00.11.37:007][777]MaterialEditorStats: Texture samplers: 7/16
+[2018.01.28-00.11.37:007][777]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2018.01.28-00.11.37:849][850]LogMaterialEditor: Saving and Compiling material ReactorTarget
+[2018.01.28-00.11.37:861][850]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Geometry/Mats/Reactor/ReactorTarget" FILE="../../../../../../../StandBy/StandBy/GGJGame/Content/Geometry/Mats/Reactor/ReactorTarget.uasset" SILENT=true
+[2018.01.28-00.11.37:866][850]LogSavePackage: Save=2.48ms
+[2018.01.28-00.11.37:866][850]LogSavePackage: Moving '../../../../../../../StandBy/StandBy/GGJGame/Saved/ReactorTarget0CFDB4544B608E8D861F4BACDBE3D6E7.tmp' to '../../../../../../../StandBy/StandBy/GGJGame/Content/Geometry/Mats/Reactor/ReactorTarget.uasset'
+[2018.01.28-00.11.37:867][850]LogSavePackage: Display: Finished SavePackage ../../../../../../../StandBy/StandBy/GGJGame/Content/Geometry/Mats/Reactor/ReactorTarget.uasset
+[2018.01.28-00.12.02:868][707]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 ../../../../../../../StandBy/ArtAssets/Reactor/Objs/Reactor2.obj)
+[2018.01.28-00.12.02:981][707]LogFbx: Loading FBX Scene from ../../../../../../../StandBy/ArtAssets/Reactor/Objs/Reactor2.obj
+[2018.01.28-00.12.03:067][707]LogFbx: FBX Scene Loaded Succesfully
+[2018.01.28-00.12.12:107][707]LogFbx: Loading FBX Scene from ../../../../../../../StandBy/ArtAssets/Reactor/Objs/Reactor2.obj
+[2018.01.28-00.12.12:175][707]LogFbx: FBX Scene Loaded Succesfully
+[2018.01.28-00.12.12:178][707]LogLinker: Can't find file '/Game/Geometry/Meshes/Reactor/initialShadingGroup'
+[2018.01.28-00.12.12:178][707]LogLinker: Can't find file '/Game/Geometry/Meshes/Reactor/initialShadingGroup'
+[2018.01.28-00.12.12:199][707]LogFbx: Warning: Triangulating static mesh pCylinder4
+[2018.01.28-00.12.12:305][707]LogStaticMesh: Building static mesh Reactor2...
+[2018.01.28-00.12.12:406][707]LogStaticMesh: Built static mesh [0.10s] /Game/Geometry/Meshes/Reactor/Reactor2.Reactor2
+[2018.01.28-00.12.22:009][600]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 ../../../../../../../StandBy/ArtAssets/Reactor/Objs/ReactorTarget.obj)
+[2018.01.28-00.12.22:016][600]LogFbx: Loading FBX Scene from ../../../../../../../StandBy/ArtAssets/Reactor/Objs/ReactorTarget.obj
+[2018.01.28-00.12.22:020][600]LogFbx: FBX Scene Loaded Succesfully
+[2018.01.28-00.12.28:108][600]LogFbx: Loading FBX Scene from ../../../../../../../StandBy/ArtAssets/Reactor/Objs/ReactorTarget.obj
+[2018.01.28-00.12.28:112][600]LogFbx: FBX Scene Loaded Succesfully
+[2018.01.28-00.12.28:113][600]LogFbx: Warning: Triangulating static mesh pCylinder14
+[2018.01.28-00.12.28:116][600]LogStaticMesh: Building static mesh ReactorTarget...
+[2018.01.28-00.12.28:125][600]LogStaticMesh: Built static mesh [0.01s] /Game/Geometry/Meshes/Reactor/ReactorTarget.ReactorTarget
+[2018.01.28-00.12.42:119][ 94]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Geometry/Meshes/Reactor/ReactorTarget" FILE="../../../../../../../StandBy/StandBy/GGJGame/Content/Geometry/Meshes/Reactor/ReactorTarget.uasset" SILENT=true
+[2018.01.28-00.12.42:128][ 94]LogSavePackage: Save=7.77ms
+[2018.01.28-00.12.42:128][ 94]LogSavePackage: Moving '../../../../../../../StandBy/StandBy/GGJGame/Saved/ReactorTarget350BC6A14A632CB875B6649DC5CA6820.tmp' to '../../../../../../../StandBy/StandBy/GGJGame/Content/Geometry/Meshes/Reactor/ReactorTarget.uasset'
+[2018.01.28-00.12.42:130][ 94]LogSavePackage: Display: Finished SavePackage ../../../../../../../StandBy/StandBy/GGJGame/Content/Geometry/Meshes/Reactor/ReactorTarget.uasset
+[2018.01.28-00.12.43:931][258]LogRenderer: Reallocating scene render targets to support 1912x1292 Format 10 NumSamples 1 (Frame:688).
+[2018.01.28-00.12.45:316][414]LogActorFactory: Actor Factory created Reactor2
+[2018.01.28-00.12.46:039][490]LogActorFactory: Actor Factory created Reactor2
+[2018.01.28-00.12.56:732][709]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Geometry/Meshes/Reactor/Reactor2" FILE="../../../../../../../StandBy/StandBy/GGJGame/Content/Geometry/Meshes/Reactor/Reactor2.uasset" SILENT=true
+[2018.01.28-00.12.56:752][709]LogSavePackage: Save=8.49ms
+[2018.01.28-00.12.56:752][709]LogSavePackage: Moving '../../../../../../../StandBy/StandBy/GGJGame/Saved/Reactor24C2F9143492343EBEF7688AABC36138E.tmp' to '../../../../../../../StandBy/StandBy/GGJGame/Content/Geometry/Meshes/Reactor/Reactor2.uasset'
+[2018.01.28-00.12.56:753][709]LogSavePackage: Display: Finished SavePackage ../../../../../../../StandBy/StandBy/GGJGame/Content/Geometry/Meshes/Reactor/Reactor2.uasset
+[2018.01.28-00.13.16:388][ 23]LogActorFactory: Actor Factory created Reactor2
+[2018.01.28-00.13.16:858][ 66]LogActorFactory: Actor Factory created Reactor2
+[2018.01.28-00.13.22:064][601]LogActorFactory: Actor Factory created ReactorTarget
+[2018.01.28-00.13.22:827][663]LogActorFactory: Actor Factory created ReactorTarget
+[2018.01.28-00.13.29:472][279]Cmd: DELETE
+[2018.01.28-00.13.29:472][279]Cmd: ACTOR DELETE
+[2018.01.28-00.13.29:613][279]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.01.28-00.13.29:622][279]LogEditorActor: Deleted 1 Actors (0.025 secs)
+[2018.01.28-00.14.25:748][370]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 ../../../../../../../StandBy/ArtAssets/Reactor/Objs/ReactorTarget.obj)
+[2018.01.28-00.14.25:754][370]LogFbx: Loading FBX Scene from ../../../../../../../StandBy/ArtAssets/Reactor/Objs/ReactorTarget.obj
+[2018.01.28-00.14.25:759][370]LogFbx: FBX Scene Loaded Succesfully
+[2018.01.28-00.14.27:535][370]LogFbx: Loading FBX Scene from ../../../../../../../StandBy/ArtAssets/Reactor/Objs/ReactorTarget.obj
+[2018.01.28-00.14.27:541][370]LogFbx: FBX Scene Loaded Succesfully
+[2018.01.28-00.14.27:541][370]LogFbx: Warning: Triangulating static mesh pCylinder14
+[2018.01.28-00.14.27:544][370]LogStaticMesh: Building static mesh ReactorTarget...
+[2018.01.28-00.14.27:553][370]LogStaticMesh: Built static mesh [0.01s] /Game/Geometry/Meshes/Reactor/ReactorTarget.ReactorTarget
+[2018.01.28-00.14.38:063][578]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Geometry/Meshes/Reactor/ReactorTarget" FILE="../../../../../../../StandBy/StandBy/GGJGame/Content/Geometry/Meshes/Reactor/ReactorTarget.uasset" SILENT=true
+[2018.01.28-00.14.38:071][578]LogSavePackage: Save=7.66ms
+[2018.01.28-00.14.38:071][578]LogSavePackage: Moving '../../../../../../../StandBy/StandBy/GGJGame/Saved/ReactorTarget0074925F4AB3854F1FCF60B1A7B1EB10.tmp' to '../../../../../../../StandBy/StandBy/GGJGame/Content/Geometry/Meshes/Reactor/ReactorTarget.uasset'
+[2018.01.28-00.14.38:073][578]LogSavePackage: Display: Finished SavePackage ../../../../../../../StandBy/StandBy/GGJGame/Content/Geometry/Meshes/Reactor/ReactorTarget.uasset
+[2018.01.28-00.14.59:372][108]LogActorFactory: Actor Factory created ReactorTarget
+[2018.01.28-00.14.59:958][172]LogActorFactory: Actor Factory created ReactorTarget
+[2018.01.28-00.15.05:498][793]Cmd: CAMERA ALIGN
+[2018.01.28-00.15.23:948][681]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2018.01.28-00.15.24:479][736]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Reactor2)
+[2018.01.28-00.15.26:336][943]Cmd: DELETE
+[2018.01.28-00.15.26:336][943]Cmd: ACTOR DELETE
+[2018.01.28-00.15.26:338][943]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.01.28-00.15.26:346][943]LogEditorActor: Deleted 1 Actors (0.010 secs)
+[2018.01.28-00.15.26:664][980]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (ReactorTarget)
+[2018.01.28-00.15.26:721][981]Cmd: DELETE
+[2018.01.28-00.15.26:721][981]Cmd: ACTOR DELETE
+[2018.01.28-00.15.26:723][981]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.01.28-00.15.26:730][981]LogEditorActor: Deleted 1 Actors (0.009 secs)
+[2018.01.28-00.15.27:246][ 42]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall3)
+[2018.01.28-00.15.27:662][ 84]LogEditorViewport: Clicking on Actor (LMB): BP_PlatformWithRobot_C (BP_PlatformWithRobot)
+[2018.01.28-00.15.28:153][134]Cmd: CAMERA ALIGN
+[2018.01.28-00.17.34:607][878]LogSavePackage: Save=262.31ms
+[2018.01.28-00.17.34:607][878]LogSavePackage: Moving '../../../../../../../StandBy/StandBy/GGJGame/Saved/FirstPersonExampleMap_Auto158D6E8144B8A864A2E4CD4AC1D0046B8.tmp' to '../../../../../../../StandBy/StandBy/GGJGame/Saved/Autosaves/Game/FirstPersonBP/Maps/FirstPersonExampleMap_Auto1.umap'
+[2018.01.28-00.17.34:608][878]LogSavePackage: Display: Finished SavePackage ../../../../../../../StandBy/StandBy/GGJGame/Saved/Autosaves/Game/FirstPersonBP/Maps/FirstPersonExampleMap_Auto1.umap
+[2018.01.28-00.17.34:609][878]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/FirstPersonBP/Maps/FirstPersonExampleMap' took 0.303
+[2018.01.28-00.17.34:609][878]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.303
+[2018.01.28-00.17.34:611][878]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Geometry/Textures/Reactor/Reactor/Reactor2_initialShadingGroup_BaseColor] ([1] browsable assets)...
+[2018.01.28-00.17.34:618][878]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Geometry/Textures/Reactor/Reactor/Reactor2_initialShadingGroup_BaseColor.Reactor2_initialShadingGroup_BaseColor]
+[2018.01.28-00.17.34:618][878]OBJ SavePackage: Finished generating thumbnails for package [/Game/Geometry/Textures/Reactor/Reactor/Reactor2_initialShadingGroup_BaseColor]
+[2018.01.28-00.17.34:632][878]LogSavePackage: Save=13.31ms
+[2018.01.28-00.17.34:632][878]LogSavePackage: Moving '../../../../../../../StandBy/StandBy/GGJGame/Saved/Reactor2_initialShadingGroup_Bas942745604D1568D0F0DB9C9F81F790B7.tmp' to '../../../../../../../StandBy/StandBy/GGJGame/Saved/Autosaves/Game/Geometry/Textures/Reactor/Reactor/Reactor2_initialShadingGroup_BaseColor_Auto1.uasset'
+[2018.01.28-00.17.34:633][878]LogSavePackage: Display: Finished SavePackage ../../../../../../../StandBy/StandBy/GGJGame/Saved/Autosaves/Game/Geometry/Textures/Reactor/Reactor/Reactor2_initialShadingGroup_BaseColor_Auto1.uasset
+[2018.01.28-00.17.34:634][878]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Geometry/Textures/Reactor/Reactor/Reactor2_initialShadingGroup_Emissive] ([1] browsable assets)...
+[2018.01.28-00.17.34:638][878]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Geometry/Textures/Reactor/Reactor/Reactor2_initialShadingGroup_Emissive.Reactor2_initialShadingGroup_Emissive]
+[2018.01.28-00.17.34:638][878]OBJ SavePackage: Finished generating thumbnails for package [/Game/Geometry/Textures/Reactor/Reactor/Reactor2_initialShadingGroup_Emissive]
+[2018.01.28-00.17.34:648][878]LogSavePackage: Save=9.02ms
+[2018.01.28-00.17.34:648][878]LogSavePackage: Moving '../../../../../../../StandBy/StandBy/GGJGame/Saved/Reactor2_initialShadingGroup_Emi8AEB6DC94D9328942F04D1B127794C93.tmp' to '../../../../../../../StandBy/StandBy/GGJGame/Saved/Autosaves/Game/Geometry/Textures/Reactor/Reactor/Reactor2_initialShadingGroup_Emissive_Auto1.uasset'
+[2018.01.28-00.17.34:649][878]LogSavePackage: Display: Finished SavePackage ../../../../../../../StandBy/StandBy/GGJGame/Saved/Autosaves/Game/Geometry/Textures/Reactor/Reactor/Reactor2_initialShadingGroup_Emissive_Auto1.uasset
+[2018.01.28-00.17.34:650][878]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Geometry/Textures/Reactor/Reactor/Reactor2_initialShadingGroup_Height] ([1] browsable assets)...
+[2018.01.28-00.17.34:656][878]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Geometry/Textures/Reactor/Reactor/Reactor2_initialShadingGroup_Height.Reactor2_initialShadingGroup_Height]
+[2018.01.28-00.17.34:656][878]OBJ SavePackage: Finished generating thumbnails for package [/Game/Geometry/Textures/Reactor/Reactor/Reactor2_initialShadingGroup_Height]
+[2018.01.28-00.17.34:663][878]LogSavePackage: Save=6.22ms
+[2018.01.28-00.17.34:663][878]LogSavePackage: Moving '../../../../../../../StandBy/StandBy/GGJGame/Saved/Reactor2_initialShadingGroup_HeiC735A1D048D4652400789BB47B7AB987.tmp' to '../../../../../../../StandBy/StandBy/GGJGame/Saved/Autosaves/Game/Geometry/Textures/Reactor/Reactor/Reactor2_initialShadingGroup_Height_Auto1.uasset'
+[2018.01.28-00.17.34:664][878]LogSavePackage: Display: Finished SavePackage ../../../../../../../StandBy/StandBy/GGJGame/Saved/Autosaves/Game/Geometry/Textures/Reactor/Reactor/Reactor2_initialShadingGroup_Height_Auto1.uasset
+[2018.01.28-00.17.34:665][878]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Geometry/Textures/Reactor/Reactor/Reactor2_initialShadingGroup_Metallic] ([1] browsable assets)...
+[2018.01.28-00.17.34:671][878]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Geometry/Textures/Reactor/Reactor/Reactor2_initialShadingGroup_Metallic.Reactor2_initialShadingGroup_Metallic]
+[2018.01.28-00.17.34:671][878]OBJ SavePackage: Finished generating thumbnails for package [/Game/Geometry/Textures/Reactor/Reactor/Reactor2_initialShadingGroup_Metallic]
+[2018.01.28-00.17.34:680][878]LogSavePackage: Save=7.16ms
+[2018.01.28-00.17.34:680][878]LogSavePackage: Moving '../../../../../../../StandBy/StandBy/GGJGame/Saved/Reactor2_initialShadingGroup_Met21CA09414011E6853628DDA392255073.tmp' to '../../../../../../../StandBy/StandBy/GGJGame/Saved/Autosaves/Game/Geometry/Textures/Reactor/Reactor/Reactor2_initialShadingGroup_Metallic_Auto1.uasset'
+[2018.01.28-00.17.34:681][878]LogSavePackage: Display: Finished SavePackage ../../../../../../../StandBy/StandBy/GGJGame/Saved/Autosaves/Game/Geometry/Textures/Reactor/Reactor/Reactor2_initialShadingGroup_Metallic_Auto1.uasset
+[2018.01.28-00.17.34:682][878]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Geometry/Textures/Reactor/Reactor/Reactor2_initialShadingGroup_Normal] ([1] browsable assets)...
+[2018.01.28-00.17.34:688][878]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Geometry/Textures/Reactor/Reactor/Reactor2_initialShadingGroup_Normal.Reactor2_initialShadingGroup_Normal]
+[2018.01.28-00.17.34:688][878]OBJ SavePackage: Finished generating thumbnails for package [/Game/Geometry/Textures/Reactor/Reactor/Reactor2_initialShadingGroup_Normal]
+[2018.01.28-00.17.34:701][878]LogSavePackage: Save=12.04ms
+[2018.01.28-00.17.34:701][878]LogSavePackage: Moving '../../../../../../../StandBy/StandBy/GGJGame/Saved/Reactor2_initialShadingGroup_NorB84FD8AA47E6363BD8FCCAAC78AC4C9F.tmp' to '../../../../../../../StandBy/StandBy/GGJGame/Saved/Autosaves/Game/Geometry/Textures/Reactor/Reactor/Reactor2_initialShadingGroup_Normal_Auto1.uasset'
+[2018.01.28-00.17.34:702][878]LogSavePackage: Display: Finished SavePackage ../../../../../../../StandBy/StandBy/GGJGame/Saved/Autosaves/Game/Geometry/Textures/Reactor/Reactor/Reactor2_initialShadingGroup_Normal_Auto1.uasset
+[2018.01.28-00.17.34:703][878]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Geometry/Textures/Reactor/Reactor/Reactor2_initialShadingGroup_Roughness] ([1] browsable assets)...
+[2018.01.28-00.17.34:709][878]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Geometry/Textures/Reactor/Reactor/Reactor2_initialShadingGroup_Roughness.Reactor2_initialShadingGroup_Roughness]
+[2018.01.28-00.17.34:709][878]OBJ SavePackage: Finished generating thumbnails for package [/Game/Geometry/Textures/Reactor/Reactor/Reactor2_initialShadingGroup_Roughness]
+[2018.01.28-00.17.34:719][878]LogSavePackage: Save=8.58ms
+[2018.01.28-00.17.34:719][878]LogSavePackage: Moving '../../../../../../../StandBy/StandBy/GGJGame/Saved/Reactor2_initialShadingGroup_RouD2ADE24149EE30B3BE285DB616812D19.tmp' to '../../../../../../../StandBy/StandBy/GGJGame/Saved/Autosaves/Game/Geometry/Textures/Reactor/Reactor/Reactor2_initialShadingGroup_Roughness_Auto1.uasset'
+[2018.01.28-00.17.34:720][878]LogSavePackage: Display: Finished SavePackage ../../../../../../../StandBy/StandBy/GGJGame/Saved/Autosaves/Game/Geometry/Textures/Reactor/Reactor/Reactor2_initialShadingGroup_Roughness_Auto1.uasset
+[2018.01.28-00.17.34:721][878]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Geometry/Textures/Reactor/ReactorTarget/ReactorTarget_initialShadingGroup_BaseColor] ([1] browsable assets)...
+[2018.01.28-00.17.34:727][878]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Geometry/Textures/Reactor/ReactorTarget/ReactorTarget_initialShadingGroup_BaseColor.ReactorTarget_initialShadingGroup_BaseColor]
+[2018.01.28-00.17.34:727][878]OBJ SavePackage: Finished generating thumbnails for package [/Game/Geometry/Textures/Reactor/ReactorTarget/ReactorTarget_initialShadingGroup_BaseColor]
+[2018.01.28-00.17.34:736][878]LogSavePackage: Save=7.87ms
+[2018.01.28-00.17.34:736][878]LogSavePackage: Moving '../../../../../../../StandBy/StandBy/GGJGame/Saved/ReactorTarget_initialShadingGrou250E3D3845BBF9DCA6DEA5813D2D2526.tmp' to '../../../../../../../StandBy/StandBy/GGJGame/Saved/Autosaves/Game/Geometry/Textures/Reactor/ReactorTarget/ReactorTarget_initialShadingGroup_BaseColor_Auto1.uasset'
+[2018.01.28-00.17.34:737][878]LogSavePackage: Display: Finished SavePackage ../../../../../../../StandBy/StandBy/GGJGame/Saved/Autosaves/Game/Geometry/Textures/Reactor/ReactorTarget/ReactorTarget_initialShadingGroup_BaseColor_Auto1.uasset
+[2018.01.28-00.17.34:738][878]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Geometry/Textures/Reactor/ReactorTarget/ReactorTarget_initialShadingGroup_Height] ([1] browsable assets)...
+[2018.01.28-00.17.34:744][878]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Geometry/Textures/Reactor/ReactorTarget/ReactorTarget_initialShadingGroup_Height.ReactorTarget_initialShadingGroup_Height]
+[2018.01.28-00.17.34:744][878]OBJ SavePackage: Finished generating thumbnails for package [/Game/Geometry/Textures/Reactor/ReactorTarget/ReactorTarget_initialShadingGroup_Height]
+[2018.01.28-00.17.34:749][878]LogSavePackage: Save=4.21ms
+[2018.01.28-00.17.34:749][878]LogSavePackage: Moving '../../../../../../../StandBy/StandBy/GGJGame/Saved/ReactorTarget_initialShadingGrouE803C26245E1993697A725AE3BE932C4.tmp' to '../../../../../../../StandBy/StandBy/GGJGame/Saved/Autosaves/Game/Geometry/Textures/Reactor/ReactorTarget/ReactorTarget_initialShadingGroup_Height_Auto1.uasset'
+[2018.01.28-00.17.34:750][878]LogSavePackage: Display: Finished SavePackage ../../../../../../../StandBy/StandBy/GGJGame/Saved/Autosaves/Game/Geometry/Textures/Reactor/ReactorTarget/ReactorTarget_initialShadingGroup_Height_Auto1.uasset
+[2018.01.28-00.17.34:751][878]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Geometry/Textures/Reactor/ReactorTarget/ReactorTarget_initialShadingGroup_Metallic] ([1] browsable assets)...
+[2018.01.28-00.17.34:757][878]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Geometry/Textures/Reactor/ReactorTarget/ReactorTarget_initialShadingGroup_Metallic.ReactorTarget_initialShadingGroup_Metallic]
+[2018.01.28-00.17.34:757][878]OBJ SavePackage: Finished generating thumbnails for package [/Game/Geometry/Textures/Reactor/ReactorTarget/ReactorTarget_initialShadingGroup_Metallic]
+[2018.01.28-00.17.34:763][878]LogSavePackage: Save=4.96ms
+[2018.01.28-00.17.34:763][878]LogSavePackage: Moving '../../../../../../../StandBy/StandBy/GGJGame/Saved/ReactorTarget_initialShadingGrou6A8ECBC943AC5D3FFA2758864D002858.tmp' to '../../../../../../../StandBy/StandBy/GGJGame/Saved/Autosaves/Game/Geometry/Textures/Reactor/ReactorTarget/ReactorTarget_initialShadingGroup_Metallic_Auto1.uasset'
+[2018.01.28-00.17.34:764][878]LogSavePackage: Display: Finished SavePackage ../../../../../../../StandBy/StandBy/GGJGame/Saved/Autosaves/Game/Geometry/Textures/Reactor/ReactorTarget/ReactorTarget_initialShadingGroup_Metallic_Auto1.uasset
+[2018.01.28-00.17.34:765][878]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Geometry/Textures/Reactor/ReactorTarget/ReactorTarget_initialShadingGroup_Normal] ([1] browsable assets)...
+[2018.01.28-00.17.34:771][878]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Geometry/Textures/Reactor/ReactorTarget/ReactorTarget_initialShadingGroup_Normal.ReactorTarget_initialShadingGroup_Normal]
+[2018.01.28-00.17.34:771][878]OBJ SavePackage: Finished generating thumbnails for package [/Game/Geometry/Textures/Reactor/ReactorTarget/ReactorTarget_initialShadingGroup_Normal]
+[2018.01.28-00.17.34:779][878]LogSavePackage: Save=7.01ms
+[2018.01.28-00.17.34:779][878]LogSavePackage: Moving '../../../../../../../StandBy/StandBy/GGJGame/Saved/ReactorTarget_initialShadingGrouA1CCCF2649A4CD9A8C20AFB594C8F8B9.tmp' to '../../../../../../../StandBy/StandBy/GGJGame/Saved/Autosaves/Game/Geometry/Textures/Reactor/ReactorTarget/ReactorTarget_initialShadingGroup_Normal_Auto1.uasset'
+[2018.01.28-00.17.34:781][878]LogSavePackage: Display: Finished SavePackage ../../../../../../../StandBy/StandBy/GGJGame/Saved/Autosaves/Game/Geometry/Textures/Reactor/ReactorTarget/ReactorTarget_initialShadingGroup_Normal_Auto1.uasset
+[2018.01.28-00.17.34:782][878]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Geometry/Textures/Reactor/ReactorTarget/ReactorTarget_initialShadingGroup_Roughness] ([1] browsable assets)...
+[2018.01.28-00.17.34:788][878]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Geometry/Textures/Reactor/ReactorTarget/ReactorTarget_initialShadingGroup_Roughness.ReactorTarget_initialShadingGroup_Roughness]
+[2018.01.28-00.17.34:788][878]OBJ SavePackage: Finished generating thumbnails for package [/Game/Geometry/Textures/Reactor/ReactorTarget/ReactorTarget_initialShadingGroup_Roughness]
+[2018.01.28-00.17.34:795][878]LogSavePackage: Save=6.42ms
+[2018.01.28-00.17.34:795][878]LogSavePackage: Moving '../../../../../../../StandBy/StandBy/GGJGame/Saved/ReactorTarget_initialShadingGrou4DD08D7147E6FB9FCBF805A8663DD997.tmp' to '../../../../../../../StandBy/StandBy/GGJGame/Saved/Autosaves/Game/Geometry/Textures/Reactor/ReactorTarget/ReactorTarget_initialShadingGroup_Roughness_Auto1.uasset'
+[2018.01.28-00.17.34:796][878]LogSavePackage: Display: Finished SavePackage ../../../../../../../StandBy/StandBy/GGJGame/Saved/Autosaves/Game/Geometry/Textures/Reactor/ReactorTarget/ReactorTarget_initialShadingGroup_Roughness_Auto1.uasset
+[2018.01.28-00.17.34:798][878]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Geometry/Meshes/Reactor/initialShadingGroup] ([1] browsable assets)...
+[2018.01.28-00.17.34:807][878]OBJ SavePackage:     Rendered thumbnail for [MaterialInstanceConstant /Game/Geometry/Meshes/Reactor/initialShadingGroup.initialShadingGroup]
+[2018.01.28-00.17.34:807][878]OBJ SavePackage: Finished generating thumbnails for package [/Game/Geometry/Meshes/Reactor/initialShadingGroup]
+[2018.01.28-00.17.34:821][878]LogSavePackage: Save=11.83ms
+[2018.01.28-00.17.34:821][878]LogSavePackage: Moving '../../../../../../../StandBy/StandBy/GGJGame/Saved/initialShadingGroup_Auto1F017336041BD46E5128A5C856F1D3209.tmp' to '../../../../../../../StandBy/StandBy/GGJGame/Saved/Autosaves/Game/Geometry/Meshes/Reactor/initialShadingGroup_Auto1.uasset'
+[2018.01.28-00.17.34:821][878]LogSavePackage: Display: Finished SavePackage ../../../../../../../StandBy/StandBy/GGJGame/Saved/Autosaves/Game/Geometry/Meshes/Reactor/initialShadingGroup_Auto1.uasset
+[2018.01.28-00.17.34:822][878]LogFileHelpers: Auto-saving content packages took 0.211
+[2018.01.28-00.26.13:756][457]LogEditorViewport: Clicking on Actor (LMB): FirstPersonCharacter_C (FirstRobot)
+[2018.01.28-00.26.17:226][797]LogEditorViewport: Clicking on Actor (LMB): FirstPersonCharacter_C (FirstRobot)
+[2018.01.28-00.26.17:750][851]LogEditorViewport: Clicking Background
+[2018.01.28-00.26.18:102][888]LogEditorViewport: Clicking on Actor (LMB): FirstPersonCharacter_C (FirstRobot)
+[2018.01.28-00.26.22:032][296]LogSlate: Took 0.018572 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2018.01.28-00.26.33:486][485]LogContentBrowser: Native class hierarchy updated for 'SkeletonEditor' in 0.0003 seconds. Added 1 classes and 2 folders.
+[2018.01.28-00.26.33:524][485]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_15:PersistentLevel.Actor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2018.01.28-00.26.33:704][485]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_15:PersistentLevel.Actor_0.DebugSkelMeshComponent_0) - call TermArticulated first.
+[2018.01.28-00.26.34:181][485]LogContentBrowser: Native class hierarchy updated for 'ClothingSystemEditorInterface' in 0.0004 seconds. Added 1 classes and 0 folders.
+[2018.01.28-00.26.42:765][349]LogEditorViewport: Clicking Background
+[2018.01.28-00.26.46:994][826]LogTemp: Repeating last play command: Selected Viewport
+[2018.01.28-00.26.47:112][826]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2018.01.28-00.26.47:119][826]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.01.28-00.26.47:180][826]PIE: New page: PIE session: FirstPersonExampleMap (Jan 27, 2018, 8:26:47 AM)
+[2018.01.28-00.26.47:192][826]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2018.01.28-00.26.47:210][826]LogPlayLevel: PIE: StaticDuplicateObject took: (0.018698s)
+[2018.01.28-00.26.47:211][826]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2018.01.28-00.26.47:211][826]LogPlayLevel: PIE: World Init took: (0.000928s)
+[2018.01.28-00.26.47:212][826]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap to /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap (0.019948s)
+[2018.01.28-00.26.47:239][826]LogInit: XAudio2 using 'Speakers (2- High Definition Audio Device)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.01.28-00.26.47:243][826]LogInit: FAudioDevice initialized.
+[2018.01.28-00.26.47:289][826]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2018.01.28-00.26.47:292][826]PIE: Warning: Invalid Simulate Options: Body (BP_CouchPhysics_342.CouchPreview 1M_Cube) is set to simulate physics but Collision Enabled is incompatible
+[2018.01.28-00.26.47:292][826]PIE: Warning: Invalid Simulate Options: Body (BP_MovingObject_162.CouchPreview 1M_Cube) is set to simulate physics but Collision Enabled is incompatible
+[2018.01.28-00.26.47:300][826]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap up for play (max tick rate 0) at 2018.01.27-16.26.47
+[2018.01.28-00.26.47:310][826]LogWorld: Bringing up level for play took: 0.019217
+[2018.01.28-00.26.47:439][826]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0004 seconds. Added 11 classes and 0 folders.
+[2018.01.28-00.26.47:498][826]PIE: Play in editor start time for /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap 0.422
+[2018.01.28-00.26.47:498][826]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2018.01.28-00.26.48:021][861]PIE: Warning: Mobility of /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.BigWall_21 : StaticMeshComponent0 has to be 'Movable' if you'd like to AddImpulseAtLocation. 
+[2018.01.28-00.26.49:632][ 53]PIE: Warning: Mobility of /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.Wall3_19 : StaticMeshComponent0 has to be 'Movable' if you'd like to AddImpulseAtLocation. 
+[2018.01.28-00.26.55:376][740]PIE: Warning: SecondRobot.SkeletalMesh Idle has to have 'Simulate Physics' enabled if you'd like to AddImpulseAtLocation. 
+[2018.01.28-00.26.55:717][781]PIE: Warning: SecondRobot.SkeletalMesh Idle has to have 'Simulate Physics' enabled if you'd like to AddImpulseAtLocation. 
+[2018.01.28-00.26.56:035][819]PIE: Warning: SecondRobot.SkeletalMesh Idle has to have 'Simulate Physics' enabled if you'd like to AddImpulseAtLocation. 
+[2018.01.28-00.27.03:021][657]PIE: Warning: BP_DoorTrigger2.TriggerBox has to have 'Simulate Physics' enabled if you'd like to AddImpulseAtLocation. 
+[2018.01.28-00.27.03:358][694]PIE: Warning: BP_DoorTrigger2.TriggerBox has to have 'Simulate Physics' enabled if you'd like to AddImpulseAtLocation. 
+[2018.01.28-00.27.03:674][732]PIE: Warning: BP_DoorTrigger2.TriggerBox has to have 'Simulate Physics' enabled if you'd like to AddImpulseAtLocation. 
+[2018.01.28-00.27.25:395][335]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2018.01.28-00.27.25:426][335]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2018.01.28-00.28.12:626][889]LogSavePackage: Save=94.84ms
+[2018.01.28-00.28.12:626][889]LogSavePackage: Moving '../../../../../../../StandBy/StandBy/GGJGame/Saved/ReactorTarget_initialShadingGrouFD3BDCC846B1619BCD17E0A0BFE06CD1.tmp' to '../../../../../../../StandBy/StandBy/GGJGame/Content/Geometry/Textures/Reactor/ReactorTarget/ReactorTarget_initialShadingGroup_BaseColor.uasset'
+[2018.01.28-00.28.12:627][889]LogSavePackage: Display: Finished SavePackage ../../../../../../../StandBy/StandBy/GGJGame/Content/Geometry/Textures/Reactor/ReactorTarget/ReactorTarget_initialShadingGroup_BaseColor.uasset
+[2018.01.28-00.28.12:656][889]LogSavePackage: Save=15.77ms
+[2018.01.28-00.28.12:656][889]LogSavePackage: Moving '../../../../../../../StandBy/StandBy/GGJGame/Saved/ReactorTarget_initialShadingGrou88D623F443B70DFB85E3BB87FE3F3494.tmp' to '../../../../../../../StandBy/StandBy/GGJGame/Content/Geometry/Textures/Reactor/ReactorTarget/ReactorTarget_initialShadingGroup_Height.uasset'
+[2018.01.28-00.28.12:658][889]LogSavePackage: Display: Finished SavePackage ../../../../../../../StandBy/StandBy/GGJGame/Content/Geometry/Textures/Reactor/ReactorTarget/ReactorTarget_initialShadingGroup_Height.uasset
+[2018.01.28-00.28.12:702][889]LogSavePackage: Save=31.46ms
+[2018.01.28-00.28.12:702][889]LogSavePackage: Moving '../../../../../../../StandBy/StandBy/GGJGame/Saved/ReactorTarget_initialShadingGrou62ED4E37405D52E841AD1D9107F2D312.tmp' to '../../../../../../../StandBy/StandBy/GGJGame/Content/Geometry/Textures/Reactor/ReactorTarget/ReactorTarget_initialShadingGroup_Metallic.uasset'
+[2018.01.28-00.28.12:704][889]LogSavePackage: Display: Finished SavePackage ../../../../../../../StandBy/StandBy/GGJGame/Content/Geometry/Textures/Reactor/ReactorTarget/ReactorTarget_initialShadingGroup_Metallic.uasset
+[2018.01.28-00.28.12:792][889]LogSavePackage: Save=77.24ms
+[2018.01.28-00.28.12:792][889]LogSavePackage: Moving '../../../../../../../StandBy/StandBy/GGJGame/Saved/ReactorTarget_initialShadingGrou2E41B6414C0DBE51BEA39E99E8FC8CBC.tmp' to '../../../../../../../StandBy/StandBy/GGJGame/Content/Geometry/Textures/Reactor/ReactorTarget/ReactorTarget_initialShadingGroup_Normal.uasset'
+[2018.01.28-00.28.12:794][889]LogSavePackage: Display: Finished SavePackage ../../../../../../../StandBy/StandBy/GGJGame/Content/Geometry/Textures/Reactor/ReactorTarget/ReactorTarget_initialShadingGroup_Normal.uasset
+[2018.01.28-00.28.12:851][889]LogSavePackage: Save=44.62ms
+[2018.01.28-00.28.12:851][889]LogSavePackage: Moving '../../../../../../../StandBy/StandBy/GGJGame/Saved/ReactorTarget_initialShadingGrou1264F69D4385B0C6D584D5BF7D5C7C6C.tmp' to '../../../../../../../StandBy/StandBy/GGJGame/Content/Geometry/Textures/Reactor/ReactorTarget/ReactorTarget_initialShadingGroup_Roughness.uasset'
+[2018.01.28-00.28.12:853][889]LogSavePackage: Display: Finished SavePackage ../../../../../../../StandBy/StandBy/GGJGame/Content/Geometry/Textures/Reactor/ReactorTarget/ReactorTarget_initialShadingGroup_Roughness.uasset
+[2018.01.28-00.28.15:559][148]LogSavePackage: Save=390.58ms
+[2018.01.28-00.28.15:559][148]LogSavePackage: Moving '../../../../../../../StandBy/StandBy/GGJGame/Saved/Reactor2_initialShadingGroup_BasA80F6B25463BD5091B3CDBBDD72ED9BE.tmp' to '../../../../../../../StandBy/StandBy/GGJGame/Content/Geometry/Textures/Reactor/Reactor/Reactor2_initialShadingGroup_BaseColor.uasset'
+[2018.01.28-00.28.15:560][148]LogSavePackage: Display: Finished SavePackage ../../../../../../../StandBy/StandBy/GGJGame/Content/Geometry/Textures/Reactor/Reactor/Reactor2_initialShadingGroup_BaseColor.uasset
+[2018.01.28-00.28.15:686][148]LogSavePackage: Save=115.78ms
+[2018.01.28-00.28.15:686][148]LogSavePackage: Moving '../../../../../../../StandBy/StandBy/GGJGame/Saved/Reactor2_initialShadingGroup_Emi17C200774089E0CC325ACCB748E63546.tmp' to '../../../../../../../StandBy/StandBy/GGJGame/Content/Geometry/Textures/Reactor/Reactor/Reactor2_initialShadingGroup_Emissive.uasset'
+[2018.01.28-00.28.15:688][148]LogSavePackage: Display: Finished SavePackage ../../../../../../../StandBy/StandBy/GGJGame/Content/Geometry/Textures/Reactor/Reactor/Reactor2_initialShadingGroup_Emissive.uasset
+[2018.01.28-00.28.15:742][148]LogSavePackage: Save=44.01ms
+[2018.01.28-00.28.15:742][148]LogSavePackage: Moving '../../../../../../../StandBy/StandBy/GGJGame/Saved/Reactor2_initialShadingGroup_Hei7CF28FCA41127C67245683A6D3A79273.tmp' to '../../../../../../../StandBy/StandBy/GGJGame/Content/Geometry/Textures/Reactor/Reactor/Reactor2_initialShadingGroup_Height.uasset'
+[2018.01.28-00.28.15:744][148]LogSavePackage: Display: Finished SavePackage ../../../../../../../StandBy/StandBy/GGJGame/Content/Geometry/Textures/Reactor/Reactor/Reactor2_initialShadingGroup_Height.uasset
+[2018.01.28-00.28.15:883][148]LogSavePackage: Save=127.71ms
+[2018.01.28-00.28.15:883][148]LogSavePackage: Moving '../../../../../../../StandBy/StandBy/GGJGame/Saved/Reactor2_initialShadingGroup_MetD30E71624BEBBD84F4641D9A5DAF3BAA.tmp' to '../../../../../../../StandBy/StandBy/GGJGame/Content/Geometry/Textures/Reactor/Reactor/Reactor2_initialShadingGroup_Metallic.uasset'
+[2018.01.28-00.28.15:884][148]LogSavePackage: Display: Finished SavePackage ../../../../../../../StandBy/StandBy/GGJGame/Content/Geometry/Textures/Reactor/Reactor/Reactor2_initialShadingGroup_Metallic.uasset
+[2018.01.28-00.28.16:224][148]LogSavePackage: Save=329.56ms
+[2018.01.28-00.28.16:224][148]LogSavePackage: Moving '../../../../../../../StandBy/StandBy/GGJGame/Saved/Reactor2_initialShadingGroup_NorFD411E414F9A2EBB999E6A95501821C2.tmp' to '../../../../../../../StandBy/StandBy/GGJGame/Content/Geometry/Textures/Reactor/Reactor/Reactor2_initialShadingGroup_Normal.uasset'
+[2018.01.28-00.28.16:226][148]LogSavePackage: Display: Finished SavePackage ../../../../../../../StandBy/StandBy/GGJGame/Content/Geometry/Textures/Reactor/Reactor/Reactor2_initialShadingGroup_Normal.uasset
+[2018.01.28-00.28.16:389][148]LogSavePackage: Save=153.96ms
+[2018.01.28-00.28.16:389][148]LogSavePackage: Moving '../../../../../../../StandBy/StandBy/GGJGame/Saved/Reactor2_initialShadingGroup_Rou0617F4FE4C5C740F5234CCBEFFAEEF1C.tmp' to '../../../../../../../StandBy/StandBy/GGJGame/Content/Geometry/Textures/Reactor/Reactor/Reactor2_initialShadingGroup_Roughness.uasset'
+[2018.01.28-00.28.16:391][148]LogSavePackage: Display: Finished SavePackage ../../../../../../../StandBy/StandBy/GGJGame/Content/Geometry/Textures/Reactor/Reactor/Reactor2_initialShadingGroup_Roughness.uasset
+>>>>>>> ab6e9e13b820bb72e9ebc8feac5e0479268b6590
